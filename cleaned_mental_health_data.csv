@@ -1,0 +1,1260 @@
+age,gender,country,state,is_self_employed,family_history,treatment,work_interfere,num_employees,remote_work,is_tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_conseq,physical_health_conseq,coworkers,supervisor,mental_health_interview,physical_health_interview,mental_vs_physical,observed_consequence,age_group,continent,country_grouped
+37,Female,United States,IL,Unknown,No,Yes,Often,6-25,No,Yes,Yes,Unknown,No,Yes,Yes,1,No,No,Unsure,Yes,No,Unsure,Yes,No,35-44,North America,United States
+44,Male,United States,IN,Unknown,No,No,Rarely,More than 1000,No,No,Unknown,No,Unknown,Unknown,Unknown,4,Unsure,No,No,No,No,No,Unknown,No,35-44,North America,United States
+32,Male,Canada,UNKNOWN,Unknown,No,No,Rarely,6-25,No,Yes,No,No,No,No,Unknown,2,No,No,Yes,Yes,Yes,Yes,No,No,25-34,North America,Canada
+31,Male,United Kingdom,UNKNOWN,Unknown,Yes,Yes,Often,26-100,No,Yes,No,Yes,No,No,No,2,Yes,Yes,Unsure,No,Unsure,Unsure,No,Yes,25-34,Europe,United Kingdom
+31,Male,United States,TX,Unknown,No,No,Never,100-500,Yes,Yes,Yes,No,Unknown,Unknown,Unknown,4,No,No,Unsure,Yes,Yes,Yes,Unknown,No,25-34,North America,United States
+33,Male,United States,TN,Unknown,Yes,No,Sometimes,6-25,No,Yes,Yes,Unknown,No,Unknown,Unknown,4,No,No,Yes,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+35,Female,United States,MI,Unknown,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,No,2,Unsure,Unsure,Unsure,No,No,No,Unknown,No,35-44,North America,United States
+39,Male,Canada,UNKNOWN,Unknown,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Yes,4,No,No,No,No,No,No,No,No,35-44,North America,Canada
+42,Female,United States,IL,Unknown,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,No,3,Unsure,No,Yes,Yes,No,Unsure,No,No,35-44,North America,United States
+23,Male,Canada,UNKNOWN,Unknown,No,No,Never,26-100,No,Yes,Unknown,No,Unknown,Unknown,Unknown,4,No,No,Yes,Yes,Unsure,Unsure,Yes,No,18-24,North America,Canada
+31,Male,United States,OH,Unknown,No,Yes,Sometimes,6-25,Yes,Yes,Unknown,No,No,No,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+29,Male,Bulgaria,UNKNOWN,Unknown,No,No,Never,100-500,Yes,Yes,Unknown,Unknown,No,No,Unknown,4,No,No,Yes,Yes,Yes,Yes,Unknown,No,25-34,Europe,Other
+42,Female,United States,CA,Unknown,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Unknown,2,Yes,Yes,Yes,Yes,Unsure,Unsure,No,Yes,35-44,North America,United States
+36,Male,United States,CT,Unknown,Yes,No,Never,500-1000,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,No,No,Yes,Yes,No,No,Unknown,No,35-44,North America,United States
+27,Male,Canada,UNKNOWN,Unknown,No,No,Never,6-25,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,1,No,No,Unsure,Unsure,Unsure,Yes,Yes,No,25-34,North America,Canada
+29,Female,United States,IL,Unknown,Yes,Yes,Rarely,26-100,No,Yes,Yes,Unknown,No,No,Unknown,1,No,No,Yes,Unsure,Unsure,Unsure,Unknown,No,25-34,North America,United States
+23,Male,United Kingdom,UNKNOWN,Unknown,No,Yes,Sometimes,26-100,Yes,Yes,Unknown,No,Unknown,Unknown,Unknown,0,Unsure,No,Unsure,No,Unsure,Unsure,No,No,18-24,Europe,United Kingdom
+32,Male,United States,TN,Unknown,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,Unknown,Unknown,4,Unsure,No,Unsure,Yes,No,No,No,No,25-34,North America,United States
+46,Male,United States,MD,Yes,Yes,No,Sometimes,1-5,Yes,Yes,Yes,Unknown,Yes,Unknown,Yes,0,No,No,Yes,Yes,No,Yes,Yes,Yes,45-54,North America,United States
+36,Male,France,UNKNOWN,Yes,Yes,No,Unknown,6-25,Yes,Yes,No,No,Yes,No,Yes,1,No,No,Unsure,Unsure,Unsure,Unsure,Unknown,No,35-44,Europe,France
+29,Male,United States,NY,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,No,2,Unsure,No,Unsure,Unsure,No,No,No,No,25-34,North America,United States
+31,Male,United States,NC,Yes,No,No,Never,1-5,Yes,Yes,No,No,No,No,Yes,2,No,No,Unsure,Unsure,No,Unsure,Yes,No,25-34,North America,United States
+46,Male,United States,MA,No,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Unknown,4,Unsure,No,Unsure,Yes,No,Unsure,No,No,45-54,North America,United States
+41,Male,United States,IA,No,No,Yes,Never,More than 1000,No,No,Unknown,No,No,Unknown,Unknown,4,Unsure,No,No,No,No,Yes,Unknown,No,35-44,North America,United States
+33,Male,United States,CA,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Unknown,Unknown,Yes,Yes,4,No,No,Yes,Yes,No,Yes,Unknown,No,25-34,North America,United States
+35,Male,United States,TN,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,No,Unknown,No,0,Yes,No,Unsure,Yes,No,Yes,No,No,35-44,North America,United States
+33,Male,United States,TN,No,No,No,Unknown,1-5,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,Unsure,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+35,Female,United States,CA,No,Yes,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,Unknown,Unknown,Unknown,4,No,No,Yes,Yes,Unsure,Unsure,Yes,No,35-44,North America,United States
+34,Male,United States,OH,No,No,Yes,Sometimes,26-100,Yes,Yes,Unknown,Unknown,No,Unknown,Unknown,2,No,No,Unsure,No,No,No,No,No,25-34,North America,United States
+37,Male,United Kingdom,UNKNOWN,No,No,No,Sometimes,6-25,No,Yes,No,No,No,No,Unknown,3,Yes,Unsure,Unsure,No,No,Unsure,No,No,35-44,Europe,United Kingdom
+32,Male,United Kingdom,UNKNOWN,No,No,No,Never,6-25,Yes,Yes,No,No,No,No,Unknown,4,Yes,Yes,Unsure,Unsure,No,Unsure,No,No,25-34,Europe,United Kingdom
+31,Male,United States,PA,Yes,Yes,No,Rarely,1-5,Yes,Yes,No,Yes,No,No,Unknown,2,Yes,No,No,No,No,No,No,Yes,25-34,North America,United States
+30,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,500-1000,Yes,Yes,Unknown,No,No,No,Yes,1,Unsure,No,Unsure,Yes,No,Yes,Unknown,No,25-34,Europe,United Kingdom
+42,Male,United States,WA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Unsure,No,Unsure,Unsure,Unsure,Yes,Unknown,No,35-44,North America,United States
+40,Female,United States,WI,No,No,Yes,Sometimes,1-5,No,Yes,Yes,Yes,No,No,Unknown,4,Unsure,No,Unsure,No,No,Unsure,Yes,No,35-44,North America,United States
+27,Male,United States,NY,No,No,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Unknown,0,No,No,Yes,Yes,Unsure,Unsure,Unknown,No,25-34,North America,United States
+29,Male,Canada,UNKNOWN,No,No,No,Rarely,1-5,No,Yes,No,No,No,No,Unknown,0,Yes,Unsure,Unsure,No,No,No,Unknown,No,25-34,North America,Canada
+38,Male,Portugal,UNKNOWN,No,No,No,Unknown,100-500,No,Yes,No,Yes,No,No,Unknown,1,Unsure,No,Unsure,Unsure,No,Unsure,No,No,35-44,Europe,Other
+50,Male,United States,IN,No,No,No,Unknown,100-500,No,Yes,Yes,Yes,No,Unknown,Unknown,4,No,No,Unsure,Yes,No,Unsure,Unknown,No,45-54,North America,United States
+35,Male,United States,TX,No,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,Yes,Yes,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,35-44,North America,United States
+24,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Unknown,4,Unsure,Unsure,Unsure,No,No,Yes,No,Yes,18-24,Europe,United Kingdom
+35,Male,United States,MI,No,No,No,Unknown,More than 1000,Yes,Yes,Yes,Unknown,Unknown,Yes,Unknown,2,Yes,Yes,Unsure,No,No,Unsure,Unknown,No,35-44,North America,United States
+27,Male,Canada,UNKNOWN,No,Yes,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,Yes,3,Unsure,No,Unsure,No,No,No,Yes,No,25-34,North America,Canada
+18,Male,Netherlands,UNKNOWN,No,No,No,Often,6-25,No,Yes,No,Unknown,No,No,Unknown,2,Yes,Unsure,No,Unsure,No,No,No,No,18-24,Europe,Netherlands
+30,Male,United States,IN,No,No,Yes,Sometimes,26-100,No,Yes,Unknown,No,No,No,Unknown,4,No,No,No,No,No,Unsure,Unknown,No,25-34,North America,United States
+38,Female,United States,TX,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Yes,Yes,1,No,No,Unsure,Yes,No,No,Yes,No,35-44,North America,United States
+28,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,4,No,Unsure,Unsure,Yes,Unsure,Yes,Unknown,No,25-34,Europe,United Kingdom
+34,Male,United States,TN,No,No,No,Unknown,6-25,No,Yes,No,No,No,No,Unknown,4,No,No,Yes,Yes,Unsure,Yes,Unknown,No,25-34,North America,United States
+26,Male,Canada,UNKNOWN,Yes,No,No,Sometimes,1-5,No,Yes,No,Yes,Yes,No,Unknown,4,No,No,Yes,Yes,No,No,Yes,No,25-34,North America,Canada
+30,Male,United States,IL,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,No,No,Unknown,Unknown,4,Unsure,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+22,Male,United States,TX,No,Yes,Yes,Often,6-25,No,Yes,No,Yes,No,No,Yes,3,Unsure,No,No,No,No,Unsure,Unknown,No,18-24,North America,United States
+33,Male,United States,UT,No,No,No,Unknown,100-500,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,Unknown,No,25-34,North America,United States
+31,Male,United States,UNKNOWN,No,No,No,Unknown,100-500,Yes,Yes,Unknown,No,Unknown,Unknown,Unknown,4,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Unknown,No,25-34,North America,United States
+32,Male,United States,TN,No,No,No,Never,1-5,Yes,Yes,Unknown,Unknown,No,No,Unknown,4,Unsure,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+28,Male,Switzerland,UNKNOWN,No,No,No,Unknown,100-500,No,Yes,No,No,No,No,Unknown,4,No,No,No,No,No,Unsure,Unknown,No,25-34,Europe,Other
+27,Male,United States,NY,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Yes,No,No,Yes,4,Unsure,No,No,No,No,No,Unknown,No,25-34,North America,United States
+32,Male,United States,TN,No,Yes,No,Unknown,6-25,Yes,Yes,Unknown,No,No,No,Unknown,1,No,No,Yes,Yes,No,No,Yes,No,25-34,North America,United States
+24,Male,United States,NY,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Unknown,No,No,No,Unknown,4,No,Unsure,Unsure,Yes,Yes,Yes,No,No,18-24,North America,United States
+26,Male,United States,TN,No,No,No,Unknown,26-100,No,No,No,No,No,No,Yes,1,No,No,Unsure,Yes,Unsure,Yes,Unknown,No,25-34,North America,United States
+33,Male,Canada,UNKNOWN,No,Yes,Yes,Often,6-25,Yes,Yes,Unknown,No,No,No,No,2,Yes,No,No,No,No,Unsure,Unknown,No,25-34,North America,Canada
+44,Male,United States,IA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,No,No,Unknown,Unknown,4,Yes,Unsure,Unsure,No,No,Unsure,Unknown,Yes,35-44,North America,United States
+26,Female,Poland,UNKNOWN,No,No,Yes,Sometimes,26-100,Yes,Yes,Unknown,Unknown,Yes,Yes,Yes,0,No,No,Yes,Yes,Unsure,Yes,Yes,No,25-34,Europe,Other
+27,Male,United Kingdom,UNKNOWN,No,No,No,Never,100-500,No,Yes,Yes,Unknown,No,Yes,Unknown,1,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,Europe,United Kingdom
+26,Male,France,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,No,No,No,No,Unknown,0,Yes,No,No,No,No,No,No,Yes,25-34,Europe,France
+35,Male,Canada,UNKNOWN,No,No,No,Sometimes,6-25,No,Yes,Unknown,No,No,No,Unknown,1,No,No,Unsure,Yes,No,Unsure,Unknown,No,35-44,North America,Canada
+40,Male,United States,CA,No,Yes,No,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,4,Yes,Unsure,Unsure,No,No,No,No,Yes,35-44,North America,United States
+23,Female,Australia,UNKNOWN,No,Yes,Yes,Often,1-5,Yes,Yes,No,Unknown,No,No,Unknown,0,No,No,Unsure,Yes,No,Unsure,Yes,No,18-24,Oceania,Australia
+36,Male,United States,TX,No,No,No,Sometimes,100-500,Yes,Yes,Yes,No,Unknown,Yes,Unknown,4,Unsure,No,Unsure,Unsure,Unsure,Yes,Yes,No,35-44,North America,United States
+31,Female,United States,NM,No,No,No,Unknown,26-100,Yes,No,Unknown,No,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+34,Male,United States,NY,Yes,No,No,Rarely,1-5,Yes,Yes,No,No,No,No,Unknown,4,Unsure,No,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+28,Male,France,UNKNOWN,No,No,No,Never,26-100,No,Yes,No,No,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Unknown,No,25-34,Europe,France
+34,Male,Canada,UNKNOWN,No,No,No,Never,6-25,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,1,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,Canada
+23,Others,United States,MA,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Yes,2,Unsure,No,Yes,Yes,No,No,No,No,18-24,North America,United States
+38,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,No,No,No,Unknown,Yes,1,No,No,Unsure,Yes,Unsure,Yes,Yes,No,35-44,Europe,United Kingdom
+33,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Unknown,Unknown,Yes,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,Unsure,Yes,No,25-34,North America,United States
+19,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,1-5,No,Yes,No,Yes,No,No,No,2,Yes,No,No,No,No,Unsure,No,No,18-24,Europe,United Kingdom
+25,Male,United States,WA,No,No,No,Unknown,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,4,No,No,Yes,Yes,Unsure,Yes,Yes,No,25-34,North America,United States
+31,Male,United States,WA,Yes,Yes,No,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,2,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+32,Male,United States,UT,No,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Unknown,2,Yes,No,Unsure,No,No,Yes,No,No,25-34,North America,United States
+28,Male,Germany,UNKNOWN,No,No,No,Never,6-25,Yes,Yes,Unknown,No,Unknown,Unknown,Unknown,0,No,No,Unsure,Unsure,Unsure,Yes,Yes,No,25-34,Europe,Germany
+38,Male,United States,NY,No,Yes,No,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Unknown,4,No,No,Yes,Unsure,Unsure,Unsure,Yes,No,35-44,North America,United States
+23,Male,United Kingdom,UNKNOWN,No,No,No,Never,26-100,No,Yes,Yes,Unknown,Yes,Unknown,Unknown,0,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,18-24,Europe,United Kingdom
+30,Male,Canada,UNKNOWN,No,No,No,Never,26-100,No,No,No,No,No,No,Unknown,4,No,No,Unsure,Yes,No,No,No,No,25-34,North America,Canada
+27,Female,United States,NY,Yes,No,Yes,Often,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Unsure,Unsure,Unsure,Yes,No,Unsure,Yes,No,25-34,North America,United States
+33,Male,United States,CA,No,Yes,No,Never,More than 1000,No,Yes,No,No,No,No,Unknown,4,Yes,No,No,No,No,Unsure,No,No,25-34,North America,United States
+31,Male,United States,TX,No,No,No,Unknown,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,No,No,25-34,North America,United States
+39,Male,United Kingdom,UNKNOWN,Yes,No,Yes,Often,6-25,No,Yes,No,No,No,No,Unknown,3,Unsure,No,Unsure,No,No,Unsure,No,Yes,35-44,Europe,United Kingdom
+34,Female,United States,OR,No,Yes,Yes,Rarely,500-1000,Yes,Yes,Yes,Unknown,No,Unknown,Unknown,4,Yes,Unsure,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+29,Female,United States,FL,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,Unsure,No,Yes,25-34,North America,United States
+32,Male,United States,IL,No,No,No,Unknown,500-1000,No,Yes,Unknown,No,No,Unknown,Unknown,4,No,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+31,Male,United States,NY,No,No,No,Never,500-1000,No,Yes,Yes,Yes,Yes,Yes,Yes,1,No,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+40,Male,United States,TX,No,No,Yes,Sometimes,26-100,No,Yes,No,Yes,No,No,Yes,3,No,No,Yes,Yes,Yes,Yes,No,No,35-44,North America,United States
+34,Male,United States,OH,No,No,No,Unknown,26-100,No,Yes,Unknown,No,No,No,Unknown,1,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+18,Male,Russia,UNKNOWN,No,No,No,Unknown,26-100,Yes,Yes,Yes,Yes,No,No,Yes,1,No,No,Yes,Yes,Yes,Yes,Unknown,No,18-24,Europe,Other
+25,Female,Canada,UNKNOWN,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Unknown,Unknown,4,Unsure,No,Unsure,Yes,No,Unsure,Unknown,No,25-34,North America,Canada
+29,Male,United States,MN,No,No,No,Never,26-100,No,Yes,Unknown,No,No,Unknown,Unknown,4,No,No,Yes,Yes,Unsure,Unsure,No,No,25-34,North America,United States
+24,Male,United States,MO,No,Yes,No,Rarely,26-100,No,Yes,Unknown,Unknown,No,Unknown,Unknown,1,Unsure,Unsure,Unsure,No,No,Unsure,Unknown,No,18-24,North America,United States
+31,Male,Mexico,UNKNOWN,No,Yes,Yes,Sometimes,6-25,No,Yes,Unknown,No,No,No,Unknown,4,No,No,Unsure,Yes,Unsure,Yes,No,No,25-34,North America,Other
+33,Male,United States,AZ,No,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Unknown,1,Unsure,No,Unsure,No,No,Unsure,No,No,25-34,North America,United States
+30,Male,United States,IN,No,No,Yes,Often,1-5,No,Yes,No,Yes,No,No,Yes,1,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+26,Female,Canada,UNKNOWN,No,Yes,Yes,Sometimes,26-100,No,No,No,Yes,No,No,No,3,Yes,No,No,No,No,Unsure,No,Yes,25-34,North America,Canada
+44,Female,United States,MA,No,No,No,Never,100-500,No,Yes,Yes,Unknown,Unknown,Unknown,Unknown,4,Unsure,Unsure,No,Unsure,No,No,Unknown,No,35-44,North America,United States
+25,Male,United States,NY,No,Yes,No,Unknown,26-100,No,Yes,Unknown,No,Unknown,Unknown,Unknown,0,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+33,Male,United States,WI,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+29,Male,United States,NY,No,No,No,Never,More than 1000,No,Yes,Yes,Unknown,Yes,Unknown,Unknown,1,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+35,Male,United States,MO,No,Yes,No,Rarely,6-25,No,Yes,Yes,Unknown,No,No,Yes,1,No,No,Unsure,Yes,No,No,Unknown,No,35-44,North America,United States
+35,Male,United States,OR,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Unknown,Unknown,No,No,Unknown,1,No,No,Unsure,Yes,No,Unsure,No,No,35-44,North America,United States
+28,Male,Brazil,UNKNOWN,No,Yes,Yes,Rarely,6-25,No,Yes,No,No,No,No,No,4,Unsure,No,Yes,Yes,No,No,Unknown,Yes,25-34,South America,Other
+34,Male,United States,TN,No,Yes,No,Never,6-25,Yes,Yes,Yes,No,No,No,Unknown,4,Unsure,No,No,No,No,No,Unknown,No,25-34,North America,United States
+32,Male,United States,WA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,No,Yes,Yes,Yes,2,Unsure,No,Unsure,Yes,No,Unsure,Yes,No,25-34,North America,United States
+22,Male,United States,NY,No,No,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Unknown,Yes,4,Yes,No,No,No,No,Yes,No,No,18-24,North America,United States
+28,Male,United States,CA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,1,No,No,Unsure,Unsure,No,Unsure,Yes,No,25-34,North America,United States
+45,Male,United States,MO,No,Yes,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,No,Yes,Yes,0,No,No,Yes,Yes,Yes,Yes,Yes,No,45-54,North America,United States
+32,Male,United States,NY,No,No,No,Never,100-500,No,Yes,Yes,Yes,No,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+28,Male,United States,TX,No,No,No,Unknown,More than 1000,No,Yes,Unknown,No,No,Unknown,Unknown,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+26,Male,United Kingdom,UNKNOWN,No,No,No,Never,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,0,No,No,Unsure,Unsure,No,No,Unknown,Yes,25-34,Europe,United Kingdom
+21,Male,United Kingdom,UNKNOWN,Yes,No,No,Often,1-5,Yes,No,No,Yes,No,No,Yes,3,Yes,No,Unsure,Yes,No,Unsure,No,No,18-24,Europe,United Kingdom
+27,Male,Canada,UNKNOWN,No,No,No,Rarely,6-25,No,No,Yes,Yes,Yes,Yes,Yes,0,Unsure,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,Canada
+18,Male,United States,CT,No,No,Yes,Rarely,1-5,Yes,Yes,No,No,No,No,Yes,0,No,No,Unsure,No,No,No,Unknown,No,18-24,North America,United States
+35,Male,United States,CO,No,No,No,Unknown,26-100,Yes,Yes,Unknown,Unknown,No,Unknown,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,Unknown,No,35-44,North America,United States
+29,Male,United States,GA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,No,Yes,Unknown,4,Yes,Yes,No,No,No,No,Unknown,No,25-34,North America,United States
+25,Male,United States,DC,No,No,No,Unknown,26-100,Yes,Yes,Unknown,No,No,No,Unknown,0,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+33,Male,United States,MN,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Unknown,No,Unknown,Unknown,Yes,0,No,No,Yes,Yes,No,Unsure,Yes,No,25-34,North America,United States
+36,Male,United States,WA,No,No,No,Often,6-25,No,Yes,Yes,No,No,No,Yes,4,Unsure,No,No,No,No,No,Unknown,No,35-44,North America,United States
+27,Male,Canada,UNKNOWN,No,No,Yes,Never,100-500,No,No,Yes,Unknown,No,No,Unknown,3,Unsure,No,Unsure,Yes,No,Unsure,No,Yes,25-34,North America,Canada
+27,Male,United States,WA,No,Yes,No,Never,500-1000,No,Yes,Yes,No,Yes,Yes,Yes,4,Yes,No,Unsure,No,No,Yes,Unknown,No,25-34,North America,United States
+27,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,No,No,No,Unknown,4,No,No,Unsure,Unsure,No,No,Unknown,No,25-34,Europe,United Kingdom
+32,Male,United States,OR,No,No,Yes,Rarely,100-500,No,Yes,Yes,Yes,No,Yes,Yes,4,Yes,No,No,Yes,No,No,Unknown,No,25-34,North America,United States
+31,Male,United Kingdom,UNKNOWN,No,Yes,No,Sometimes,6-25,No,Yes,No,No,No,No,Unknown,1,Unsure,Unsure,No,No,No,No,Yes,No,25-34,Europe,United Kingdom
+19,Male,Slovenia,UNKNOWN,No,No,Yes,Sometimes,6-25,No,Yes,Unknown,No,No,No,Unknown,1,Yes,Yes,Unsure,No,No,No,Unknown,No,18-24,Europe,Other
+33,Male,United States,IL,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Unknown,0,Unsure,No,Yes,Unsure,No,Yes,No,No,25-34,North America,United States
+32,Male,United States,CA,No,No,No,Rarely,1-5,Yes,Yes,No,Yes,No,No,Unknown,3,Unsure,No,Yes,Unsure,No,Yes,Unknown,No,25-34,North America,United States
+27,Male,United States,NE,No,No,No,Never,26-100,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Yes,Yes,Unsure,Unsure,Unknown,No,25-34,North America,United States
+38,Male,Costa Rica,UNKNOWN,No,No,No,Unknown,26-100,Yes,Yes,No,Yes,No,No,Yes,1,No,No,Yes,Yes,Unsure,Yes,No,No,35-44,North America,Other
+24,Male,Canada,UNKNOWN,No,No,Yes,Never,26-100,No,Yes,Unknown,No,No,No,Unknown,4,No,No,Unsure,Yes,Unsure,Yes,Unknown,No,18-24,North America,Canada
+39,Male,United Kingdom,UNKNOWN,No,No,No,Never,26-100,No,No,No,No,No,No,Unknown,4,Yes,Unsure,No,No,No,No,Unknown,No,35-44,Europe,United Kingdom
+28,Male,United Kingdom,UNKNOWN,No,No,No,Never,6-25,No,Yes,Unknown,No,No,No,Yes,0,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,25-34,Europe,United Kingdom
+39,Male,United States,IA,No,No,Yes,Often,More than 1000,No,Yes,Yes,Unknown,No,No,Unknown,1,No,No,Yes,Yes,No,No,Unknown,No,35-44,North America,United States
+29,Female,United States,MD,No,No,No,Unknown,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,1,Unsure,No,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+22,Male,Austria,UNKNOWN,No,No,No,Unknown,6-25,Yes,Yes,Unknown,No,Unknown,No,Unknown,1,No,No,Unsure,Unsure,No,No,Unknown,No,18-24,Europe,Other
+38,Male,United States,OR,No,Yes,Yes,Sometimes,100-500,No,Yes,Unknown,No,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,Yes,No,No,Unknown,No,35-44,North America,United States
+37,Male,United Kingdom,UNKNOWN,Yes,No,Yes,Sometimes,More than 1000,No,No,No,Yes,Yes,Yes,Yes,3,Yes,Yes,Unsure,No,No,Unsure,Yes,No,35-44,Europe,United Kingdom
+35,Male,United States,TX,No,No,No,Never,26-100,Yes,No,Unknown,Unknown,Unknown,Unknown,Unknown,4,Yes,No,Unsure,No,No,Unsure,Unknown,No,35-44,North America,United States
+,Male,United States,MN,No,No,No,Unknown,More than 1000,Yes,No,Yes,No,Unknown,Yes,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,,North America,United States
+30,Female,United States,PA,No,Yes,No,Unknown,More than 1000,Yes,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+37,Male,United States,IN,No,Yes,Yes,Rarely,100-500,No,No,Yes,Yes,Yes,Yes,Unknown,1,Unsure,Unsure,Unsure,Yes,Unsure,Unsure,Unknown,No,35-44,North America,United States
+24,Male,United Kingdom,UNKNOWN,No,No,No,Never,6-25,No,Yes,No,No,No,No,Yes,4,Unsure,Unsure,No,Unsure,No,No,Unknown,No,18-24,Europe,United Kingdom
+23,Male,United States,WV,No,No,No,Sometimes,6-25,No,No,No,No,No,No,No,1,Yes,Yes,No,No,No,No,No,No,18-24,North America,United States
+30,Male,Ireland,UNKNOWN,No,No,Yes,Rarely,100-500,No,Yes,No,Yes,Yes,Yes,Unknown,1,Yes,No,Unsure,No,No,No,No,Yes,25-34,Europe,Ireland
+29,Female,United States,MI,No,No,No,Unknown,100-500,Yes,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,No,No,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+19,Male,Canada,UNKNOWN,Yes,Yes,No,Unknown,1-5,Yes,Yes,Unknown,Unknown,No,Yes,Yes,1,Unsure,No,Unsure,Unsure,Unsure,Unsure,Unknown,No,18-24,North America,Canada
+32,Male,United States,CA,No,Yes,No,Never,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,0,No,No,Unsure,Unsure,No,Unsure,No,No,25-34,North America,United States
+28,Male,Poland,UNKNOWN,No,No,No,Rarely,6-25,Yes,Yes,No,No,No,No,Unknown,4,No,No,Yes,Yes,Unsure,Yes,Yes,No,25-34,Europe,Other
+36,Male,United States,IL,No,No,No,Never,6-25,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Unsure,Unsure,Unsure,Unknown,No,35-44,North America,United States
+37,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,2,Yes,Unsure,Unsure,No,No,Yes,No,Yes,35-44,Europe,United Kingdom
+25,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,No,No,Unknown,No,No,Unknown,Unknown,2,Unsure,No,Unsure,Unsure,No,Unsure,No,No,25-34,North America,United States
+27,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Unknown,No,No,Unknown,Unknown,4,No,No,No,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+26,Male,United States,OK,No,No,No,Often,26-100,No,No,Unknown,Unknown,No,No,Unknown,4,Yes,Unsure,Unsure,Yes,No,Unsure,No,No,25-34,North America,United States
+27,Male,United States,UT,No,No,Yes,Rarely,26-100,Yes,Yes,No,Yes,No,No,Unknown,2,Unsure,No,Unsure,Yes,No,No,Unknown,Yes,25-34,North America,United States
+25,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,0,Unsure,No,Unsure,No,No,No,Unknown,Yes,25-34,North America,United States
+36,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,1,Unsure,Unsure,Unsure,Unsure,No,Unsure,Unknown,Yes,35-44,Europe,United Kingdom
+25,Female,United States,NY,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,No,No,No,Unknown,4,Yes,Yes,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+31,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,No,No,Yes,Unknown,4,No,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+26,Male,United States,MA,No,Yes,No,Rarely,6-25,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+33,Female,United States,WA,Yes,Yes,Yes,Sometimes,1-5,No,Yes,No,Yes,Yes,Yes,Yes,3,No,No,Unsure,Yes,No,Yes,Yes,No,25-34,North America,United States
+27,Female,United Kingdom,UNKNOWN,Yes,Yes,No,Unknown,1-5,Yes,Yes,No,Yes,No,No,Yes,1,No,No,Yes,Yes,No,Unsure,Yes,No,25-34,Europe,United Kingdom
+34,Male,United States,MN,No,No,No,Never,26-100,No,Yes,No,No,No,No,Unknown,0,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+42,Male,United States,CA,No,No,No,Unknown,6-25,No,Yes,No,Yes,No,No,Unknown,3,Unsure,No,Yes,Yes,No,Unsure,No,No,35-44,North America,United States
+23,Male,Ireland,UNKNOWN,Yes,Yes,No,Sometimes,1-5,No,Yes,No,No,No,No,Unknown,3,Yes,No,No,No,No,Unsure,No,No,18-24,Europe,Ireland
+24,Male,United Kingdom,UNKNOWN,No,No,No,Rarely,100-500,No,Yes,Unknown,Unknown,Yes,Unknown,Unknown,0,Unsure,Unsure,Unsure,Unsure,No,Unsure,Unknown,No,18-24,Europe,United Kingdom
+26,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Unknown,Unknown,Yes,1,No,No,Yes,Yes,No,No,Unknown,No,25-34,Europe,United Kingdom
+31,Male,United Kingdom,UNKNOWN,Yes,No,Yes,Often,6-25,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,No,Unsure,Yes,No,Unsure,Unknown,No,25-34,Europe,United Kingdom
+22,Male,India,UNKNOWN,No,No,Yes,Never,More than 1000,No,Yes,Unknown,Unknown,No,No,Unknown,3,Yes,Unsure,No,No,Unsure,Unsure,No,No,18-24,Asia,India
+23,Female,United States,NC,No,No,No,Unknown,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,4,Unsure,Unsure,Unsure,Yes,No,Unsure,Yes,No,18-24,North America,United States
+34,Female,Canada,UNKNOWN,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,No,Unknown,1,No,No,Unsure,Yes,No,No,No,No,25-34,North America,Canada
+31,Male,United States,MO,No,No,No,Never,26-100,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,No,No,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+28,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,100-500,No,No,No,Unknown,No,Yes,Yes,1,No,No,Unsure,Unsure,Unsure,Unsure,Yes,No,25-34,Europe,United Kingdom
+32,Female,United States,MA,No,No,Yes,Often,6-25,Yes,Yes,Yes,Unknown,Unknown,Unknown,Yes,0,No,No,Yes,Yes,No,No,Yes,Yes,25-34,North America,United States
+45,Female,United States,CA,No,No,Yes,Sometimes,1-5,No,Yes,Yes,No,No,No,Yes,2,No,No,Yes,Yes,No,No,Yes,No,45-54,North America,United States
+33,Male,United States,TX,No,No,No,Unknown,6-25,Yes,Yes,Unknown,No,No,No,Unknown,0,No,No,Yes,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+29,Male,Mexico,UNKNOWN,No,No,No,Never,6-25,Yes,Yes,No,No,No,No,No,4,Unsure,Unsure,No,Yes,Unsure,Yes,No,No,25-34,North America,Other
+26,Female,India,UNKNOWN,Yes,No,No,Sometimes,6-25,No,No,No,No,No,No,Unknown,1,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,25-34,Asia,India
+28,Female,United Kingdom,UNKNOWN,No,No,No,Never,26-100,No,Yes,Unknown,No,No,Unknown,Yes,1,No,No,Yes,Yes,Unsure,Unsure,Unknown,No,25-34,Europe,United Kingdom
+45,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Yes,Yes,Unsure,Unsure,No,No,Unknown,No,45-54,North America,United States
+43,Male,United States,WA,No,Yes,Yes,Often,More than 1000,Yes,Yes,Yes,Unknown,No,Unknown,Unknown,3,Yes,Unsure,No,No,No,No,No,No,35-44,North America,United States
+37,Male,United States,MA,No,No,No,Unknown,500-1000,Yes,Yes,Yes,No,No,No,Unknown,4,Yes,No,Unsure,No,Unsure,Yes,No,No,35-44,North America,United States
+24,Male,United Kingdom,UNKNOWN,No,No,No,Sometimes,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,1,Unsure,No,Unsure,Yes,Unsure,Yes,Yes,No,18-24,Europe,United Kingdom
+26,Male,France,UNKNOWN,No,No,No,Unknown,6-25,Yes,Yes,No,Yes,No,No,Unknown,1,No,No,Unsure,No,No,Unsure,Yes,No,25-34,Europe,France
+23,Male,United Kingdom,UNKNOWN,No,Yes,No,Unknown,1-5,Yes,Yes,Unknown,No,No,No,Unknown,4,No,No,Unsure,Yes,Unsure,Yes,Unknown,No,18-24,Europe,United Kingdom
+35,Female,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Yes,Unknown,Unknown,No,Yes,1,Unsure,No,No,No,No,No,Unknown,No,35-44,North America,United States
+38,Female,South Africa,UNKNOWN,Yes,Yes,Yes,Often,1-5,Yes,Yes,No,Yes,No,No,Yes,1,Unsure,Unsure,Unsure,Unsure,No,Unsure,Unknown,Yes,35-44,Africa,Other
+28,Male,United States,MI,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No,No,Unknown,1,Unsure,Unsure,Unsure,No,No,Unsure,No,No,25-34,North America,United States
+28,Male,Russia,UNKNOWN,No,No,No,Sometimes,26-100,No,Yes,No,No,No,No,Unknown,4,Yes,Unsure,No,No,No,Unsure,Unknown,No,25-34,Europe,Other
+35,Male,United States,CA,No,No,Yes,Rarely,6-25,No,Yes,No,No,No,No,Yes,4,No,No,Unsure,Yes,No,No,Unknown,No,35-44,North America,United States
+32,Female,Germany,UNKNOWN,No,No,No,Sometimes,100-500,No,Yes,No,No,No,No,Unknown,3,Yes,Yes,Unsure,No,No,No,No,Yes,25-34,Europe,Germany
+31,Male,Italy,UNKNOWN,Yes,Yes,No,Never,6-25,No,Yes,No,No,No,No,Unknown,1,Unsure,Unsure,Unsure,Unsure,No,Unsure,Unknown,No,25-34,Europe,Other
+35,Female,United States,NY,No,No,No,Never,500-1000,Yes,Yes,Unknown,Unknown,No,No,Unknown,4,Unsure,Unsure,Unsure,No,No,No,Unknown,No,35-44,North America,United States
+26,Male,United States,CA,No,No,No,Rarely,More than 1000,No,Yes,Yes,No,No,No,Yes,1,No,No,Unsure,Yes,No,Unsure,No,No,25-34,North America,United States
+27,Male,United States,TN,No,Yes,No,Unknown,6-25,Yes,Yes,Yes,Yes,No,No,Unknown,1,Unsure,Unsure,Unsure,Unsure,No,Unsure,Yes,No,25-34,North America,United States
+28,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,Unsure,Unsure,No,No,Unsure,Unknown,No,25-34,Europe,United Kingdom
+27,Female,United States,OR,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No,No,Unknown,0,No,No,Unsure,Unsure,No,No,Yes,No,25-34,North America,United States
+34,Female,United States,MN,No,No,Yes,Sometimes,500-1000,No,No,Yes,Yes,Yes,Yes,Yes,1,Unsure,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+41,Male,United States,FL,No,No,Yes,Often,6-25,Yes,Yes,No,Unknown,No,No,Unknown,3,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Unknown,No,35-44,North America,United States
+37,Male,Ireland,UNKNOWN,No,No,No,Sometimes,1-5,No,Yes,No,Yes,No,No,Unknown,3,Yes,No,No,No,No,Yes,Unknown,No,35-44,Europe,Ireland
+34,Male,Austria,UNKNOWN,No,Yes,No,Unknown,100-500,Yes,Yes,Unknown,No,Unknown,Unknown,Unknown,0,No,No,Yes,Yes,No,No,Yes,No,25-34,Europe,Other
+32,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Unknown,Unknown,No,No,Unknown,2,Yes,Unsure,No,No,No,No,No,Yes,25-34,Europe,United Kingdom
+21,Male,Canada,UNKNOWN,No,No,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Unknown,2,No,No,Unsure,Unsure,Unsure,Unsure,Yes,No,18-24,North America,Canada
+30,Male,United States,MA,No,No,Yes,Often,26-100,No,Yes,No,Yes,No,No,Yes,1,Unsure,No,Yes,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+24,Male,United States,KS,No,No,No,Never,26-100,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,18-24,North America,United States
+26,Male,Bulgaria,UNKNOWN,No,No,No,Unknown,100-500,No,Yes,No,No,No,No,No,0,Yes,Unsure,No,No,No,Unsure,Unknown,No,25-34,Europe,Other
+40,Female,United States,DC,No,No,No,Unknown,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,1,No,No,Unsure,Yes,No,No,Yes,No,35-44,North America,United States
+37,Male,United Kingdom,UNKNOWN,No,Yes,No,Sometimes,26-100,No,No,No,No,No,No,Unknown,4,Yes,Unsure,Unsure,Yes,No,Unsure,Unknown,No,35-44,Europe,United Kingdom
+26,Male,United Kingdom,UNKNOWN,Yes,No,Yes,Often,1-5,Yes,Yes,No,No,No,No,Unknown,4,Yes,No,No,No,No,Unsure,Unknown,No,25-34,Europe,United Kingdom
+32,Female,United States,TX,No,Yes,Yes,Sometimes,6-25,No,Yes,Unknown,No,No,No,No,4,Yes,Unsure,Unsure,Unsure,No,Unsure,No,Yes,25-34,North America,United States
+32,Female,United States,MA,No,No,Yes,Sometimes,100-500,No,No,Yes,Yes,Unknown,Unknown,Yes,0,No,No,Yes,Yes,No,Yes,Yes,No,25-34,North America,United States
+27,Female,United States,MI,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,Unknown,Unknown,Unknown,3,No,No,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+30,Male,Germany,UNKNOWN,Yes,No,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,No,Yes,3,No,No,Unsure,Yes,Unsure,Yes,Yes,No,25-34,Europe,Germany
+31,Male,Canada,UNKNOWN,Yes,No,No,Unknown,6-25,No,Yes,Yes,Yes,No,Unknown,Yes,0,No,No,Unsure,Unsure,No,No,Yes,No,25-34,North America,Canada
+29,Female,United States,NY,No,No,Yes,Never,500-1000,No,No,Yes,No,No,Unknown,Unknown,2,Unsure,No,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+41,Male,United States,VA,No,No,No,Unknown,26-100,No,Yes,Yes,Unknown,No,No,Unknown,0,Yes,No,No,Unsure,No,No,Unknown,No,35-44,North America,United States
+34,Female,United States,WA,No,No,No,Unknown,6-25,No,Yes,Yes,No,No,No,Unknown,1,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+33,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,Unknown,No,No,No,Unknown,4,No,No,Yes,Yes,Yes,Yes,Unknown,No,25-34,Europe,United Kingdom
+28,Male,United States,PA,No,No,No,Rarely,6-25,No,Yes,Unknown,No,No,No,Unknown,4,No,No,Unsure,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+28,Male,United States,MI,No,No,Yes,Sometimes,More than 1000,No,Yes,No,Yes,No,No,Yes,3,Yes,No,No,Unsure,No,No,No,No,25-34,North America,United States
+23,Male,United States,PA,No,No,No,Never,26-100,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,No,Yes,No,Yes,Yes,No,18-24,North America,United States
+24,Male,United States,OR,No,No,No,Unknown,1-5,No,Yes,Unknown,No,Unknown,No,Yes,0,No,No,Yes,Yes,Unsure,Yes,Yes,No,18-24,North America,United States
+32,Male,United States,WA,No,No,No,Rarely,1-5,Yes,Yes,No,Yes,No,No,Unknown,3,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,North America,United States
+34,Male,Australia,UNKNOWN,Yes,No,No,Sometimes,1-5,Yes,Yes,Unknown,Unknown,Yes,Yes,Unknown,2,Yes,Yes,No,No,No,Unsure,Yes,No,25-34,Oceania,Australia
+24,Male,United States,PA,No,No,No,Never,6-25,No,Yes,Yes,Unknown,No,Unknown,Unknown,0,Unsure,No,Unsure,No,Unsure,Unsure,Yes,No,18-24,North America,United States
+26,Male,United Kingdom,UNKNOWN,Yes,No,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,Unsure,Yes,No,25-34,Europe,United Kingdom
+36,Male,United States,OH,No,No,Yes,Sometimes,26-100,No,Yes,Yes,No,No,Yes,Unknown,4,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,Yes,35-44,North America,United States
+41,Male,United States,TX,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,No,Unknown,Unknown,4,Unsure,Unsure,Unsure,No,Unsure,Unsure,No,No,35-44,North America,United States
+38,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,More than 1000,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,3,Yes,No,No,No,No,Unsure,No,No,35-44,Europe,United Kingdom
+38,Male,United States,NH,No,No,No,Sometimes,26-100,Yes,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,Unsure,Unsure,Yes,No,Unsure,No,No,35-44,North America,United States
+30,Male,Netherlands,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,Unknown,No,Unknown,Unknown,Yes,1,No,No,Unsure,Unsure,No,No,Yes,No,25-34,Europe,Netherlands
+25,Male,United Kingdom,UNKNOWN,No,No,No,Never,26-100,No,Yes,No,No,No,No,Unknown,2,Yes,Unsure,No,No,No,Unsure,No,No,25-34,Europe,United Kingdom
+37,Male,Canada,UNKNOWN,No,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,Yes,Unknown,No,35-44,North America,Canada
+34,Male,United Kingdom,UNKNOWN,No,Yes,No,Unknown,6-25,No,Yes,No,No,No,No,Yes,2,No,No,Unsure,Yes,No,Yes,No,Yes,25-34,Europe,United Kingdom
+37,Female,United States,NC,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,1,No,No,Unsure,Unsure,No,Unsure,Yes,No,35-44,North America,United States
+28,Female,Canada,UNKNOWN,No,Yes,Yes,Sometimes,6-25,No,No,Yes,Yes,Yes,Yes,Yes,4,No,No,Unsure,Yes,No,No,No,Yes,25-34,North America,Canada
+22,Male,Sweden,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,Unknown,No,No,No,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,No,No,18-24,Europe,Other
+34,Male,United States,FL,No,Yes,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Unknown,2,Unsure,No,Unsure,Unsure,No,Unsure,No,Yes,25-34,North America,United States
+33,Male,United States,CA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,1,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+25,Male,South Africa,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,No,No,No,Yes,2,Unsure,No,Unsure,Yes,No,Yes,No,No,25-34,Africa,Other
+27,Male,United States,GA,No,No,No,Never,More than 1000,Yes,Yes,Yes,Yes,Unknown,Unknown,Yes,1,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+40,Male,United States,OH,No,No,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Yes,Unsure,No,No,No,Unsure,No,Yes,35-44,North America,United States
+21,Male,United States,KY,No,No,Yes,Often,6-25,No,No,Unknown,No,No,Unknown,Unknown,4,Unsure,No,No,No,No,Unsure,Unknown,No,18-24,North America,United States
+29,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,6-25,No,No,No,No,No,No,Yes,0,No,No,Yes,Yes,Unsure,Yes,Yes,No,25-34,Europe,United Kingdom
+32,Male,United States,NC,No,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Unknown,4,Unsure,No,Yes,Yes,No,Yes,Unknown,No,25-34,North America,United States
+29,Female,United States,NY,No,Yes,Yes,Rarely,500-1000,Yes,No,Yes,Yes,Yes,Unknown,Yes,4,Unsure,No,Unsure,No,Unsure,Yes,Unknown,No,25-34,North America,United States
+23,Male,United States,AL,No,Yes,Yes,Sometimes,26-100,Yes,No,Unknown,No,No,Unknown,Yes,1,Unsure,No,Unsure,Unsure,No,Yes,Yes,No,18-24,North America,United States
+28,Male,United States,GA,No,Yes,No,Unknown,100-500,No,Yes,Yes,No,No,Unknown,Yes,1,No,No,Unsure,Yes,No,Unsure,Yes,Yes,25-34,North America,United States
+31,Male,United States,CA,No,Yes,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,Yes,Unknown,Yes,0,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,North America,United States
+27,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,100-500,No,No,Unknown,Unknown,Unknown,Unknown,No,0,Unsure,Unsure,Yes,Yes,No,No,Unknown,No,25-34,Europe,United Kingdom
+24,Male,United States,VA,No,No,No,Sometimes,6-25,No,Yes,Unknown,No,Unknown,Unknown,Unknown,4,No,No,Yes,Yes,Unsure,Unsure,Unknown,No,18-24,North America,United States
+29,Male,Canada,UNKNOWN,No,No,No,Often,6-25,No,Yes,No,No,No,No,Unknown,2,Yes,No,No,No,No,Unsure,Unknown,No,25-34,North America,Canada
+23,Female,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,6-25,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,Unsure,Yes,No,18-24,Europe,United Kingdom
+42,Male,United States,WA,No,No,No,Never,6-25,Yes,Yes,No,Yes,No,Yes,Unknown,1,No,No,Unsure,Yes,No,No,Yes,No,35-44,North America,United States
+24,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,1-5,No,Yes,No,No,No,No,Unknown,4,Yes,No,Unsure,Unsure,No,Yes,No,No,18-24,Europe,United Kingdom
+25,Male,Australia,UNKNOWN,No,Yes,Yes,Often,6-25,No,Yes,No,Yes,No,No,No,3,Yes,Unsure,No,No,No,Yes,No,Yes,25-34,Oceania,Australia
+27,Female,United States,TX,No,No,Yes,Rarely,6-25,No,Yes,Yes,No,No,No,Yes,4,Unsure,Unsure,Yes,No,No,Unsure,Unknown,No,25-34,North America,United States
+27,Male,Canada,UNKNOWN,No,No,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,No,3,Yes,Yes,Unsure,Unsure,No,Unsure,No,No,25-34,North America,Canada
+30,Male,United States,FL,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Yes,4,No,No,Yes,Yes,Unsure,No,Yes,No,25-34,North America,United States
+29,Male,Poland,UNKNOWN,No,Yes,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Yes,3,Unsure,No,Unsure,Unsure,No,Yes,No,No,25-34,Europe,Other
+43,Male,Canada,UNKNOWN,Yes,No,No,Unknown,6-25,Yes,Yes,No,Unknown,No,No,Unknown,1,Unsure,No,Yes,Yes,Yes,Yes,Unknown,No,35-44,North America,Canada
+32,Male,United States,NV,No,No,No,Unknown,6-25,No,Yes,No,Yes,No,Unknown,Unknown,0,No,No,Unsure,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+41,Male,United States,AL,No,No,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Unknown,No,Unknown,0,No,No,Yes,Yes,Yes,Yes,Yes,No,35-44,North America,United States
+32,Male,United Kingdom,UNKNOWN,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,0,Unsure,Unsure,Yes,Unsure,Unsure,Unsure,Unknown,Yes,25-34,Europe,United Kingdom
+37,Female,United States,CA,No,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,4,Unsure,No,Unsure,Unsure,No,Yes,Unknown,No,35-44,North America,United States
+32,Male,United States,CO,No,No,No,Never,6-25,Yes,Yes,No,No,No,No,Unknown,0,No,No,Yes,Yes,No,No,Unknown,No,25-34,North America,United States
+30,Male,Ireland,UNKNOWN,Yes,No,No,Sometimes,1-5,Yes,Yes,No,No,No,No,Unknown,2,No,No,Unsure,Unsure,No,Unsure,No,No,25-34,Europe,Ireland
+23,Female,United States,MN,No,Yes,Yes,Never,100-500,No,No,Yes,No,Unknown,Unknown,Yes,4,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,18-24,North America,United States
+30,Male,United States,NJ,No,No,No,Unknown,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,0,No,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+34,Male,United Kingdom,UNKNOWN,No,No,No,Sometimes,26-100,No,Yes,No,Yes,No,No,Unknown,1,Unsure,Unsure,Yes,Unsure,No,No,Unknown,No,25-34,Europe,United Kingdom
+38,Male,United States,PA,No,No,Yes,Rarely,26-100,Yes,Yes,Yes,No,No,No,Unknown,4,Yes,No,No,No,No,Unsure,No,No,35-44,North America,United States
+33,Male,Canada,UNKNOWN,No,No,No,Unknown,100-500,No,Yes,Yes,No,Yes,Yes,Yes,4,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,Canada
+34,Male,United States,MO,No,No,No,Unknown,26-100,No,No,Yes,No,No,No,Unknown,4,Unsure,No,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+28,Male,Colombia,UNKNOWN,No,No,No,Sometimes,6-25,No,Yes,No,Yes,No,No,Unknown,1,Unsure,Unsure,No,Unsure,No,No,Unknown,No,25-34,South America,Other
+28,Male,United States,MN,No,No,Yes,Rarely,100-500,No,No,Yes,Yes,Yes,Unknown,Unknown,0,Unsure,No,Unsure,Unsure,No,No,Yes,No,25-34,North America,United States
+23,Male,United States,PA,No,Yes,No,Sometimes,100-500,No,Yes,Unknown,No,No,Unknown,Unknown,4,Unsure,No,Unsure,No,No,Unsure,No,No,18-24,North America,United States
+22,Male,Australia,UNKNOWN,Yes,Yes,Yes,Sometimes,6-25,Yes,Yes,Unknown,Unknown,Yes,Yes,Unknown,1,Unsure,No,Unsure,Yes,No,Yes,No,Yes,18-24,Oceania,Australia
+27,Male,Portugal,UNKNOWN,No,No,No,Never,6-25,No,Yes,No,No,No,No,Yes,4,Yes,No,No,No,No,Unsure,Unknown,No,25-34,Europe,Other
+18,Male,United States,TX,No,No,Yes,Sometimes,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,4,Yes,No,No,No,No,Unsure,Unknown,No,18-24,North America,United States
+35,Male,United States,NY,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,2,Yes,No,No,Unsure,No,Unsure,Unknown,No,35-44,North America,United States
+25,Male,Canada,UNKNOWN,No,No,No,Unknown,100-500,No,No,Unknown,Unknown,No,No,Unknown,4,No,No,Unsure,Unsure,No,Yes,No,No,25-34,North America,Canada
+27,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Yes,1,Unsure,Unsure,Yes,Yes,Yes,Yes,Yes,No,25-34,Europe,United Kingdom
+26,Female,United States,WA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Unknown,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+18,Male,United States,WA,No,No,No,Never,26-100,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,0,No,No,Unsure,Unsure,No,Unsure,Yes,No,18-24,North America,United States
+38,Female,United States,TX,No,No,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,Unknown,4,No,Unsure,Unsure,No,No,No,Unknown,Yes,35-44,North America,United States
+26,Female,United States,TX,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,Yes,Unknown,Unknown,1,Unsure,No,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+30,Male,Switzerland,UNKNOWN,Yes,No,No,Never,1-5,No,Yes,No,No,No,No,No,1,No,No,Yes,Yes,No,No,Yes,No,25-34,Europe,Other
+35,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Unknown,No,No,Unknown,Unknown,4,Yes,Unsure,Unsure,Unsure,No,No,Unknown,No,35-44,North America,United States
+45,Male,United States,NY,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Unknown,Unknown,Yes,4,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,No,45-54,North America,United States
+32,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,No,No,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+56,Male,United States,UNKNOWN,No,No,Yes,Never,More than 1000,No,Yes,Yes,Unknown,Unknown,Unknown,Unknown,4,No,Unsure,Yes,Unsure,No,Unsure,Unknown,No,55+,North America,United States
+24,Female,United States,CA,No,No,No,Unknown,500-1000,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,Unsure,Unsure,No,No,Unsure,No,No,18-24,North America,United States
+30,Female,United States,SC,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Unknown,Unknown,0,No,No,Yes,Yes,No,Yes,Yes,No,25-34,North America,United States
+60,Male,United States,CA,No,No,No,Unknown,More than 1000,No,Yes,Yes,No,Unknown,Yes,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,55+,North America,United States
+33,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Yes,Unknown,4,Yes,No,No,No,No,Unsure,Unknown,No,25-34,North America,United States
+37,Male,United States,NY,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,Unknown,No,35-44,North America,United States
+23,Female,United States,NY,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Unknown,4,No,No,Unsure,Unsure,No,No,Yes,No,18-24,North America,United States
+31,Female,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Unknown,Unknown,Unknown,Yes,1,No,No,Yes,Yes,No,No,Yes,No,25-34,North America,United States
+26,Male,United States,MA,No,No,No,Rarely,100-500,No,Yes,Yes,Unknown,No,Unknown,Unknown,4,No,No,Unsure,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+28,Female,United States,WA,No,Yes,Yes,Often,100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,1,Yes,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+37,Female,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Unknown,Yes,Unknown,1,No,No,Unsure,Yes,No,No,Yes,No,35-44,North America,United States
+26,Male,Canada,UNKNOWN,No,Yes,Yes,Often,6-25,No,Yes,Yes,No,No,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,Unsure,Unsure,Yes,No,25-34,North America,Canada
+30,Others,United States,IL,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Unknown,No,No,Unknown,1,Unsure,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+26,Male,United States,IN,No,No,No,Unknown,26-100,No,Yes,No,No,No,No,Unknown,4,No,No,Unsure,Unsure,No,No,Unknown,Yes,25-34,North America,United States
+25,Male,United States,OR,No,No,No,Unknown,26-100,Yes,Yes,Unknown,Unknown,No,Unknown,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+27,Male,United States,TN,No,No,No,Sometimes,100-500,No,Yes,Yes,Unknown,Yes,Yes,Unknown,4,Unsure,No,Unsure,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+25,Male,Canada,UNKNOWN,No,No,Yes,Often,6-25,Yes,No,Unknown,No,No,Unknown,Unknown,2,Yes,Unsure,No,No,No,Unsure,Unknown,No,25-34,North America,Canada
+35,Male,United States,OR,No,No,Yes,Rarely,100-500,No,Yes,Yes,Unknown,Unknown,Yes,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,35-44,North America,United States
+36,Male,United States,WA,Yes,No,Yes,Never,1-5,No,Yes,No,Yes,No,No,Unknown,1,Unsure,No,Unsure,Yes,No,No,Yes,No,35-44,North America,United States
+26,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Unknown,No,Unknown,Unknown,4,Yes,No,No,No,No,No,No,No,25-34,North America,United States
+27,Male,United States,CA,No,Yes,No,Unknown,More than 1000,No,Yes,Unknown,No,Unknown,Unknown,Unknown,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+30,Male,United States,VT,No,No,No,Unknown,6-25,No,No,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+29,Male,United States,NY,No,No,No,Unknown,100-500,No,No,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,No,No,No,No,Unsure,Unknown,No,25-34,North America,United States
+25,Male,United States,UT,No,No,No,Never,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,0,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+22,Female,United States,NY,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,1,Unsure,No,No,Unsure,No,No,Yes,Yes,18-24,North America,United States
+29,Male,Latvia,NY,No,No,No,Unknown,26-100,No,Yes,No,Yes,No,No,Unknown,1,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,25-34,Europe,Other
+41,Male,United States,SD,No,Yes,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,Unknown,Yes,Yes,1,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,35-44,North America,United States
+29,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Unknown,Unknown,4,Yes,No,Unsure,Unsure,No,Unsure,No,No,25-34,North America,United States
+32,Male,United States,OR,No,No,No,Never,500-1000,No,Yes,Yes,Unknown,Unknown,Yes,Yes,1,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+24,Female,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,18-24,North America,United States
+25,Male,United States,CA,No,No,Yes,Rarely,6-25,No,Yes,Yes,No,Unknown,No,Unknown,4,Unsure,No,No,No,No,No,Unknown,No,25-34,North America,United States
+25,Male,United States,CA,No,No,No,Unknown,More than 1000,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,No,No,No,No,Unsure,Unknown,No,25-34,North America,United States
+30,Female,United States,CO,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,1,Unsure,Unsure,No,Unsure,No,No,Unknown,No,25-34,North America,United States
+25,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Unknown,Unknown,Unknown,Yes,Unknown,4,No,No,Yes,Yes,No,No,Yes,No,25-34,North America,United States
+30,Male,United States,OH,Yes,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+33,Male,Germany,UNKNOWN,Yes,Yes,Yes,Rarely,1-5,No,No,No,No,No,No,Unknown,2,Yes,Yes,No,No,Unsure,No,Yes,Yes,25-34,Europe,Germany
+24,Male,United States,WA,No,No,No,Unknown,26-100,No,Yes,Yes,Unknown,Yes,Yes,Yes,0,No,No,Unsure,Unsure,No,Unsure,Yes,No,18-24,North America,United States
+25,Male,Canada,UNKNOWN,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Unknown,Unknown,4,Yes,Unsure,Unsure,No,No,No,No,No,25-34,North America,Canada
+31,Male,United States,OH,No,No,No,Unknown,100-500,No,No,Unknown,No,No,No,Yes,1,Unsure,No,No,No,No,Yes,No,No,25-34,North America,United States
+45,Male,Ireland,UNKNOWN,Yes,No,Yes,Often,1-5,No,Yes,No,No,No,No,Unknown,3,No,No,No,No,No,No,Unknown,No,45-54,Europe,Ireland
+29,Male,Romania,UNKNOWN,No,No,No,Unknown,6-25,Yes,No,No,Yes,No,No,Unknown,4,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,No,No,25-34,Europe,Other
+46,Male,United States,WA,No,No,No,Never,26-100,No,Yes,Yes,Unknown,Yes,Unknown,Unknown,0,No,No,Unsure,Unsure,Unsure,Unsure,Unknown,No,45-54,North America,United States
+30,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,26-100,No,Yes,Unknown,No,No,Unknown,Unknown,4,Yes,Unsure,No,No,No,Unsure,Unknown,No,25-34,Europe,United Kingdom
+29,Female,United States,CA,Yes,No,No,Sometimes,More than 1000,No,Yes,Yes,Unknown,Unknown,No,Unknown,0,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+24,Male,United States,MA,No,No,No,Unknown,More than 1000,No,Yes,Yes,Yes,Unknown,Unknown,Yes,4,Yes,No,No,No,No,Unsure,Unknown,No,18-24,North America,United States
+29,Male,United States,WA,No,No,No,Unknown,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,0,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,North America,United States
+35,Male,United States,MI,No,No,No,Unknown,26-100,No,No,Unknown,Unknown,No,Unknown,Unknown,4,No,No,Yes,Yes,No,No,No,No,35-44,North America,United States
+33,Female,United States,WA,No,Yes,No,Sometimes,26-100,Yes,Yes,No,Yes,No,No,Unknown,3,Yes,Unsure,Unsure,Unsure,No,Unsure,No,No,25-34,North America,United States
+27,Male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,0,Yes,No,No,No,No,Unsure,No,No,25-34,North America,United States
+36,Male,United States,IA,No,No,No,Unknown,More than 1000,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Unknown,No,35-44,North America,United States
+33,Male,United Kingdom,UNKNOWN,No,No,No,Rarely,1-5,Yes,Yes,Unknown,No,No,No,Unknown,4,Yes,Unsure,No,No,No,Unsure,No,No,25-34,Europe,United Kingdom
+25,Female,United States,WA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,4,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+23,Male,United States,AL,No,Yes,Yes,Sometimes,100-500,No,No,Unknown,No,No,No,Unknown,4,No,No,Yes,Yes,Unsure,Yes,Unknown,No,18-24,North America,United States
+54,Male,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Unknown,No,Yes,Yes,Unknown,4,No,No,No,Yes,No,No,Unknown,No,45-54,North America,United States
+22,Male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Unknown,No,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,18-24,North America,United States
+25,Others,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Yes,No,25-34,North America,United States
+29,Male,Belgium,UNKNOWN,No,No,No,Often,6-25,No,No,Unknown,No,No,No,Unknown,4,Unsure,No,Yes,Yes,Unsure,Unsure,Unknown,No,25-34,Europe,Other
+27,Male,United States,MA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,4,No,No,No,No,No,Yes,Yes,No,25-34,North America,United States
+30,Male,United Kingdom,UNKNOWN,No,No,No,Never,6-25,No,Yes,No,No,No,Unknown,Unknown,0,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,Europe,United Kingdom
+26,Male,United States,CA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Unknown,Unknown,Yes,Unknown,4,Unsure,No,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+25,Female,Sweden,UNKNOWN,No,Yes,No,Sometimes,6-25,No,Yes,Yes,Yes,Yes,No,Unknown,1,No,No,Unsure,Yes,No,No,No,No,25-34,Europe,Other
+31,Male,United States,CA,No,No,Yes,Sometimes,500-1000,No,No,No,Yes,No,Unknown,Yes,4,No,No,Unsure,No,No,No,No,No,25-34,North America,United States
+33,Male,United States,IN,No,Yes,Yes,Sometimes,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+34,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Unknown,Yes,Yes,4,Unsure,Unsure,No,No,No,No,Unknown,No,25-34,North America,United States
+34,Male,United States,WA,No,No,Yes,Sometimes,100-500,Yes,Yes,No,No,No,No,Unknown,1,Yes,Yes,Unsure,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+29,Male,United States,IN,Yes,No,No,Unknown,1-5,Yes,Yes,No,Yes,No,No,Yes,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+33,Female,United States,WA,No,No,No,Unknown,6-25,No,Yes,No,No,No,No,Unknown,2,Unsure,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+34,Male,Germany,UNKNOWN,Yes,Yes,Yes,Rarely,26-100,Yes,Yes,No,No,No,Unknown,Unknown,2,No,No,Yes,Yes,No,Unsure,Yes,No,25-34,Europe,Germany
+26,Male,United States,OK,Yes,Yes,Yes,Rarely,100-500,Yes,No,No,No,No,Unknown,No,4,Unsure,No,Unsure,Yes,No,Yes,No,No,25-34,North America,United States
+32,Male,United States,MI,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,4,No,No,Unsure,Yes,No,Yes,Yes,No,25-34,North America,United States
+,Male,United States,OH,No,No,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,No,Unknown,4,Unsure,No,Unsure,No,No,No,No,No,,North America,United States
+28,Male,United States,GA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Unknown,Unknown,No,Unknown,Unknown,2,Unsure,Unsure,No,No,No,No,No,No,25-34,North America,United States
+35,Male,United States,CA,No,Yes,No,Unknown,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,0,No,No,Unsure,Yes,No,No,Unknown,No,35-44,North America,United States
+36,Male,United States,UNKNOWN,No,Yes,Yes,Often,100-500,No,Yes,No,Yes,No,No,Yes,0,No,No,Unsure,Unsure,No,No,Unknown,No,35-44,North America,United States
+21,Male,United States,IN,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,No,No,Unknown,Yes,4,No,No,Yes,Yes,Unsure,Unsure,Unknown,No,18-24,North America,United States
+21,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,6-25,No,No,Unknown,Unknown,No,No,No,0,Yes,No,Unsure,No,No,Unsure,No,No,18-24,Europe,United Kingdom
+22,Female,United States,WA,No,No,No,Unknown,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,1,No,No,No,Unsure,No,No,Yes,No,18-24,North America,United States
+41,Male,United States,WA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,No,Yes,Yes,Unknown,2,Unsure,No,Yes,Unsure,No,Unsure,No,Yes,35-44,North America,United States
+55,Male,United States,PA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,0,No,No,Yes,Yes,No,No,Yes,No,55+,North America,United States
+32,Female,United States,WA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,1,Unsure,No,Unsure,Yes,No,Unsure,Yes,No,25-34,North America,United States
+21,Female,United States,CA,No,Yes,Yes,Rarely,26-100,No,Yes,Unknown,Unknown,Unknown,No,Unknown,1,Yes,No,Unsure,No,No,Yes,Unknown,No,18-24,North America,United States
+45,Male,United States,MA,No,No,Yes,Never,26-100,Yes,Yes,Yes,Yes,Unknown,Unknown,Unknown,4,Unsure,No,No,Unsure,No,Unsure,Unknown,No,45-54,North America,United States
+27,Female,United States,WA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Yes,4,Yes,Unsure,No,No,No,No,No,No,25-34,North America,United States
+25,Female,United States,WA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Unknown,No,No,No,Unknown,4,Unsure,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+34,Female,United States,NY,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,3,Unsure,Unsure,Unsure,Unsure,No,No,Yes,No,25-34,North America,United States
+26,Female,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,4,Unsure,No,No,No,No,No,Unknown,No,25-34,North America,United States
+41,Male,Canada,UNKNOWN,No,No,Yes,Never,500-1000,No,Yes,Yes,Unknown,No,Unknown,Unknown,1,No,No,Unsure,Unsure,No,No,Unknown,No,35-44,North America,Canada
+27,Male,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,4,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,North America,United States
+31,Male,United States,IN,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Unknown,4,No,No,Yes,Yes,No,No,Unknown,No,25-34,North America,United States
+25,Male,Germany,UNKNOWN,No,Yes,Yes,Often,26-100,Yes,Yes,No,No,No,No,Yes,1,No,No,Yes,Yes,No,Yes,No,No,25-34,Europe,Germany
+26,Male,United States,NV,No,No,Yes,Sometimes,6-25,No,Yes,Unknown,No,No,No,Unknown,4,Yes,Yes,Unsure,No,No,No,No,No,25-34,North America,United States
+27,Female,United States,CO,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,Unknown,Unknown,4,Unsure,Unsure,No,Yes,No,No,Unknown,No,25-34,North America,United States
+42,Male,New Zealand,UNKNOWN,No,No,No,Never,500-1000,No,Yes,Unknown,Unknown,No,No,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,Unknown,No,35-44,Oceania,New Zealand
+29,Others,United States,CA,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Yes,No,No,Unknown,3,Yes,No,Unsure,No,No,Unsure,No,No,25-34,North America,United States
+25,Female,United States,CA,No,No,Yes,Sometimes,6-25,No,Yes,Unknown,Unknown,No,No,Unknown,2,Yes,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+33,Female,Sweden,UNKNOWN,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,4,Unsure,No,Unsure,No,No,Yes,Unknown,No,25-34,Europe,Other
+,Others,Zimbabwe,UNKNOWN,Yes,Yes,Yes,Often,1-5,No,Yes,No,Yes,No,No,No,3,Yes,Yes,No,No,Yes,No,No,Yes,,Africa,Other
+40,Female,United States,PA,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,No,Unknown,Unknown,Unknown,1,Unsure,Unsure,No,No,No,No,Unknown,No,35-44,North America,United States
+31,Male,United States,SC,No,No,No,Never,More than 1000,No,Yes,Unknown,No,No,Unknown,Unknown,1,Yes,No,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+26,Male,Canada,UNKNOWN,No,Yes,Yes,Often,26-100,Yes,Yes,Unknown,No,Unknown,Unknown,Unknown,0,No,No,Yes,Yes,No,No,Yes,No,25-34,North America,Canada
+24,Female,United States,TX,No,Yes,No,Unknown,500-1000,No,No,No,No,No,No,No,3,Yes,Unsure,No,No,No,Unsure,No,Yes,18-24,North America,United States
+29,Male,United States,TX,No,No,No,Never,More than 1000,No,No,Yes,Unknown,No,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+48,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,Unsure,No,No,No,No,No,No,45-54,Europe,United Kingdom
+35,Male,United Kingdom,UNKNOWN,No,No,No,Sometimes,6-25,No,Yes,No,No,No,No,Unknown,3,Unsure,Unsure,Unsure,Yes,No,Unsure,No,Yes,35-44,Europe,United Kingdom
+32,Female,United States,AL,No,No,No,Never,100-500,No,Yes,Unknown,Unknown,No,No,Unknown,4,Unsure,No,No,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+29,Male,Canada,UNKNOWN,No,No,Yes,Sometimes,100-500,No,Yes,Unknown,Unknown,Unknown,Unknown,Yes,1,Unsure,No,Unsure,Unsure,No,Unsure,Yes,No,25-34,North America,Canada
+26,Male,United States,OR,No,Yes,Yes,Often,6-25,No,Yes,Yes,Yes,No,No,Unknown,2,Unsure,No,Unsure,Yes,No,No,No,No,25-34,North America,United States
+28,Male,United States,NJ,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Unknown,4,Unsure,No,Unsure,No,No,Unsure,No,No,25-34,North America,United States
+23,Male,United States,CA,No,No,No,Unknown,More than 1000,No,Yes,Unknown,No,No,Unknown,Unknown,4,No,No,Unsure,Yes,No,Unsure,No,No,18-24,North America,United States
+35,Male,United States,CA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Unknown,3,Unsure,Unsure,Unsure,Unsure,No,Unsure,No,Yes,35-44,North America,United States
+29,Male,Germany,UNKNOWN,No,Yes,Yes,Sometimes,26-100,No,Yes,Unknown,No,No,No,Unknown,0,Unsure,No,Unsure,Unsure,Unsure,Unsure,Unknown,No,25-34,Europe,Germany
+26,Male,United States,CA,No,Yes,No,Unknown,6-25,No,Yes,Yes,Yes,No,Yes,Yes,0,No,No,Unsure,Yes,Unsure,Unsure,No,No,25-34,North America,United States
+33,Male,United States,NH,No,Yes,Yes,Never,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,4,Yes,Unsure,Yes,Unsure,No,No,Yes,No,25-34,North America,United States
+33,Male,United States,CA,No,No,No,Unknown,More than 1000,Yes,Yes,Unknown,No,Unknown,Unknown,Unknown,4,Yes,No,Unsure,No,No,Unsure,Yes,No,25-34,North America,United States
+22,Male,Brazil,UNKNOWN,Yes,No,No,Never,6-25,Yes,Yes,Unknown,No,No,No,Unknown,1,No,No,Yes,Yes,Unsure,No,Unknown,No,18-24,South America,Other
+30,Female,Spain,UNKNOWN,No,Yes,No,Unknown,500-1000,No,Yes,No,No,No,No,Unknown,4,Yes,Unsure,No,No,No,No,Unknown,No,25-34,Europe,Other
+33,Male,United States,OH,No,Yes,Yes,Often,More than 1000,Yes,Yes,Yes,Yes,No,No,Unknown,1,Yes,No,No,No,No,No,No,No,25-34,North America,United States
+31,Female,United States,OH,No,Yes,Yes,Rarely,More than 1000,No,No,Unknown,Unknown,No,Unknown,Unknown,3,Yes,Unsure,No,No,No,Unsure,No,No,25-34,North America,United States
+21,Male,United States,MA,No,Yes,No,Never,More than 1000,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Unsure,No,Unsure,Unknown,Yes,18-24,North America,United States
+31,Others,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Unknown,No,No,No,Unknown,4,Yes,Unsure,No,No,No,Yes,Yes,No,25-34,Europe,United Kingdom
+26,Female,United States,OK,No,No,Yes,Sometimes,100-500,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,2,No,No,Unsure,Unsure,No,No,Yes,No,25-34,North America,United States
+30,Male,United States,CA,No,Yes,No,Often,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,1,Unsure,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+30,Others,Germany,UNKNOWN,No,Yes,Yes,Sometimes,100-500,No,Yes,Unknown,Unknown,No,No,Unknown,2,No,No,Yes,Yes,Unsure,Unsure,No,No,25-34,Europe,Germany
+23,Male,India,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,No,No,No,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,No,No,18-24,Asia,India
+34,Male,Finland,UNKNOWN,No,No,No,Never,6-25,No,Yes,No,No,No,No,Unknown,1,No,No,Yes,Yes,No,Unsure,Unknown,No,25-34,Europe,Other
+55,Male,United States,ID,No,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,Unknown,Unknown,4,Yes,Unsure,No,No,No,No,No,Yes,55+,North America,United States
+28,Male,Germany,UNKNOWN,No,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,No,No,No,Yes,0,No,No,Yes,Yes,No,No,Yes,No,25-34,Europe,Germany
+26,Male,Uruguay,UNKNOWN,No,No,No,Unknown,26-100,Yes,Yes,Unknown,No,Unknown,No,Unknown,4,No,No,Unsure,No,No,Yes,Unknown,No,25-34,South America,Other
+28,Male,New Zealand,UNKNOWN,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Yes,Yes,No,Unknown,0,No,No,Yes,Yes,Yes,Yes,Yes,No,25-34,Oceania,New Zealand
+32,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,6-25,No,Yes,No,No,No,Unknown,Unknown,1,No,No,Unsure,Yes,No,No,Unknown,No,25-34,Europe,United Kingdom
+28,Female,United States,NY,No,No,Yes,Rarely,More than 1000,No,No,Yes,Yes,No,Unknown,Unknown,4,Unsure,No,No,No,No,No,Unknown,No,25-34,North America,United States
+21,Male,United States,CA,No,No,No,Sometimes,6-25,No,No,Unknown,Unknown,No,Yes,Yes,4,No,No,Unsure,Unsure,Unsure,Unsure,Yes,No,18-24,North America,United States
+24,Male,United States,TX,No,Yes,Yes,Sometimes,100-500,No,Yes,No,Yes,No,No,Unknown,2,Yes,No,Unsure,Unsure,No,Unsure,No,Yes,18-24,North America,United States
+26,Female,United States,MD,No,No,No,Unknown,More than 1000,No,No,Yes,Unknown,Yes,Unknown,Unknown,4,Unsure,No,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+23,Male,United States,IN,No,No,No,Unknown,More than 1000,No,No,Yes,No,No,No,Unknown,4,No,No,Yes,No,No,Yes,Unknown,No,18-24,North America,United States
+24,Female,United States,OR,No,No,No,Unknown,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,1,No,No,Unsure,Unsure,Yes,Yes,Yes,No,18-24,North America,United States
+28,Male,Canada,UNKNOWN,Yes,No,No,Never,100-500,Yes,Yes,Unknown,No,No,No,Unknown,1,Unsure,No,Unsure,Yes,No,No,Yes,No,25-34,North America,Canada
+24,Female,United States,NY,No,Yes,Yes,Rarely,6-25,No,Yes,No,No,No,No,Unknown,0,Yes,No,No,Unsure,No,Yes,Yes,No,18-24,North America,United States
+33,Male,United States,MS,Yes,No,Yes,Often,1-5,Yes,Yes,No,No,No,No,Yes,1,Yes,Unsure,Unsure,Unsure,Yes,Yes,Unknown,No,25-34,North America,United States
+34,Male,United States,NJ,No,No,No,Sometimes,26-100,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,No,Yes,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+27,Female,United States,CA,No,No,Yes,Sometimes,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,2,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+28,Male,United States,TN,No,No,No,Never,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+26,Male,United States,WA,No,No,No,Unknown,More than 1000,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,Yes,25-34,North America,United States
+20,Male,Australia,UNKNOWN,No,No,No,Unknown,100-500,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Yes,0,No,No,Unsure,Yes,No,No,Unknown,No,18-24,Oceania,Australia
+23,Female,United States,MA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Unknown,Unknown,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,18-24,North America,United States
+29,Male,United States,PA,No,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+26,Male,United Kingdom,UNKNOWN,No,Yes,No,Sometimes,6-25,No,Yes,No,No,No,No,Unknown,4,Unsure,Unsure,No,No,No,Unsure,No,No,25-34,Europe,United Kingdom
+36,Male,United States,KY,No,No,No,Rarely,More than 1000,Yes,Yes,Yes,No,Yes,Unknown,Unknown,1,Unsure,No,No,No,No,No,Unknown,No,35-44,North America,United States
+41,Male,United States,PA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,4,Unsure,No,Unsure,Yes,Unsure,Yes,Yes,Yes,35-44,North America,United States
+33,Female,United States,MA,No,No,No,Unknown,100-500,Yes,Yes,Yes,No,Unknown,No,Unknown,4,No,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+23,Male,Canada,UNKNOWN,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,0,No,No,Yes,Yes,No,No,Yes,No,18-24,North America,Canada
+39,Male,United States,CA,No,Yes,No,Often,More than 1000,No,Yes,Yes,No,No,Unknown,Unknown,4,Yes,No,Unsure,Unsure,No,Unsure,No,Yes,35-44,North America,United States
+34,Male,United States,VT,No,Yes,No,Unknown,More than 1000,No,Yes,Yes,Unknown,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,Yes,25-34,North America,United States
+26,Female,United States,CA,No,No,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Unknown,2,Yes,Unsure,Unsure,Unsure,No,No,No,Yes,25-34,North America,United States
+24,Male,United States,AZ,No,No,Yes,Rarely,26-100,No,Yes,Yes,Yes,Yes,No,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,18-24,North America,United States
+37,Male,Canada,UNKNOWN,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,35-44,North America,Canada
+43,Male,United States,MA,Yes,Yes,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,No,Yes,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,35-44,North America,United States
+40,Others,United States,VA,No,Yes,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Unknown,Yes,4,Yes,Unsure,No,Unsure,No,Unsure,Yes,No,35-44,North America,United States
+30,Male,United States,WA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,No,Unknown,3,Yes,No,Unsure,No,No,No,No,Yes,25-34,North America,United States
+34,Male,United States,CA,No,No,Yes,Sometimes,6-25,No,Yes,Unknown,Unknown,No,No,Unknown,4,Yes,Yes,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+27,Male,United States,OR,No,Yes,Yes,Sometimes,100-500,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Yes,No,No,No,No,Yes,Unknown,No,25-34,North America,United States
+36,Male,United States,MI,No,No,No,Sometimes,More than 1000,No,Yes,Unknown,No,No,No,Yes,1,No,No,Yes,Yes,Unsure,Yes,Unknown,No,35-44,North America,United States
+27,Male,Brazil,UNKNOWN,No,No,No,Rarely,6-25,No,Yes,No,Yes,No,No,Unknown,1,Unsure,No,Unsure,Unsure,No,Unsure,No,No,25-34,South America,Other
+35,Male,Netherlands,UNKNOWN,No,Yes,No,Never,100-500,No,Yes,Yes,No,No,No,Yes,4,Yes,No,No,No,No,Unsure,Unknown,No,35-44,Europe,Netherlands
+32,Male,United Kingdom,UNKNOWN,No,No,No,Never,6-25,No,Yes,No,No,No,No,Unknown,4,Unsure,No,Unsure,No,No,Yes,Yes,No,25-34,Europe,United Kingdom
+37,Male,United States,OR,No,No,No,Unknown,500-1000,No,Yes,Yes,No,No,No,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,35-44,North America,United States
+29,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,Unknown,No,Unknown,Unknown,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,25-34,Europe,United Kingdom
+33,Female,United States,CA,No,No,No,Never,500-1000,No,Yes,Yes,Unknown,Yes,Yes,Unknown,0,Unsure,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+28,Male,United States,UT,No,No,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Unknown,1,Yes,Unsure,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+26,Female,United States,CA,No,Yes,No,Never,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,2,Unsure,Unsure,Unsure,No,No,Unsure,No,No,25-34,North America,United States
+27,Male,United States,TX,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Unknown,No,Yes,Unknown,Unknown,1,Yes,No,Unsure,Yes,No,Unsure,Yes,No,25-34,North America,United States
+38,Male,United Kingdom,UNKNOWN,Yes,No,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Yes,1,Unsure,Unsure,Unsure,Yes,No,Unsure,Yes,No,35-44,Europe,United Kingdom
+57,Male,United States,CA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Unknown,4,Unsure,No,Unsure,Yes,No,Unsure,No,No,55+,North America,United States
+28,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,More than 1000,No,Yes,No,No,No,No,No,3,Yes,Unsure,No,Unsure,No,Unsure,No,No,25-34,Europe,United Kingdom
+26,Male,France,UNKNOWN,No,No,No,Never,6-25,No,Yes,No,Yes,No,No,Unknown,4,Unsure,No,Yes,Yes,Unsure,Unsure,No,No,25-34,Europe,France
+42,Female,Netherlands,UNKNOWN,No,No,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,No,No,Yes,4,Yes,No,Unsure,No,No,Unsure,Unknown,No,35-44,Europe,Netherlands
+31,Male,United States,OR,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,No,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+58,Male,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,1,Unsure,No,Unsure,Yes,No,Yes,Yes,No,55+,North America,United States
+29,Male,United States,OH,No,No,No,Sometimes,6-25,No,Yes,Unknown,No,No,No,Unknown,3,Yes,No,No,No,No,Unsure,No,No,25-34,North America,United States
+39,Female,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Unknown,4,Yes,No,Unsure,Unsure,No,Unsure,No,Yes,35-44,Europe,United Kingdom
+34,Male,United States,OH,No,No,No,Sometimes,6-25,Yes,Yes,Unknown,No,No,No,Unknown,3,Unsure,No,Unsure,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+57,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Unknown,Yes,Yes,Unknown,4,Unsure,Unsure,No,No,No,Unsure,Unknown,No,55+,North America,United States
+27,Male,Germany,UNKNOWN,No,Yes,Yes,Sometimes,6-25,No,Yes,No,Unknown,No,No,Unknown,2,Yes,Unsure,Unsure,No,No,No,No,Yes,25-34,Europe,Germany
+23,Male,Germany,UNKNOWN,Yes,Yes,Yes,Often,26-100,Yes,Yes,Unknown,No,Unknown,Unknown,Unknown,4,No,Unsure,Yes,Yes,Unsure,Yes,Unknown,No,18-24,Europe,Germany
+18,Male,Finland,UNKNOWN,No,No,No,Unknown,500-1000,Yes,No,Unknown,No,No,Unknown,Unknown,0,Yes,No,No,No,No,Unsure,Unknown,No,18-24,Europe,Other
+30,Female,United States,NY,No,No,No,Unknown,100-500,No,Yes,Unknown,Unknown,No,No,Unknown,4,Unsure,No,Unsure,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+23,Male,United States,VA,No,No,No,Never,26-100,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Yes,Yes,Unsure,Yes,Yes,No,18-24,North America,United States
+43,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,1,Yes,Unsure,No,No,No,Yes,Unknown,No,35-44,North America,United States
+18,Female,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,1-5,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Unknown,No,18-24,Europe,United Kingdom
+29,Male,United States,IL,No,No,Yes,Rarely,6-25,No,Yes,Yes,Yes,No,No,Unknown,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+48,Male,United States,TX,No,No,No,Never,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,4,Unsure,No,No,No,No,Unsure,Unknown,No,45-54,North America,United States
+43,Male,Germany,UNKNOWN,No,No,Yes,Sometimes,26-100,No,No,No,Yes,Unknown,No,Unknown,1,Unsure,No,Unsure,Unsure,No,Yes,No,Yes,35-44,Europe,Germany
+28,Female,United States,NY,No,Yes,Yes,Sometimes,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,4,Yes,Unsure,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+30,Male,United States,CA,Yes,Yes,Yes,Often,1-5,Yes,Yes,No,Yes,No,No,Yes,0,No,No,Yes,Yes,No,No,Yes,No,25-34,North America,United States
+26,Male,Israel,MD,No,No,No,Sometimes,6-25,No,Yes,No,No,No,No,Yes,0,Unsure,No,Unsure,Yes,No,Unsure,Yes,No,25-34,Asia,Other
+33,Male,Italy,UNKNOWN,No,No,No,Never,6-25,No,No,No,No,No,No,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,No,No,25-34,Europe,Other
+31,Male,United States,CA,No,No,No,Unknown,More than 1000,No,Yes,Yes,Unknown,Unknown,Unknown,Yes,4,No,No,No,Unsure,No,No,Yes,No,25-34,North America,United States
+30,Male,United States,PA,No,No,No,Rarely,100-500,No,No,Unknown,Unknown,No,No,Unknown,4,No,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+27,Male,Israel,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,No,No,No,No,Unknown,2,Yes,No,Unsure,No,No,Unsure,No,Yes,25-34,Asia,Other
+24,Female,United States,CA,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,Unknown,Unknown,Unknown,4,No,No,Unsure,Unsure,No,No,Unknown,Yes,18-24,North America,United States
+25,Male,United States,WA,No,No,No,Unknown,26-100,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+23,Female,United States,NY,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Unknown,Unknown,No,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Yes,Yes,18-24,North America,United States
+36,Male,United States,TX,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Unknown,No,No,Unknown,2,Yes,Unsure,Unsure,No,No,No,No,Yes,35-44,North America,United States
+25,Female,United States,CA,Yes,Yes,Yes,Often,1-5,Yes,Yes,Unknown,Unknown,No,No,Yes,2,Yes,No,Unsure,No,No,Unsure,No,Yes,25-34,North America,United States
+54,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,More than 1000,Yes,No,No,Yes,Yes,Yes,Yes,0,No,No,Yes,Yes,Unsure,Unsure,No,No,45-54,Europe,United Kingdom
+34,Male,Netherlands,UNKNOWN,No,No,No,Rarely,6-25,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,1,No,No,Unsure,Unsure,No,Unsure,Yes,No,25-34,Europe,Netherlands
+38,Female,United States,AZ,No,No,Yes,Unknown,26-100,No,Yes,Yes,Yes,No,No,Yes,4,Unsure,Unsure,No,No,No,No,No,No,35-44,North America,United States
+40,Male,Ireland,UNKNOWN,Yes,Yes,No,Unknown,More than 1000,No,Yes,No,No,No,No,No,4,Yes,Unsure,Unsure,No,No,Unsure,No,Yes,35-44,Europe,Ireland
+32,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,No,Unknown,No,Unknown,Unknown,4,No,No,No,Unsure,No,Unsure,Unknown,No,25-34,Europe,United Kingdom
+25,Male,Germany,UNKNOWN,No,No,No,Never,More than 1000,No,No,Unknown,Unknown,Unknown,Yes,Unknown,4,No,No,Yes,Yes,No,Yes,Unknown,No,25-34,Europe,Germany
+35,Female,United States,OH,No,No,Yes,Sometimes,100-500,No,Yes,No,Yes,No,No,Unknown,4,Yes,Unsure,No,No,No,Unsure,No,No,35-44,North America,United States
+46,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Unknown,4,Unsure,No,Unsure,No,No,No,Yes,No,45-54,North America,United States
+42,Male,United States,KS,No,No,No,Never,100-500,No,No,Yes,No,Yes,No,Unknown,3,Unsure,No,Yes,Yes,Unsure,Yes,No,No,35-44,North America,United States
+32,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,No,No,No,Unknown,4,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,Europe,United Kingdom
+47,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Unknown,0,No,No,Unsure,Yes,No,Yes,Yes,No,45-54,North America,United States
+22,Male,United States,CA,No,No,No,Unknown,More than 1000,No,Yes,Yes,Unknown,Yes,Unknown,Yes,4,No,No,Unsure,Yes,No,Unsure,Yes,No,18-24,North America,United States
+33,Female,United States,NY,No,No,Yes,Sometimes,500-1000,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,0,No,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+25,Female,United States,WA,No,No,No,Sometimes,6-25,No,Yes,No,No,No,No,No,1,Unsure,No,Unsure,No,No,No,Yes,No,25-34,North America,United States
+29,Male,United States,CA,No,No,No,Unknown,More than 1000,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,No,No,No,No,Unsure,Unknown,No,25-34,North America,United States
+39,Male,United States,WA,No,No,No,Never,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,0,No,No,Yes,Yes,No,No,Yes,No,35-44,North America,United States
+38,Male,United States,VA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Unknown,Yes,Yes,Yes,4,Yes,No,No,No,No,No,No,No,35-44,North America,United States
+43,Male,United States,NC,No,No,No,Unknown,6-25,Yes,Yes,Unknown,No,No,Unknown,Unknown,4,Unsure,No,Unsure,No,No,No,Unknown,No,35-44,North America,United States
+46,Male,United States,OH,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Unknown,Yes,Yes,Yes,4,No,No,Unsure,Yes,No,Unsure,Yes,No,45-54,North America,United States
+38,Female,United States,PA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,0,Unsure,No,Yes,Yes,No,No,No,Yes,35-44,North America,United States
+33,Male,Germany,UNKNOWN,No,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,0,Yes,Yes,Unsure,Unsure,No,Unsure,No,No,25-34,Europe,Germany
+34,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Often,26-100,No,Yes,No,Yes,No,No,Yes,0,Unsure,Unsure,Yes,Yes,No,No,No,No,25-34,Europe,United Kingdom
+62,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Unknown,Yes,Unknown,4,Unsure,No,Unsure,Yes,Unsure,Unsure,Yes,No,55+,North America,United States
+23,Female,United States,TX,No,No,No,Unknown,More than 1000,No,No,Unknown,Unknown,Unknown,Unknown,Yes,4,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,18-24,North America,United States
+35,Male,United States,AZ,No,No,No,Unknown,More than 1000,No,No,No,No,No,No,Unknown,4,Unsure,Unsure,No,No,No,No,No,No,35-44,North America,United States
+25,Male,Bosnia and Herzegovina,UNKNOWN,No,Yes,No,Rarely,26-100,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,Yes,No,No,No,No,Unknown,Yes,25-34,Europe,Other
+36,Male,United States,IL,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Unknown,Yes,Unknown,No,Yes,2,Unsure,No,Unsure,Yes,No,Yes,Yes,No,35-44,North America,United States
+41,Female,United States,UNKNOWN,No,Yes,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Unsure,Unsure,Unsure,Unsure,No,No,Yes,No,35-44,North America,United States
+24,Male,Austria,UNKNOWN,Yes,No,No,Sometimes,1-5,No,Yes,Yes,Yes,Unknown,Unknown,Yes,1,No,No,Unsure,Unsure,Unsure,Unsure,Yes,No,18-24,Europe,Other
+51,Male,New Zealand,UNKNOWN,No,No,Yes,Sometimes,26-100,Yes,Yes,No,Yes,Yes,No,No,2,Yes,Yes,No,No,No,No,Unknown,Yes,45-54,Oceania,New Zealand
+29,Male,United States,NC,No,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,Yes,Yes,0,No,No,No,Unsure,No,No,Yes,No,25-34,North America,United States
+31,Female,Canada,UNKNOWN,Yes,Yes,Yes,Sometimes,100-500,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,Unsure,Unsure,Yes,No,No,Yes,No,25-34,North America,Canada
+27,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,No,No,No,Unknown,4,No,No,Unsure,Yes,No,Yes,Unknown,No,25-34,Europe,United Kingdom
+31,Male,Australia,UNKNOWN,No,No,Yes,Rarely,100-500,No,Yes,Yes,Yes,Yes,Yes,Unknown,1,No,No,Yes,Yes,Yes,Yes,No,No,25-34,Oceania,Australia
+27,Female,Hungary,UNKNOWN,Yes,Yes,No,Sometimes,1-5,Yes,Yes,No,No,No,No,No,3,Yes,Unsure,No,No,No,Unsure,No,No,25-34,Europe,Other
+23,Male,Sweden,UNKNOWN,No,No,No,Rarely,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,0,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,18-24,Europe,Other
+21,Male,Canada,UNKNOWN,No,No,No,Never,26-100,No,Yes,Unknown,Unknown,Unknown,No,Unknown,4,Yes,Unsure,No,No,No,Unsure,Unknown,No,18-24,North America,Canada
+27,Female,Australia,UNKNOWN,No,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,No,2,Yes,No,Unsure,Unsure,No,No,No,No,25-34,Oceania,Australia
+39,Male,United States,WI,No,Yes,Yes,Often,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,1,Yes,No,Unsure,Yes,No,No,No,No,35-44,North America,United States
+26,Male,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Unknown,No,No,Unknown,Unknown,4,Unsure,No,No,No,No,No,No,No,25-34,North America,United States
+27,Male,United Kingdom,UNKNOWN,No,No,No,Never,6-25,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,25-34,Europe,United Kingdom
+22,Female,United States,CA,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Unknown,Unknown,4,No,No,Unsure,Unsure,No,No,No,Yes,18-24,North America,United States
+26,Female,United States,MN,No,Yes,Yes,Often,100-500,No,No,Unknown,No,No,No,Unknown,2,Unsure,No,No,No,No,Unsure,No,No,25-34,North America,United States
+31,Female,United States,PA,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,Yes,No,No,Yes,1,No,No,Yes,Yes,No,No,Yes,No,25-34,North America,United States
+32,Male,United Kingdom,UNKNOWN,No,No,No,Never,6-25,No,Yes,Unknown,No,No,No,Unknown,4,No,No,Yes,Yes,Yes,Yes,Yes,No,25-34,Europe,United Kingdom
+28,Female,United States,CA,No,Yes,Yes,Often,100-500,Yes,Yes,Yes,No,No,Unknown,Unknown,4,Yes,Yes,Unsure,Unsure,No,No,No,Yes,25-34,North America,United States
+28,Others,United Kingdom,UNKNOWN,No,Yes,Yes,Rarely,100-500,No,Yes,No,Unknown,No,No,Yes,2,Yes,Yes,Unsure,Unsure,Yes,No,No,Yes,25-34,Europe,United Kingdom
+23,Female,United Kingdom,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,Unknown,Unknown,No,No,Unknown,0,Unsure,No,No,Unsure,No,Yes,Yes,No,18-24,Europe,United Kingdom
+30,Male,United Kingdom,UNKNOWN,No,No,No,Never,26-100,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,Europe,United Kingdom
+36,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Yes,Unknown,2,Yes,No,Unsure,Yes,No,Yes,No,No,35-44,North America,United States
+21,Male,United States,CA,No,Yes,No,Unknown,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,4,No,No,Unsure,Yes,No,Unsure,Yes,No,18-24,North America,United States
+30,Male,Germany,UNKNOWN,No,No,No,Often,26-100,No,Yes,No,No,Unknown,No,Unknown,1,Unsure,No,Unsure,Unsure,Unsure,Yes,Unknown,No,25-34,Europe,Germany
+25,Female,United States,CA,No,Yes,No,Unknown,500-1000,No,No,Unknown,Unknown,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+32,Male,New Zealand,UNKNOWN,No,No,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Unknown,0,No,No,Unsure,Yes,Unsure,Yes,Unknown,No,25-34,Oceania,New Zealand
+29,Female,Canada,UNKNOWN,No,No,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Yes,No,25-34,North America,Canada
+21,Others,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,26-100,No,Yes,No,Yes,Yes,No,Yes,1,Unsure,No,Unsure,Unsure,No,No,Yes,No,18-24,Europe,United Kingdom
+27,Female,New Zealand,UNKNOWN,No,Yes,Yes,Rarely,100-500,Yes,Yes,No,No,No,No,Unknown,1,Unsure,Unsure,Unsure,Unsure,No,Yes,Unknown,No,25-34,Oceania,New Zealand
+32,Female,Canada,UNKNOWN,No,No,Yes,Often,More than 1000,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,Canada
+34,Male,Australia,UNKNOWN,No,No,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,0,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,Oceania,Australia
+33,Male,United States,NY,No,No,No,Unknown,26-100,No,Yes,Unknown,No,Unknown,Unknown,Unknown,4,Yes,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+22,Male,Netherlands,UNKNOWN,No,Yes,Yes,Sometimes,6-25,Yes,Yes,No,Unknown,No,Unknown,Unknown,1,No,No,Unsure,Yes,Unsure,Yes,Yes,No,18-24,Europe,Netherlands
+24,Male,United States,CA,No,No,No,Unknown,More than 1000,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,Yes,No,18-24,North America,United States
+65,Male,United States,FL,Yes,No,No,Unknown,6-25,Yes,No,No,No,No,No,Unknown,0,Unsure,No,Unsure,No,No,No,Yes,No,55+,North America,United States
+27,Male,United States,OR,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Unknown,No,No,Unknown,Unknown,4,No,No,Unsure,No,No,No,Yes,No,25-34,North America,United States
+33,Male,Australia,UNKNOWN,No,No,No,Never,More than 1000,No,Yes,Unknown,Unknown,Unknown,Unknown,Yes,0,No,No,Unsure,Yes,Unsure,Yes,Yes,No,25-34,Oceania,Australia
+36,Male,United States,CO,No,No,Yes,Rarely,26-100,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,No,No,Unsure,Unsure,No,No,Unknown,No,35-44,North America,United States
+40,Male,Canada,UNKNOWN,No,No,No,Never,26-100,No,Yes,No,No,No,No,Unknown,2,No,No,Unsure,Unsure,No,No,No,No,35-44,North America,Canada
+28,Male,United States,GA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Yes,2,Unsure,No,Unsure,No,No,Unsure,No,No,25-34,North America,United States
+39,Male,United States,OR,No,No,Yes,Sometimes,500-1000,No,Yes,Yes,Unknown,Yes,Unknown,Yes,4,Yes,Unsure,Yes,Yes,No,Unsure,Unknown,No,35-44,North America,United States
+32,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Yes,Unknown,1,No,No,Yes,Unsure,Unsure,Yes,Unknown,No,25-34,North America,United States
+31,Male,United States,CA,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Unknown,Unknown,Unknown,Unknown,1,Unsure,No,No,Unsure,No,Yes,No,No,25-34,North America,United States
+38,Male,United States,PA,No,Yes,Yes,Sometimes,100-500,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,Unsure,Unsure,No,No,No,Unknown,No,35-44,North America,United States
+23,Male,United States,CA,No,Yes,Yes,Rarely,1-5,No,Yes,No,Yes,No,No,Unknown,4,Unsure,No,Unsure,Yes,No,No,Yes,No,18-24,North America,United States
+42,Male,United States,CA,No,No,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,1,Unsure,Unsure,Yes,Yes,Unsure,Unsure,Unknown,No,35-44,North America,United States
+27,Female,United States,NY,No,No,No,Sometimes,500-1000,No,Yes,Unknown,Unknown,Unknown,Yes,Unknown,4,No,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+26,Female,United States,MA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,2,No,No,Yes,Yes,No,No,No,Yes,25-34,North America,United States
+50,Male,United States,UNKNOWN,No,No,No,Never,26-100,Yes,Yes,No,Yes,No,No,Unknown,4,No,No,No,No,No,Unsure,No,No,45-54,North America,United States
+37,Male,United States,PA,No,Yes,No,Never,26-100,No,Yes,Unknown,No,No,Unknown,Unknown,1,No,No,Yes,Yes,No,No,Yes,No,35-44,North America,United States
+23,Male,United States,RI,No,No,No,Unknown,26-100,No,Yes,Unknown,No,Unknown,No,Unknown,4,No,No,Yes,Yes,No,Unsure,Unknown,No,18-24,North America,United States
+33,Male,United States,MI,No,Yes,No,Sometimes,6-25,Yes,Yes,Unknown,Unknown,No,No,Yes,0,No,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+29,Male,Canada,UNKNOWN,Yes,No,No,Never,26-100,Yes,Yes,Yes,Yes,No,No,Yes,3,Yes,No,Unsure,No,No,Yes,No,No,25-34,North America,Canada
+34,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,Yes,No,Yes,No,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+41,Male,United States,CA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,No,No,No,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,Yes,35-44,North America,United States
+50,Male,United States,OR,No,Yes,No,Unknown,100-500,Yes,Yes,Unknown,No,No,Unknown,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,Unknown,No,45-54,North America,United States
+29,Male,Canada,UNKNOWN,No,No,Yes,Never,More than 1000,No,No,Yes,Unknown,Yes,Yes,Yes,2,Unsure,No,Unsure,No,No,Unsure,Unknown,Yes,25-34,North America,Canada
+35,Male,United States,IN,No,No,No,Never,6-25,No,Yes,No,Yes,No,No,Yes,0,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,35-44,North America,United States
+27,Male,Singapore,UNKNOWN,No,No,No,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,4,Yes,No,Unsure,Yes,No,No,No,No,25-34,Asia,Other
+40,Female,United States,MA,No,No,No,Never,26-100,No,No,Unknown,Unknown,No,No,Unknown,1,Unsure,Unsure,Yes,Yes,Unsure,Unsure,Unknown,No,35-44,North America,United States
+27,Male,Australia,UNKNOWN,No,No,Yes,Often,100-500,Yes,Yes,No,No,No,No,Unknown,4,Unsure,No,Unsure,No,No,Unsure,No,Yes,25-34,Oceania,Australia
+29,Female,United States,MI,No,No,No,Never,26-100,No,Yes,Yes,Yes,Yes,No,Yes,4,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,Yes,25-34,North America,United States
+31,Male,United States,OH,No,Yes,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Unknown,1,Unsure,No,Yes,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+43,Male,United States,OH,No,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Unknown,1,No,No,Yes,Yes,No,Unsure,Unknown,No,35-44,North America,United States
+34,Male,United States,NH,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,Yes,Unknown,Yes,25-34,North America,United States
+29,Male,United States,OH,No,Yes,Yes,Sometimes,26-100,No,Yes,Unknown,No,No,No,No,2,Yes,No,Unsure,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+19,Male,Canada,UNKNOWN,No,Yes,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Unknown,4,Unsure,Unsure,Unsure,No,No,Unsure,Unknown,No,18-24,North America,Canada
+41,Male,United States,TN,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Unknown,Yes,Yes,Unknown,4,Unsure,No,Unsure,Unsure,No,No,No,No,35-44,North America,United States
+29,Male,United States,OR,No,Yes,No,Never,100-500,No,Yes,Yes,Yes,Yes,Yes,Unknown,4,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,North America,United States
+23,Male,United States,PA,No,No,No,Rarely,100-500,No,Yes,Yes,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Unsure,No,No,Yes,No,18-24,North America,United States
+24,Female,United States,UNKNOWN,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Unknown,No,No,Unknown,2,Yes,Unsure,No,No,No,No,No,Yes,18-24,North America,United States
+31,Male,United States,NY,No,No,No,Unknown,26-100,Yes,Yes,Unknown,No,No,Unknown,Unknown,4,Yes,No,No,No,No,Unsure,Unknown,No,25-34,North America,United States
+43,Male,United States,WA,No,No,No,Unknown,500-1000,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Yes,Yes,No,No,Yes,No,35-44,North America,United States
+31,Male,United States,NY,No,Yes,Yes,Rarely,100-500,No,Yes,No,No,No,Unknown,Unknown,2,Yes,Yes,Unsure,No,No,No,No,Yes,25-34,North America,United States
+29,Male,United States,CA,No,Yes,No,Often,100-500,No,Yes,Yes,Yes,Yes,Yes,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+35,Male,United States,TN,Yes,Yes,No,Unknown,6-25,Yes,Yes,No,No,Yes,Yes,Unknown,0,No,No,Yes,Yes,No,Unsure,Yes,No,35-44,North America,United States
+33,Male,United States,WI,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Unknown,No,No,Yes,2,Yes,Yes,No,No,No,No,No,No,25-34,North America,United States
+30,Female,United States,WI,Yes,Yes,Yes,Often,1-5,Yes,No,No,Yes,No,Yes,Yes,2,No,No,Yes,Yes,No,No,Yes,No,25-34,North America,United States
+27,Male,United States,PA,No,No,No,Unknown,More than 1000,No,Yes,Yes,Unknown,Unknown,Unknown,Yes,4,Unsure,Unsure,No,No,No,Unsure,No,No,25-34,North America,United States
+32,Male,United States,MI,No,No,No,Sometimes,100-500,No,Yes,No,Yes,No,No,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,No,No,25-34,North America,United States
+50,Male,United States,WY,No,No,No,Sometimes,1-5,Yes,Yes,Unknown,No,No,Unknown,Unknown,4,Yes,Unsure,Unsure,Unsure,No,Unsure,Unknown,No,45-54,North America,United States
+24,Male,United States,KY,No,No,No,Never,26-100,No,No,Unknown,Unknown,No,No,Unknown,4,Unsure,Yes,Unsure,No,No,Unsure,No,No,18-24,North America,United States
+27,Male,United States,NY,No,No,No,Unknown,26-100,No,Yes,Unknown,No,No,No,Unknown,4,No,No,Yes,Yes,No,Unsure,Yes,No,25-34,North America,United States
+27,Male,Australia,UNKNOWN,No,No,No,Never,1-5,Yes,Yes,No,No,No,No,Unknown,4,Yes,No,No,No,No,Unsure,Unknown,No,25-34,Oceania,Australia
+32,Male,United States,TX,No,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Yes,1,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+42,Male,United States,WI,Yes,No,No,Rarely,6-25,Yes,No,No,Yes,No,No,Unknown,0,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,35-44,North America,United States
+37,Male,United States,WA,No,No,No,Often,More than 1000,No,No,Unknown,No,No,No,Unknown,4,Unsure,No,Unsure,No,No,No,No,No,35-44,North America,United States
+30,Male,Singapore,UNKNOWN,No,No,No,Sometimes,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,1,Unsure,No,Unsure,No,No,Yes,No,Yes,25-34,Asia,Other
+29,Male,United States,WA,No,No,No,Rarely,More than 1000,No,Yes,Yes,No,No,No,Unknown,0,Yes,Unsure,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+30,Male,United States,GA,Yes,No,Yes,Often,6-25,Yes,Yes,No,Unknown,No,Yes,Unknown,2,No,No,Yes,Yes,No,Unsure,Yes,No,25-34,North America,United States
+35,Male,United States,MI,No,No,No,Never,26-100,No,Yes,Yes,No,Yes,Unknown,Unknown,4,No,No,Unsure,Unsure,Unsure,Unsure,Yes,No,35-44,North America,United States
+35,Male,United States,MD,No,Yes,Yes,Rarely,100-500,Yes,No,Yes,Yes,No,No,Yes,3,Yes,No,Unsure,No,No,Unsure,No,No,35-44,North America,United States
+38,Male,Netherlands,UNKNOWN,No,Yes,No,Often,26-100,Yes,Yes,No,Unknown,No,Unknown,Unknown,4,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Unknown,No,35-44,Europe,Netherlands
+22,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Yes,0,No,No,Unsure,Yes,Unsure,Yes,Yes,No,18-24,Europe,United Kingdom
+24,Male,Germany,UNKNOWN,No,Yes,No,Sometimes,100-500,No,Yes,Unknown,No,No,No,Unknown,1,No,No,Unsure,Unsure,No,Unsure,Unknown,No,18-24,Europe,Germany
+22,Male,Netherlands,UNKNOWN,Yes,No,No,Never,1-5,No,Yes,Unknown,Unknown,No,No,Unknown,4,No,Unsure,Unsure,Yes,Unsure,Yes,No,Yes,18-24,Europe,Netherlands
+31,Female,United States,WA,No,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Unknown,0,Unsure,No,Unsure,Unsure,No,Yes,Unknown,No,25-34,North America,United States
+23,Female,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,1,Yes,Unsure,No,No,No,No,Unknown,No,18-24,North America,United States
+31,Female,United States,OR,No,Yes,Yes,Sometimes,100-500,No,Yes,Unknown,No,No,No,Unknown,4,No,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+28,Female,United States,CA,No,Yes,Yes,Rarely,500-1000,No,Yes,Yes,Yes,Yes,Yes,Unknown,2,Unsure,No,No,Unsure,No,No,No,No,25-34,North America,United States
+37,Male,Canada,UNKNOWN,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Yes,No,No,Unknown,2,Yes,Unsure,Unsure,Unsure,No,Unsure,No,No,35-44,North America,Canada
+34,Male,United States,CA,Yes,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Yes,1,No,No,Unsure,Unsure,No,No,No,No,25-34,North America,United States
+32,Male,Canada,UNKNOWN,No,No,No,Sometimes,26-100,Yes,Yes,No,Yes,No,No,Yes,3,Yes,Unsure,Unsure,No,No,Unsure,No,Yes,25-34,North America,Canada
+28,Male,United States,MI,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Unknown,No,Unknown,Unknown,4,Yes,No,Unsure,Unsure,No,No,Unknown,Yes,25-34,North America,United States
+24,Female,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,100-500,No,Yes,No,No,No,No,Unknown,4,Unsure,No,No,Unsure,No,Unsure,Unknown,No,18-24,Europe,United Kingdom
+56,Male,United States,MA,No,Yes,Yes,Rarely,6-25,No,Yes,Yes,Yes,No,No,Unknown,4,Yes,Unsure,Unsure,Unsure,No,No,Unknown,No,55+,North America,United States
+31,Male,Germany,UNKNOWN,No,No,No,Sometimes,6-25,Yes,Yes,No,No,No,No,No,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,Europe,Germany
+34,Female,United States,CA,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Unknown,Unknown,1,Unsure,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+35,Male,Germany,UNKNOWN,No,No,Yes,Rarely,100-500,No,No,Unknown,No,Yes,Unknown,Unknown,0,No,No,Unsure,Yes,No,No,Yes,No,35-44,Europe,Germany
+28,Male,Germany,UNKNOWN,No,No,No,Never,26-100,No,Yes,No,No,No,No,Unknown,1,No,No,Unsure,Unsure,Yes,Yes,Unknown,No,25-34,Europe,Germany
+36,Male,Poland,UNKNOWN,Yes,Yes,Yes,Often,6-25,No,Yes,No,No,No,No,Unknown,1,No,No,Unsure,Yes,Unsure,Unsure,Yes,Yes,35-44,Europe,Other
+30,Male,United Kingdom,UNKNOWN,No,No,Yes,Often,26-100,No,Yes,No,No,No,No,Yes,1,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,Europe,United Kingdom
+35,Male,United States,UNKNOWN,Yes,No,No,Unknown,1-5,Yes,Yes,Yes,Unknown,No,No,Yes,0,No,No,Unsure,Yes,No,No,Yes,No,35-44,North America,United States
+49,Male,Japan,UNKNOWN,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,Yes,No,Unknown,2,Yes,Yes,No,No,No,No,No,Yes,45-54,Asia,Other
+36,Male,Germany,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,Yes,Yes,No,No,Yes,0,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,35-44,Europe,Germany
+35,Male,Germany,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,No,No,No,No,Unknown,0,Unsure,No,Unsure,Unsure,No,No,Unknown,No,35-44,Europe,Germany
+29,Female,Australia,UNKNOWN,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,No,2,Yes,No,Unsure,Unsure,No,No,No,Yes,25-34,Oceania,Australia
+57,Male,United States,CA,No,No,No,Never,26-100,No,Yes,Yes,Yes,No,Yes,Yes,2,Yes,Unsure,No,No,No,Unsure,Unknown,Yes,55+,North America,United States
+31,Female,Belgium,UNKNOWN,No,Yes,Yes,Rarely,100-500,No,No,Yes,No,No,No,No,4,Unsure,No,Unsure,No,No,No,Unknown,Yes,25-34,Europe,Other
+37,Male,Ireland,UNKNOWN,Yes,No,No,Never,6-25,No,Yes,No,No,No,No,Unknown,4,Yes,Unsure,No,No,No,Unsure,Unknown,No,35-44,Europe,Ireland
+25,Male,Ireland,UNKNOWN,No,Yes,Yes,Sometimes,26-100,No,Yes,No,No,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,Unsure,No,No,25-34,Europe,Ireland
+30,Male,Australia,UNKNOWN,No,No,No,Sometimes,26-100,No,Yes,No,No,No,No,Unknown,0,No,No,Unsure,Unsure,No,No,Unknown,No,25-34,Oceania,Australia
+26,Female,Australia,UNKNOWN,No,Yes,No,Sometimes,100-500,No,No,No,Yes,Yes,Yes,Unknown,1,No,No,Yes,Yes,No,No,Unknown,No,25-34,Oceania,Australia
+22,Female,Netherlands,UNKNOWN,No,No,No,Often,6-25,No,Yes,No,No,No,No,Unknown,4,No,No,No,Unsure,No,Yes,Unknown,No,18-24,Europe,Netherlands
+39,Male,United States,FL,No,No,No,Rarely,More than 1000,Yes,No,Unknown,No,Yes,Yes,Unknown,4,No,No,Unsure,Unsure,No,Unsure,Unknown,No,35-44,North America,United States
+29,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Never,100-500,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,Unsure,No,No,No,No,No,No,25-34,Europe,United Kingdom
+54,Male,United Kingdom,UNKNOWN,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Unknown,Unknown,No,No,Unknown,0,No,No,Unsure,Yes,Yes,Yes,Unknown,Yes,45-54,Europe,United Kingdom
+34,Female,Australia,UNKNOWN,No,Yes,No,Never,500-1000,No,No,Unknown,No,Yes,Yes,Unknown,4,Yes,Unsure,No,No,No,No,Unknown,Yes,25-34,Oceania,Australia
+32,Male,United States,WA,No,No,Yes,Never,500-1000,No,No,Yes,Unknown,Yes,Yes,Unknown,0,Unsure,No,No,No,No,No,Yes,No,25-34,North America,United States
+25,Male,Nigeria,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,No,No,No,Unknown,4,Unsure,No,Yes,Yes,No,Yes,Unknown,No,25-34,Africa,Other
+29,Male,Poland,UNKNOWN,No,No,No,Rarely,1-5,No,Yes,No,No,No,No,No,2,No,Unsure,Unsure,No,No,No,Yes,No,25-34,Europe,Other
+32,Male,Germany,UNKNOWN,Yes,No,No,Never,1-5,Yes,Yes,No,No,No,No,Unknown,4,No,No,Unsure,Yes,No,Unsure,Unknown,No,25-34,Europe,Germany
+30,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Unknown,Yes,4,Unsure,No,Unsure,Yes,No,Yes,Yes,No,25-34,Europe,United Kingdom
+31,Male,Germany,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,1,No,No,Unsure,Yes,Unsure,Unsure,Unknown,No,25-34,Europe,Germany
+20,Female,Switzerland,UNKNOWN,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,1,No,No,Unsure,Unsure,No,Unsure,Yes,No,18-24,Europe,Other
+27,Male,United Kingdom,UNKNOWN,No,No,No,Never,1-5,No,Yes,Unknown,No,No,Unknown,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,Unknown,No,25-34,Europe,United Kingdom
+32,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+26,Male,Ireland,UNKNOWN,Yes,No,No,Never,1-5,Yes,Yes,No,No,No,No,Unknown,2,Unsure,No,Unsure,Yes,Unsure,Unsure,Yes,No,25-34,Europe,Ireland
+30,Male,Italy,UNKNOWN,No,No,No,Sometimes,More than 1000,No,No,Unknown,No,No,No,Yes,0,No,No,Unsure,Unsure,No,No,Unknown,No,25-34,Europe,Other
+30,Male,Ireland,UNKNOWN,No,No,Yes,Sometimes,26-100,Yes,Yes,No,No,Unknown,No,Unknown,3,Unsure,Unsure,Unsure,No,No,No,No,No,25-34,Europe,Ireland
+22,Male,India,UNKNOWN,Yes,No,No,Unknown,1-5,Yes,Yes,Unknown,No,Unknown,Unknown,Unknown,0,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Yes,Yes,18-24,Asia,India
+24,Male,Ireland,UNKNOWN,No,No,No,Unknown,More than 1000,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,No,No,No,No,Unknown,No,18-24,Europe,Ireland
+26,Male,Netherlands,UNKNOWN,No,No,No,Never,26-100,No,Yes,No,No,No,No,Unknown,4,Unsure,Unsure,No,No,No,No,Unknown,No,25-34,Europe,Netherlands
+43,Male,France,UNKNOWN,No,No,No,Unknown,100-500,No,Yes,Unknown,No,No,No,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,Unknown,No,35-44,Europe,France
+26,Male,Russia,UNKNOWN,No,No,No,Never,26-100,No,Yes,No,Unknown,No,Unknown,Unknown,2,No,No,Unsure,No,No,Unsure,Unknown,No,25-34,Europe,Other
+23,Male,United States,NC,No,Yes,No,Sometimes,6-25,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,No,No,No,No,Unsure,Unknown,No,18-24,North America,United States
+26,Male,Canada,UNKNOWN,No,No,No,Unknown,100-500,Yes,Yes,Yes,Unknown,Unknown,Yes,Unknown,1,No,No,Unsure,Unsure,No,No,Yes,No,25-34,North America,Canada
+26,Female,Israel,UNKNOWN,No,Yes,No,Never,100-500,No,Yes,Unknown,No,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,No,No,No,Yes,No,25-34,Asia,Other
+35,Male,Canada,UNKNOWN,No,Yes,No,Sometimes,26-100,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,No,No,35-44,North America,Canada
+28,Male,United States,IL,No,No,Yes,Sometimes,26-100,Yes,No,Unknown,Unknown,No,Unknown,Unknown,4,No,No,Unsure,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+22,Male,India,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,No,No,No,No,Unknown,4,Unsure,Unsure,Unsure,Yes,Unsure,Unsure,Unknown,No,18-24,Asia,India
+29,Female,United States,OH,No,Yes,Yes,Rarely,6-25,No,Yes,Unknown,No,No,No,Unknown,4,Yes,No,No,No,No,No,Unknown,No,25-34,North America,United States
+29,Male,Germany,UNKNOWN,Yes,No,No,Unknown,1-5,No,Yes,No,Yes,No,No,Yes,0,No,No,Yes,Yes,Yes,Yes,Yes,No,25-34,Europe,Germany
+45,Male,United States,VA,No,No,Yes,Often,1-5,Yes,Yes,Yes,Unknown,No,Yes,Unknown,0,No,No,Yes,Yes,No,Unsure,Yes,No,45-54,North America,United States
+33,Male,Bulgaria,UNKNOWN,No,No,Yes,Rarely,26-100,Yes,Yes,No,No,No,No,Unknown,1,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,Yes,25-34,Europe,Other
+38,Male,United States,MN,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,35-44,North America,United States
+19,Others,United States,MO,No,Yes,Yes,Often,26-100,No,No,Unknown,Unknown,No,No,Unknown,2,Unsure,Unsure,No,No,No,Unsure,No,No,18-24,North America,United States
+29,Female,Canada,UNKNOWN,No,No,Yes,Rarely,More than 1000,Yes,No,Yes,Yes,Yes,Unknown,Yes,1,No,No,No,Yes,No,Unsure,Unknown,No,25-34,North America,Canada
+21,Female,United Kingdom,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,No,No,No,Unknown,4,Yes,Unsure,Unsure,No,No,No,Unknown,No,18-24,Europe,United Kingdom
+23,Female,India,UNKNOWN,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Yes,Unsure,No,No,No,No,Unknown,No,18-24,Asia,India
+33,Female,United States,NC,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,1,No,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+49,Male,United States,NY,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Unknown,Yes,Yes,Yes,1,Unsure,Unsure,Unsure,Yes,No,No,Yes,No,45-54,North America,United States
+28,Male,United States,NM,No,No,No,Unknown,26-100,Yes,Yes,Unknown,No,No,No,Unknown,4,Unsure,No,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+27,Female,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,6-25,Yes,Yes,Unknown,Unknown,Yes,Unknown,Yes,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,Europe,United Kingdom
+23,Male,Canada,UNKNOWN,No,No,Yes,Sometimes,6-25,No,Yes,Yes,No,No,No,Unknown,1,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,18-24,North America,Canada
+29,Male,Netherlands,UNKNOWN,No,No,No,Never,1-5,Yes,Yes,No,No,No,No,Yes,1,No,No,Yes,Yes,No,Unsure,Yes,No,25-34,Europe,Netherlands
+30,Male,Germany,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,Unknown,No,No,Unknown,Yes,1,No,No,Unsure,No,Unsure,Unsure,Unknown,No,25-34,Europe,Germany
+28,Female,Canada,UNKNOWN,No,No,No,Unknown,More than 1000,No,Yes,Yes,Unknown,Unknown,Unknown,Unknown,1,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,Canada
+32,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,No,No,No,Unknown,4,Yes,No,No,No,No,Yes,No,No,25-34,Europe,United Kingdom
+32,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Yes,0,No,No,No,Yes,No,No,Yes,No,25-34,Europe,United Kingdom
+37,Male,France,UNKNOWN,No,No,No,Unknown,100-500,No,Yes,No,No,No,No,Unknown,1,Unsure,Unsure,Unsure,Unsure,No,Unsure,No,No,35-44,Europe,France
+39,Female,United States,TX,No,No,No,Unknown,More than 1000,Yes,No,No,Yes,No,No,Unknown,3,Yes,Unsure,No,No,No,Unsure,No,No,35-44,North America,United States
+31,Male,France,UNKNOWN,No,No,No,Unknown,500-1000,No,Yes,Unknown,No,No,Unknown,Unknown,4,Unsure,Unsure,Unsure,No,No,No,Yes,No,25-34,Europe,France
+29,Male,United States,SC,No,No,No,Unknown,6-25,No,Yes,No,No,No,Unknown,Unknown,2,Unsure,Unsure,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+30,Male,United States,FL,No,No,No,Unknown,100-500,No,No,Yes,No,No,Unknown,Unknown,4,Unsure,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+33,Male,United States,WA,Yes,Yes,Yes,Rarely,1-5,Yes,Yes,No,Yes,Yes,Yes,No,3,No,No,Yes,Yes,No,No,Yes,Yes,25-34,North America,United States
+37,Male,United States,CA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,Unknown,Unknown,Yes,4,Unsure,No,Yes,Yes,No,No,Unknown,No,35-44,North America,United States
+23,Male,United States,OH,No,No,Yes,Often,26-100,No,No,Yes,Yes,Yes,No,Yes,1,No,No,Unsure,Yes,No,Unsure,Yes,No,18-24,North America,United States
+43,Male,United States,TN,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Unknown,No,Yes,Unknown,1,Yes,No,No,No,No,No,No,No,35-44,North America,United States
+32,Male,United Kingdom,UNKNOWN,No,No,Yes,Rarely,100-500,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,No,Yes,Yes,No,Unsure,No,Yes,25-34,Europe,United Kingdom
+26,Male,United States,NY,No,No,No,Never,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,4,Yes,Yes,Unsure,No,No,No,No,No,25-34,North America,United States
+32,Male,United States,NY,Yes,No,Yes,Sometimes,1-5,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,0,No,No,Yes,Yes,Yes,Yes,Unknown,No,25-34,North America,United States
+37,Female,United States,MO,No,No,No,Unknown,26-100,Yes,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Yes,No,Unsure,No,No,No,Unknown,No,35-44,North America,United States
+29,Male,United States,NY,No,No,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+34,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,No,No,No,Unknown,1,Unsure,Unsure,Unsure,Yes,No,Unsure,Unknown,No,25-34,Europe,United Kingdom
+27,Male,France,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Yes,Yes,No,No,Yes,No,25-34,Europe,France
+30,Male,United States,TN,No,Yes,No,Never,100-500,No,Yes,Unknown,No,No,Unknown,Unknown,0,No,No,Unsure,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+29,Male,United States,CO,No,No,No,Never,6-25,No,Yes,Yes,Yes,No,Yes,Yes,4,Unsure,No,Unsure,Unsure,No,No,No,No,25-34,North America,United States
+32,Male,United States,PA,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Yes,Unknown,Unknown,Unknown,3,Yes,Unsure,Unsure,No,No,No,No,No,25-34,North America,United States
+,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,26-100,No,No,No,No,No,No,Unknown,2,Yes,No,No,No,No,Unsure,Unknown,No,,Europe,United Kingdom
+25,Male,Germany,UNKNOWN,No,No,No,Unknown,500-1000,No,Yes,Yes,Yes,Unknown,Yes,Yes,1,Unsure,Unsure,Unsure,Yes,Yes,Yes,Yes,No,25-34,Europe,Germany
+37,Male,United States,NY,Yes,No,No,Unknown,6-25,Yes,Yes,Yes,Yes,Yes,No,Yes,1,No,No,Yes,Yes,Unsure,Unsure,Yes,No,35-44,North America,United States
+29,Male,Netherlands,UNKNOWN,No,Yes,No,Unknown,6-25,No,Yes,No,No,No,No,Unknown,0,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,Europe,Netherlands
+27,Male,United States,MN,No,No,No,Unknown,26-100,No,Yes,Yes,Unknown,No,Unknown,Unknown,4,No,No,Yes,Yes,No,No,Unknown,No,25-34,North America,United States
+33,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,No,25-34,Europe,United Kingdom
+30,Male,Canada,UNKNOWN,No,Yes,Yes,Sometimes,More than 1000,No,No,Unknown,No,No,No,No,3,Yes,No,Unsure,No,No,Yes,No,Yes,25-34,North America,Canada
+29,Male,Canada,UNKNOWN,No,No,No,Unknown,1-5,Yes,Yes,No,Yes,No,No,Unknown,2,Unsure,Unsure,Yes,Yes,No,Unsure,Unknown,No,25-34,North America,Canada
+25,Male,United States,MO,No,Yes,Yes,Never,6-25,Yes,Yes,Unknown,No,Yes,Unknown,Unknown,4,Yes,No,Unsure,Yes,No,No,No,No,25-34,North America,United States
+33,Male,United States,WY,No,Yes,Yes,Sometimes,1-5,No,No,No,Yes,No,No,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,Unknown,No,25-34,North America,United States
+31,Male,South Africa,UNKNOWN,No,No,No,Never,100-500,Yes,Yes,No,No,No,No,No,4,No,No,Unsure,Unsure,No,Unsure,No,No,25-34,Africa,Other
+21,Male,Germany,UNKNOWN,No,No,No,Rarely,6-25,Yes,Yes,Unknown,No,No,No,Unknown,0,Unsure,Unsure,Unsure,Unsure,No,Unsure,No,No,18-24,Europe,Germany
+30,Male,Switzerland,UNKNOWN,No,Yes,Yes,Sometimes,26-100,No,Yes,Unknown,No,No,No,No,3,Yes,Yes,No,No,No,No,No,No,25-34,Europe,Other
+29,Male,United States,MN,No,No,No,Unknown,More than 1000,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Yes,Yes,No,No,No,No,25-34,North America,United States
+43,Male,Croatia,UNKNOWN,Yes,No,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,3,Yes,No,Yes,No,No,Unsure,No,Yes,35-44,Europe,Other
+37,Male,United Kingdom,UNKNOWN,No,No,Yes,Often,6-25,No,Yes,No,No,No,No,Unknown,4,Yes,No,Yes,Yes,Unsure,Yes,No,No,35-44,Europe,United Kingdom
+24,Male,France,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,No,No,Yes,No,Unknown,4,Unsure,No,Yes,Unsure,No,No,Unknown,No,18-24,Europe,France
+29,Male,United States,MD,No,No,No,Unknown,6-25,Yes,Yes,Unknown,Unknown,No,No,Unknown,0,No,No,Yes,Yes,No,No,Unknown,No,25-34,North America,United States
+31,Male,United States,KY,No,No,No,Unknown,26-100,No,No,Yes,Yes,Yes,Yes,Yes,4,No,No,Yes,Yes,No,No,Unknown,No,25-34,North America,United States
+,Male,United States,OH,No,No,No,Unknown,100-500,No,Yes,Unknown,Unknown,No,No,Unknown,1,No,No,Yes,Yes,No,No,Yes,No,,North America,United States
+33,Male,United Kingdom,UNKNOWN,Yes,No,No,Never,100-500,No,No,No,Unknown,No,No,Unknown,0,No,No,Yes,Unsure,No,Yes,No,No,25-34,Europe,United Kingdom
+43,Male,United States,NY,No,No,No,Unknown,More than 1000,No,No,Yes,Yes,Unknown,Yes,Yes,4,No,No,Unsure,Yes,No,Unsure,Unknown,No,35-44,North America,United States
+33,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,Europe,United Kingdom
+27,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,No,No,Yes,Yes,4,Unsure,No,Yes,Unsure,No,Yes,Yes,No,25-34,Europe,United Kingdom
+36,Male,United States,TN,No,Yes,Yes,Sometimes,More than 1000,Yes,No,Unknown,No,Unknown,Unknown,Unknown,4,Yes,Unsure,No,No,No,Unsure,Unknown,No,35-44,North America,United States
+37,Male,Australia,UNKNOWN,No,Yes,Yes,Sometimes,26-100,No,Yes,No,Yes,No,No,Yes,0,No,No,Unsure,Yes,No,Unsure,Yes,Yes,35-44,Oceania,Australia
+32,Male,Belgium,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,Yes,No,No,Unknown,3,Yes,Unsure,No,No,No,No,No,No,25-34,Europe,Other
+39,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,100-500,No,Yes,No,No,No,No,Unknown,0,No,No,No,Unsure,No,Yes,Yes,No,35-44,Europe,United Kingdom
+31,Male,United States,TX,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Unknown,Unknown,1,Unsure,No,Unsure,Yes,Unsure,Yes,Unknown,No,25-34,North America,United States
+36,Male,United States,OH,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,No,Unknown,3,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Unknown,No,35-44,North America,United States
+30,Male,United States,TX,Yes,No,Yes,Sometimes,26-100,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Unsure,No,Yes,Unknown,No,25-34,North America,United States
+28,Male,Canada,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,Yes,Unknown,No,Unknown,Yes,0,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,25-34,North America,Canada
+32,Male,Italy,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,No,No,No,No,2,Unsure,No,Unsure,No,Unsure,Unsure,No,No,25-34,Europe,Other
+35,Male,United States,CA,No,Yes,Yes,Rarely,6-25,No,Yes,Yes,Yes,Yes,Yes,Yes,0,No,No,Unsure,Yes,No,No,Yes,No,35-44,North America,United States
+19,Male,Canada,UNKNOWN,No,No,Yes,Sometimes,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,2,No,No,Unsure,Yes,No,Yes,Unknown,No,18-24,North America,Canada
+33,Male,Norway,UNKNOWN,No,Yes,No,Unknown,26-100,No,Yes,Yes,Yes,No,No,Unknown,0,No,No,Unsure,Yes,No,No,Unknown,No,25-34,Europe,Other
+42,Male,Germany,UNKNOWN,No,No,No,Unknown,More than 1000,Yes,Yes,Unknown,Unknown,Yes,Yes,Yes,0,No,No,Unsure,No,No,Unsure,Yes,No,35-44,Europe,Germany
+37,Male,United States,MI,No,Yes,Yes,Sometimes,100-500,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Unknown,No,35-44,North America,United States
+40,Male,Thailand,UNKNOWN,Yes,No,No,Never,6-25,No,Yes,No,No,No,No,Yes,0,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,35-44,Asia,Other
+36,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,0,No,No,Unsure,Yes,No,No,Yes,No,35-44,North America,United States
+29,Female,United States,OR,No,Yes,Yes,Sometimes,26-100,Yes,No,Unknown,No,No,Unknown,Unknown,4,Unsure,No,Unsure,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+38,Female,United States,NC,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Unknown,No,Unknown,Unknown,4,Unsure,No,No,No,No,No,Unknown,No,35-44,North America,United States
+26,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Unknown,Unknown,2,Yes,Unsure,No,No,No,Unsure,No,No,25-34,North America,United States
+34,Male,Germany,UNKNOWN,No,No,No,Rarely,26-100,No,Yes,No,No,No,No,Yes,1,Unsure,Unsure,No,Unsure,Unsure,Unsure,Yes,No,25-34,Europe,Germany
+21,Male,United States,IL,No,No,Yes,Often,More than 1000,No,No,No,Yes,No,No,No,4,Yes,No,Unsure,Unsure,No,Yes,No,Yes,18-24,North America,United States
+31,Male,Canada,UNKNOWN,Yes,Yes,No,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,1,No,No,No,No,No,No,Yes,No,25-34,North America,Canada
+37,Female,United States,CA,No,Yes,Yes,Rarely,26-100,No,No,Yes,Yes,Yes,Yes,Unknown,4,Unsure,Unsure,Yes,Unsure,No,Unsure,Yes,No,35-44,North America,United States
+37,Male,Ireland,UNKNOWN,No,Yes,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Unknown,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,35-44,Europe,Ireland
+38,Male,Ireland,UNKNOWN,No,Yes,Yes,Sometimes,1-5,No,Yes,No,No,No,No,No,3,Yes,Yes,No,No,No,No,No,No,35-44,Europe,Ireland
+27,Female,United States,CA,No,No,Yes,Sometimes,100-500,No,Yes,Unknown,Unknown,Yes,Unknown,Unknown,1,Yes,No,Unsure,No,No,Unsure,No,No,25-34,North America,United States
+39,Male,Netherlands,UNKNOWN,Yes,No,No,Unknown,6-25,No,Yes,No,No,Yes,No,Yes,1,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,35-44,Europe,Netherlands
+33,Female,United States,AZ,Yes,Yes,Yes,Sometimes,1-5,No,Yes,Yes,Yes,Yes,Yes,Yes,1,Unsure,Yes,Unsure,No,No,No,No,No,25-34,North America,United States
+27,Male,United Kingdom,UNKNOWN,No,No,No,Never,26-100,No,Yes,Unknown,Unknown,No,Unknown,Unknown,1,No,No,Unsure,No,Yes,Yes,Unknown,No,25-34,Europe,United Kingdom
+36,Female,United States,CA,No,No,Yes,Never,6-25,Yes,Yes,Yes,No,No,No,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,No,No,35-44,North America,United States
+28,Male,United Kingdom,UNKNOWN,No,No,No,Never,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,1,No,No,Unsure,Yes,Unsure,Yes,Unknown,No,25-34,Europe,United Kingdom
+39,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,500-1000,No,No,Unknown,No,No,No,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,35-44,Europe,United Kingdom
+33,Male,United States,VA,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,0,Unsure,Unsure,Yes,Yes,No,No,Yes,No,25-34,North America,United States
+32,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,More than 1000,No,No,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,Yes,Unknown,No,25-34,Europe,United Kingdom
+28,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,More than 1000,No,No,Unknown,Unknown,No,Unknown,Unknown,4,No,No,Unsure,Unsure,Yes,Yes,No,No,25-34,Europe,United Kingdom
+37,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Rarely,6-25,No,Yes,No,No,No,No,Yes,1,Yes,No,Unsure,Yes,No,Unsure,No,Yes,35-44,Europe,United Kingdom
+39,Male,Canada,UNKNOWN,No,No,Yes,Sometimes,100-500,No,No,Yes,Yes,Yes,Yes,Yes,0,Yes,No,Unsure,Yes,No,Unsure,No,Yes,35-44,North America,Canada
+43,Male,United States,VA,No,No,No,Sometimes,6-25,Yes,Yes,Unknown,No,No,Unknown,Unknown,4,Unsure,No,No,No,No,Unsure,No,No,35-44,North America,United States
+32,Others,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,More than 1000,No,No,Unknown,No,Yes,Yes,Unknown,4,No,No,Yes,Unsure,Yes,Yes,Yes,Yes,25-34,Europe,United Kingdom
+27,Female,United States,WA,No,No,No,Unknown,More than 1000,No,Yes,Unknown,Unknown,No,Yes,Unknown,4,Unsure,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+31,Female,United Kingdom,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,Unknown,No,No,No,Unknown,4,No,No,Yes,Yes,Unsure,Unsure,Unknown,No,25-34,Europe,United Kingdom
+43,Male,United Kingdom,UNKNOWN,No,No,Yes,Never,26-100,No,Yes,Unknown,No,No,Unknown,Unknown,4,No,No,Yes,Yes,Yes,Yes,Unknown,No,35-44,Europe,United Kingdom
+33,Male,United States,WI,No,No,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Yes,2,No,No,Yes,Yes,Yes,Yes,Unknown,No,25-34,North America,United States
+34,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Unknown,Unknown,Unknown,Unknown,Yes,0,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,Europe,United Kingdom
+33,Male,United States,CA,Yes,No,No,Unknown,1-5,No,Yes,Unknown,No,No,No,Unknown,4,No,No,Yes,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+25,Male,United States,CA,No,No,No,Unknown,6-25,No,Yes,Unknown,No,No,No,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+25,Male,United States,NE,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,4,Unsure,No,Unsure,Unsure,No,No,No,Yes,25-34,North America,United States
+32,Male,United Kingdom,UNKNOWN,Yes,Yes,No,Unknown,1-5,No,Yes,No,Yes,No,No,Yes,1,No,No,No,Yes,No,Unsure,No,No,25-34,Europe,United Kingdom
+25,Male,United States,CO,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Unknown,Unknown,Yes,4,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+37,Male,Netherlands,UNKNOWN,No,No,No,Unknown,100-500,Yes,No,Unknown,No,Unknown,Unknown,Unknown,1,Unsure,No,Yes,Yes,No,No,Unknown,No,35-44,Europe,Netherlands
+39,Male,Switzerland,UNKNOWN,No,No,Yes,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,1,No,No,Unsure,Unsure,No,Unsure,Yes,No,35-44,Europe,Other
+29,Male,United Kingdom,UNKNOWN,No,No,No,Rarely,100-500,No,Yes,Unknown,Unknown,No,No,Unknown,1,No,No,Unsure,Yes,No,Unsure,Unknown,Yes,25-34,Europe,United Kingdom
+33,Male,United States,NY,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Unknown,Unknown,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+37,Female,United States,TX,No,No,Yes,Often,6-25,Yes,Yes,Unknown,Unknown,No,No,Yes,2,Yes,No,Unsure,Unsure,No,Yes,No,Yes,35-44,North America,United States
+35,Female,United States,LA,No,No,Yes,Sometimes,100-500,No,No,Yes,No,No,No,Yes,3,Yes,Unsure,No,Unsure,No,Yes,No,Yes,35-44,North America,United States
+22,Female,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,3,Yes,Unsure,Unsure,Unsure,No,Unsure,No,Yes,18-24,North America,United States
+38,Male,United States,MI,No,No,No,Never,26-100,No,Yes,Yes,Yes,No,No,Unknown,1,Unsure,No,Unsure,Yes,No,Unsure,No,Yes,35-44,North America,United States
+32,Female,United States,CA,No,Yes,Yes,Often,100-500,No,Yes,Yes,No,No,Unknown,Unknown,4,Yes,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+28,Male,Brazil,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,No,Unsure,Yes,Unsure,Yes,No,Yes,25-34,South America,Other
+27,Male,Switzerland,UNKNOWN,No,Yes,No,Unknown,26-100,No,Yes,No,No,No,No,Unknown,4,Unsure,No,Unsure,Yes,No,Yes,No,No,25-34,Europe,Other
+35,Female,United States,CA,No,No,Yes,Sometimes,100-500,Yes,Yes,Unknown,No,Unknown,Unknown,Unknown,0,Unsure,No,Unsure,No,No,Unsure,Yes,No,35-44,North America,United States
+29,Male,United States,MD,No,No,No,Never,100-500,No,No,Yes,Yes,Yes,No,Yes,0,Yes,Unsure,Yes,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+23,Male,United States,CA,No,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Unknown,0,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,18-24,North America,United States
+39,Male,United States,CT,No,No,No,Unknown,26-100,Yes,Yes,Yes,No,No,No,Unknown,4,Yes,Unsure,No,No,No,No,Unknown,No,35-44,North America,United States
+30,Female,United States,CA,No,No,No,Unknown,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,0,No,No,Unsure,No,No,No,Yes,No,25-34,North America,United States
+32,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,Unknown,Unknown,No,Unknown,Unknown,1,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Unknown,No,25-34,Europe,United Kingdom
+28,Others,United States,CA,No,No,Yes,Sometimes,26-100,No,Yes,No,Yes,No,No,Unknown,2,Yes,Unsure,Unsure,Unsure,No,No,No,Yes,25-34,North America,United States
+40,Female,United States,WA,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Yes,Yes,Yes,Yes,4,Unsure,No,Unsure,Yes,No,No,Unknown,Yes,35-44,North America,United States
+36,Female,United States,CA,No,Yes,No,Unknown,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,4,No,No,No,Unsure,No,Unsure,Yes,No,35-44,North America,United States
+27,Male,United States,IN,No,No,No,Unknown,26-100,Yes,Yes,Unknown,Unknown,No,Unknown,Unknown,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+41,Male,United States,TX,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Unknown,4,Unsure,No,Unsure,Unsure,No,Unsure,No,No,35-44,North America,United States
+29,Male,United Kingdom,UNKNOWN,No,No,No,Never,6-25,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,Europe,United Kingdom
+29,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,100-500,No,Yes,No,No,No,No,Unknown,2,No,No,Unsure,Unsure,No,Unsure,No,No,25-34,Europe,United Kingdom
+35,Male,United States,MO,No,No,Yes,Often,1-5,No,No,No,No,No,No,Yes,3,Yes,No,Unsure,Unsure,No,Yes,No,Yes,35-44,North America,United States
+28,Male,United States,NV,No,No,Yes,Never,6-25,Yes,Yes,No,Yes,No,No,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+36,Female,United Kingdom,UNKNOWN,Yes,No,No,Sometimes,1-5,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,No,No,No,Unknown,No,35-44,Europe,United Kingdom
+39,Female,United States,WA,No,No,No,Sometimes,26-100,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Yes,No,No,No,No,Yes,Unknown,No,35-44,North America,United States
+39,Male,United States,FL,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,Yes,Yes,Yes,3,Unsure,No,Unsure,Yes,No,No,Unknown,No,35-44,North America,United States
+44,Male,United States,UNKNOWN,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,No,0,Yes,Yes,Unsure,No,No,No,Yes,No,35-44,North America,United States
+26,Others,Germany,UNKNOWN,Yes,No,Yes,Sometimes,6-25,Yes,Yes,No,Unknown,Yes,Yes,Yes,0,No,No,Unsure,Unsure,Unsure,Unsure,Yes,No,25-34,Europe,Germany
+35,Male,Denmark,UNKNOWN,Yes,Yes,Yes,Often,1-5,No,Yes,No,Yes,Yes,No,Unknown,1,No,No,Unsure,Unsure,Unsure,Yes,Yes,No,35-44,Europe,Other
+40,Female,United States,WA,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Unknown,Yes,Unknown,Unknown,4,Yes,Unsure,Unsure,No,No,No,Unknown,No,35-44,North America,United States
+35,Male,Denmark,UNKNOWN,Yes,Yes,Yes,Often,1-5,No,Yes,No,Yes,Yes,No,Unknown,1,No,No,Unsure,Unsure,Unsure,Yes,Yes,No,35-44,Europe,Other
+38,Male,United States,IL,No,No,No,Never,More than 1000,Yes,Yes,No,Yes,No,No,No,3,Yes,Yes,No,No,No,No,Unknown,No,35-44,North America,United States
+34,Male,United States,FL,No,No,No,Unknown,More than 1000,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,North America,United States
+43,Male,United States,MA,No,No,No,Unknown,More than 1000,No,Yes,Yes,No,Yes,Yes,Unknown,4,No,No,Unsure,Yes,No,Unsure,Unknown,No,35-44,North America,United States
+48,Female,United States,CA,No,Yes,No,Often,26-100,No,Yes,Unknown,No,No,No,No,3,Yes,Yes,No,Unsure,No,No,No,Yes,45-54,North America,United States
+20,Male,United States,WA,No,No,No,Never,26-100,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,18-24,North America,United States
+40,Male,United States,MI,Yes,No,No,Sometimes,1-5,Yes,Yes,Unknown,Unknown,No,No,Unknown,1,Yes,Unsure,Unsure,No,No,No,Unknown,No,35-44,North America,United States
+29,Female,United Kingdom,UNKNOWN,No,No,Yes,Rarely,6-25,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,Europe,United Kingdom
+35,Male,United States,MI,No,Yes,Yes,Sometimes,1-5,No,No,No,Yes,No,No,Yes,4,No,No,Unsure,Yes,No,No,Yes,No,35-44,North America,United States
+29,Male,United States,WI,No,Yes,No,Sometimes,More than 1000,Yes,No,Yes,Yes,No,Yes,Yes,0,Unsure,No,Unsure,No,No,No,Yes,No,25-34,North America,United States
+40,Male,United States,CA,No,No,No,Never,100-500,No,Yes,Yes,Unknown,No,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,No,35-44,North America,United States
+29,Male,Sweden,UNKNOWN,No,No,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Yes,0,No,No,Unsure,Yes,No,No,Yes,No,25-34,Europe,Other
+29,Female,United States,CA,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,Unknown,Unknown,No,Unknown,4,No,No,Yes,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+34,Male,United States,TX,No,No,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Unknown,4,Yes,No,No,No,No,Yes,Unknown,No,25-34,North America,United States
+44,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,500-1000,No,No,Unknown,No,No,No,Unknown,2,Unsure,No,Unsure,Yes,No,Unsure,No,Yes,35-44,Europe,United Kingdom
+24,Female,United States,NY,No,Yes,Yes,Often,6-25,No,Yes,Yes,Yes,No,No,Yes,0,No,No,Unsure,Yes,No,Yes,No,Yes,18-24,North America,United States
+47,Female,United States,PA,No,No,No,Unknown,100-500,Yes,Yes,Unknown,No,No,Unknown,Unknown,3,Yes,Yes,No,No,No,No,No,No,45-54,North America,United States
+43,Male,United Kingdom,UNKNOWN,No,Yes,No,Unknown,More than 1000,No,No,Unknown,No,No,No,Unknown,0,Unsure,No,Unsure,Yes,No,Unsure,Unknown,No,35-44,Europe,United Kingdom
+36,Male,United States,PA,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,2,No,No,Unsure,Yes,No,No,No,No,35-44,North America,United States
+43,Male,United States,GA,No,No,Yes,Sometimes,More than 1000,No,No,Unknown,No,No,Unknown,Unknown,3,Unsure,No,Unsure,Yes,No,No,Unknown,No,35-44,North America,United States
+36,Male,United Kingdom,UNKNOWN,Yes,No,No,Sometimes,6-25,Yes,Yes,No,No,No,No,Unknown,2,No,No,Yes,Yes,No,Unsure,Unknown,Yes,35-44,Europe,United Kingdom
+31,Female,United States,NY,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Unknown,2,No,No,Yes,Yes,Unsure,Unsure,Unknown,No,25-34,North America,United States
+35,Male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Unknown,Unknown,Yes,Unknown,Unknown,4,Unsure,No,Unsure,No,No,No,Unknown,No,35-44,North America,United States
+33,Male,United States,TN,No,Yes,No,Unknown,26-100,No,No,Yes,No,No,No,Yes,2,No,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+37,Male,Italy,UNKNOWN,No,No,No,Sometimes,26-100,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Yes,Yes,Unsure,No,No,No,No,No,35-44,Europe,Other
+34,Male,United States,TN,No,No,Yes,Sometimes,100-500,No,Yes,Unknown,No,Yes,Unknown,Yes,4,Unsure,No,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+36,Male,Netherlands,UNKNOWN,Yes,No,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Unknown,0,No,No,Yes,No,No,No,Yes,No,35-44,Europe,Netherlands
+40,Male,United States,TN,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,0,No,No,Yes,Yes,No,No,Yes,No,35-44,North America,United States
+40,Male,United States,IL,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,4,No,No,Unsure,Unsure,No,Unsure,Unknown,No,35-44,North America,United States
+42,Male,United States,WI,No,No,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Unknown,1,Unsure,No,No,No,No,Unsure,Unknown,No,35-44,North America,United States
+23,Male,United States,KY,No,Yes,No,Unknown,26-100,Yes,Yes,Yes,Yes,No,Unknown,Yes,4,Unsure,No,No,Unsure,No,No,Unknown,No,18-24,North America,United States
+21,Male,United Kingdom,UNKNOWN,No,Yes,No,Never,6-25,No,No,No,No,No,No,Yes,1,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,No,18-24,Europe,United Kingdom
+26,Male,Canada,UNKNOWN,No,No,No,Sometimes,6-25,Yes,Yes,No,No,No,No,Unknown,3,Yes,Unsure,Unsure,Unsure,No,Unsure,Unknown,No,25-34,North America,Canada
+31,Male,United States,UNKNOWN,No,Yes,No,Unknown,6-25,No,Yes,Unknown,Unknown,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+25,Male,United States,CA,No,Yes,No,Unknown,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,0,No,No,Unsure,Yes,Unsure,Yes,Yes,No,25-34,North America,United States
+51,Male,United States,MN,No,No,No,Never,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,No,No,Yes,Yes,No,No,Yes,No,45-54,North America,United States
+24,Male,United States,TN,No,No,No,Unknown,6-25,No,Yes,Unknown,Unknown,Unknown,No,Yes,1,No,No,Unsure,Yes,No,Unsure,Unknown,No,18-24,North America,United States
+33,Male,United States,MN,No,No,No,Unknown,100-500,No,Yes,No,No,No,No,Unknown,4,Unsure,No,Unsure,Yes,No,No,No,No,25-34,North America,United States
+32,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Rarely,6-25,No,No,No,No,No,No,No,4,Yes,Unsure,Unsure,No,No,No,No,No,25-34,Europe,United Kingdom
+32,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Rarely,6-25,No,No,No,No,No,No,No,4,Yes,Unsure,Unsure,No,No,No,No,No,25-34,Europe,United Kingdom
+26,Male,United Kingdom,UNKNOWN,Yes,No,Yes,Rarely,1-5,Yes,Yes,No,Unknown,Unknown,Unknown,Unknown,2,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,Europe,United Kingdom
+23,Male,United States,IL,No,No,No,Never,100-500,No,No,Unknown,No,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,Unsure,Unsure,Unknown,No,18-24,North America,United States
+33,Male,United States,TN,No,Yes,Yes,Often,6-25,Yes,Yes,No,Yes,No,No,Unknown,3,Yes,No,Unsure,Yes,No,Unsure,No,No,25-34,North America,United States
+46,Male,United States,IL,No,No,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,1,Yes,Unsure,No,No,No,Unsure,Yes,No,45-54,North America,United States
+34,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,6-25,Yes,Yes,No,No,No,No,No,2,Yes,Unsure,No,No,No,Yes,No,Yes,25-34,Europe,United Kingdom
+35,Male,United States,DC,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Unknown,1,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,35-44,North America,United States
+39,Male,United States,KS,No,No,No,Unknown,1-5,Yes,Yes,No,Yes,No,No,Unknown,3,Unsure,Unsure,Unsure,Yes,Unsure,Unsure,No,No,35-44,North America,United States
+32,Male,Germany,UNKNOWN,Yes,No,No,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,1,No,No,Unsure,Unsure,Unsure,Unsure,No,No,25-34,Europe,Germany
+43,Male,Mexico,UNKNOWN,Yes,No,No,Unknown,More than 1000,Yes,Yes,Unknown,No,No,Unknown,Unknown,4,No,No,Unsure,Yes,No,Unsure,Unknown,No,35-44,North America,Other
+56,Male,United States,CA,No,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,Unknown,Yes,Yes,1,No,No,Yes,Yes,Yes,Yes,Yes,No,55+,North America,United States
+32,Female,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,100-500,No,Yes,Unknown,No,No,No,Unknown,2,Unsure,No,Unsure,Unsure,No,Yes,Unknown,Yes,25-34,Europe,United Kingdom
+41,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,26-100,No,No,Yes,Yes,Yes,Yes,Yes,4,Unsure,Unsure,Unsure,Unsure,No,Yes,No,Yes,35-44,Europe,United Kingdom
+39,Male,United States,TN,No,No,No,Unknown,More than 1000,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,35-44,North America,United States
+37,Male,United States,OK,No,Yes,No,Unknown,500-1000,No,No,Yes,Yes,No,No,Yes,0,Unsure,No,No,No,No,No,No,No,35-44,North America,United States
+30,Male,United States,CA,Yes,Yes,Yes,Sometimes,6-25,Yes,Yes,Unknown,Unknown,No,Unknown,Unknown,3,Yes,No,No,No,No,Unsure,Unknown,No,25-34,North America,United States
+31,Male,United States,TN,No,No,No,Unknown,26-100,No,Yes,Yes,No,Yes,No,Yes,1,Unsure,No,Unsure,Unsure,No,Unsure,No,No,25-34,North America,United States
+29,Male,United States,TX,No,No,No,Unknown,More than 1000,No,No,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,No,No,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+23,Female,United Kingdom,UNKNOWN,No,Yes,No,Never,More than 1000,No,No,No,No,No,Yes,Unknown,1,Yes,Unsure,No,No,No,Unsure,Unknown,No,18-24,Europe,United Kingdom
+31,Male,United States,CO,No,No,Yes,Never,26-100,No,Yes,Yes,Yes,No,Unknown,Yes,0,Unsure,No,No,No,No,No,Unknown,No,25-34,North America,United States
+29,Male,United States,TN,No,Yes,Yes,Sometimes,26-100,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Yes,No,25-34,North America,United States
+30,Others,United States,GA,No,No,No,Never,26-100,Yes,Yes,Yes,Yes,Unknown,Unknown,Yes,0,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+37,Male,United States,TN,No,No,No,Never,500-1000,Yes,Yes,Yes,No,Yes,Unknown,Unknown,4,Unsure,No,Unsure,Yes,No,No,Yes,Yes,35-44,North America,United States
+36,Male,United States,VA,Yes,No,No,Never,1-5,No,Yes,Yes,No,No,Unknown,Unknown,2,No,No,Unsure,Yes,Yes,Yes,Yes,No,35-44,North America,United States
+35,Male,United States,TN,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,Unknown,Unknown,4,Unsure,Unsure,Unsure,No,No,Unsure,No,No,35-44,North America,United States
+41,Male,United States,DC,No,Yes,No,Never,500-1000,Yes,No,Unknown,No,No,No,Unknown,4,Unsure,No,No,No,No,No,Unknown,No,35-44,North America,United States
+31,Male,United Kingdom,UNKNOWN,No,No,Yes,Rarely,6-25,No,Yes,Unknown,Unknown,No,No,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,25-34,Europe,United Kingdom
+38,Male,United Kingdom,UNKNOWN,No,Yes,No,Unknown,500-1000,No,No,Yes,Yes,Yes,Yes,Unknown,1,No,No,Unsure,Yes,No,Unsure,No,No,35-44,Europe,United Kingdom
+26,Male,India,UNKNOWN,Yes,No,No,Unknown,100-500,No,Yes,No,No,No,No,Yes,0,No,No,Unsure,Yes,No,No,Yes,No,25-34,Asia,India
+39,Male,United States,TN,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Yes,Unknown,4,Unsure,Unsure,Unsure,Yes,Unsure,Unsure,Unknown,Yes,35-44,North America,United States
+42,Male,United States,VA,Yes,Yes,No,Sometimes,6-25,Yes,No,Yes,Unknown,Unknown,Yes,Unknown,4,Unsure,Unsure,Unsure,No,No,Unsure,Unknown,No,35-44,North America,United States
+32,Male,United States,TN,Yes,Yes,Yes,Rarely,1-5,Yes,Yes,No,Yes,No,No,Unknown,3,Yes,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+29,Male,United States,TN,No,Yes,No,Unknown,100-500,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+30,Male,United States,TN,No,Yes,No,Never,100-500,No,Yes,Yes,No,Unknown,Yes,Unknown,3,Yes,Yes,Unsure,No,Unsure,Unsure,No,No,25-34,North America,United States
+40,Male,United States,TN,No,Yes,Yes,Often,500-1000,Yes,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,Yes,Unknown,No,35-44,North America,United States
+51,Male,United States,TN,No,No,No,Unknown,100-500,No,No,Unknown,Unknown,No,Unknown,Unknown,2,No,No,Unsure,Yes,No,No,Unknown,No,45-54,North America,United States
+33,Male,United States,IN,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,1,No,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+34,Male,Germany,UNKNOWN,Yes,No,Yes,Sometimes,1-5,Yes,Yes,No,Unknown,No,No,Yes,2,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,25-34,Europe,Germany
+50,Male,United States,VA,Yes,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Yes,1,No,No,Unsure,Yes,No,Unsure,Yes,No,45-54,North America,United States
+24,Male,United States,TX,No,No,No,Sometimes,26-100,Yes,Yes,Unknown,No,No,Unknown,Unknown,1,No,No,Unsure,Yes,No,Unsure,No,No,18-24,North America,United States
+25,Male,United States,TX,No,Yes,Yes,Rarely,26-100,No,No,No,No,No,No,Unknown,4,Yes,Unsure,No,No,No,Unsure,No,No,25-34,North America,United States
+43,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Rarely,26-100,No,Yes,No,No,No,No,Unknown,3,Yes,Yes,Unsure,No,No,No,No,Yes,35-44,Europe,United Kingdom
+25,Female,United States,CA,Yes,No,Yes,Often,1-5,No,Yes,Yes,Yes,Yes,Yes,Yes,0,Unsure,Unsure,Unsure,Unsure,No,No,Yes,Yes,25-34,North America,United States
+24,Male,United Kingdom,UNKNOWN,Yes,No,No,Unknown,1-5,Yes,Yes,No,Yes,No,No,Yes,0,No,No,No,No,No,Unsure,Yes,No,18-24,Europe,United Kingdom
+51,Male,United States,CO,Yes,No,No,Never,1-5,No,Yes,No,Yes,No,No,Yes,2,No,No,Unsure,Unsure,Unsure,Unsure,Unknown,No,45-54,North America,United States
+49,Male,United States,OR,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,2,Yes,Unsure,No,No,No,Unsure,No,Yes,45-54,North America,United States
+30,Male,United States,OK,No,No,No,Unknown,More than 1000,Yes,Yes,Yes,No,Yes,Yes,Unknown,4,Yes,Unsure,No,No,No,No,Unknown,No,25-34,North America,United States
+25,Female,United States,OH,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,No,Unknown,4,Yes,Yes,No,No,No,No,No,No,25-34,North America,United States
+36,Male,United States,TN,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,Unknown,Unknown,Unknown,4,Unsure,No,No,No,No,Unsure,Unknown,No,35-44,North America,United States
+48,Male,United States,VA,No,No,Yes,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,4,Unsure,Unsure,Yes,Yes,No,Unsure,Yes,Yes,45-54,North America,United States
+48,Male,Australia,UNKNOWN,No,No,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Unknown,1,Yes,No,Unsure,No,No,Unsure,No,Yes,45-54,Oceania,Australia
+53,Male,United States,OR,No,No,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,No,Yes,Unknown,4,Unsure,Unsure,Unsure,No,No,No,Unknown,No,45-54,North America,United States
+24,Female,United Kingdom,UNKNOWN,No,Yes,Yes,Often,6-25,Yes,Yes,No,No,No,No,Unknown,0,No,No,Yes,Yes,No,No,Unknown,No,18-24,Europe,United Kingdom
+33,Male,United States,OR,No,Yes,Yes,Sometimes,26-100,No,Yes,Unknown,Yes,No,Yes,Unknown,1,No,No,Yes,Yes,No,No,Unknown,No,25-34,North America,United States
+25,Female,Canada,UNKNOWN,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,1,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,Canada
+30,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,26-100,No,Yes,No,No,No,No,Unknown,2,Yes,Unsure,Unsure,No,No,Unsure,No,No,25-34,Europe,United Kingdom
+30,Male,United States,PA,Yes,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Yes,1,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Unknown,No,25-34,North America,United States
+34,Male,United Kingdom,UNKNOWN,Yes,No,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,2,No,No,Unsure,Unsure,No,No,Yes,No,25-34,Europe,United Kingdom
+31,Male,United States,SC,No,No,No,Unknown,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,No,No,Unsure,Yes,Unsure,Yes,Yes,No,25-34,North America,United States
+22,Female,United States,CA,No,Yes,Yes,Often,More than 1000,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Yes,Yes,No,No,No,No,Unknown,No,18-24,North America,United States
+28,Male,United States,TN,No,Yes,No,Sometimes,6-25,No,Yes,Unknown,Unknown,No,Unknown,Unknown,1,No,No,Unsure,Yes,No,Yes,Unknown,No,25-34,North America,United States
+35,Male,United States,UT,No,Yes,Yes,Rarely,26-100,No,No,Yes,Yes,No,Yes,Yes,2,Unsure,No,Unsure,Unsure,No,No,No,No,35-44,North America,United States
+28,Male,United States,CA,No,Yes,Yes,Sometimes,26-100,No,No,Yes,No,No,No,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,Yes,No,25-34,North America,United States
+42,Male,New Zealand,UNKNOWN,No,No,Yes,Sometimes,More than 1000,No,No,No,Yes,Unknown,No,Yes,2,Yes,Unsure,Unsure,Unsure,No,Yes,No,Yes,35-44,Oceania,New Zealand
+33,Male,United States,MO,No,Yes,No,Unknown,500-1000,No,Yes,Yes,No,Unknown,Unknown,Unknown,0,No,No,Yes,Yes,Yes,Yes,Yes,No,25-34,North America,United States
+29,Male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes,No,Unknown,4,Yes,Unsure,No,No,No,No,Unknown,No,25-34,North America,United States
+43,Male,United States,UNKNOWN,No,Yes,No,Sometimes,500-1000,No,No,Yes,Unknown,No,Unknown,Unknown,4,Unsure,No,No,Unsure,No,Unsure,No,No,35-44,North America,United States
+29,Male,United States,NY,No,No,No,Unknown,26-100,No,Yes,Yes,Yes,Yes,Yes,Unknown,1,No,No,Unsure,Unsure,Unsure,Unsure,Yes,No,25-34,North America,United States
+25,Male,United States,TX,No,No,No,Unknown,100-500,Yes,Yes,Yes,No,No,No,Yes,4,No,No,Yes,Yes,Unsure,Unsure,Unknown,No,25-34,North America,United States
+31,Male,United States,MO,No,Yes,No,Never,100-500,No,Yes,Unknown,No,Unknown,Unknown,Unknown,0,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+35,Female,United States,GA,No,Yes,Yes,Sometimes,6-25,No,No,Yes,Unknown,Yes,Yes,Yes,2,Unsure,Unsure,Unsure,Yes,No,Unsure,Yes,No,35-44,North America,United States
+34,Male,United States,TX,No,No,No,Often,1-5,No,Yes,Unknown,No,No,Yes,Unknown,0,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,North America,United States
+43,Male,United States,WA,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Yes,3,Yes,Unsure,Unsure,No,No,Unsure,No,Yes,35-44,North America,United States
+38,Male,United States,WA,No,Yes,Yes,Sometimes,100-500,No,Yes,No,Unknown,No,No,Unknown,3,Yes,Yes,No,Unsure,No,Unsure,No,No,35-44,North America,United States
+26,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Unknown,Unknown,No,Yes,Yes,3,Unsure,No,Unsure,Unsure,Yes,Yes,No,Yes,25-34,North America,United States
+38,Male,United Kingdom,UNKNOWN,Yes,Yes,Yes,Rarely,1-5,Yes,No,No,No,No,No,Yes,3,Unsure,No,No,No,No,No,No,No,35-44,Europe,United Kingdom
+42,Male,United States,TX,No,No,Yes,Often,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,4,Yes,Unsure,No,No,No,Unsure,Unknown,No,35-44,North America,United States
+33,Male,Netherlands,UNKNOWN,No,Yes,Yes,Unknown,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,4,No,No,Yes,Yes,Unsure,Unsure,Yes,Yes,25-34,Europe,Netherlands
+32,Male,United States,WA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,1,Unsure,No,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+44,Male,United States,WA,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Unsure,Unsure,Unsure,Yes,No,Unsure,No,No,35-44,North America,United States
+28,Male,United States,WA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,No,No,No,No,No,25-34,North America,United States
+40,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Yes,No,Unsure,Unsure,No,Unsure,Unknown,Yes,35-44,North America,United States
+31,Female,United States,AZ,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Unknown,Yes,1,Unsure,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+32,Male,United States,WA,No,Yes,No,Sometimes,100-500,No,Yes,Yes,Yes,Yes,Yes,Unknown,4,Yes,No,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+28,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Unknown,No,Unknown,Unknown,Unknown,1,Unsure,No,Unsure,No,No,Unsure,No,No,25-34,North America,United States
+39,Male,United States,AZ,No,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,4,Yes,No,Unsure,No,No,No,No,No,35-44,North America,United States
+45,Male,United States,NY,No,No,No,Unknown,More than 1000,No,No,Yes,Yes,Yes,Yes,Unknown,4,No,No,Unsure,Unsure,No,No,Yes,No,45-54,North America,United States
+43,Male,United States,WA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Unknown,1,No,No,Yes,Yes,Unsure,Yes,Yes,No,35-44,North America,United States
+35,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Unknown,Yes,Unknown,3,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,35-44,North America,United States
+40,Male,United States,WA,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,Unknown,Unknown,Yes,0,Unsure,No,Unsure,Unsure,No,No,Unknown,No,35-44,North America,United States
+34,Male,Netherlands,UNKNOWN,No,No,Yes,Rarely,26-100,No,Yes,No,Yes,No,No,Yes,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,Europe,Netherlands
+24,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Often,26-100,No,No,Unknown,Yes,No,No,No,1,Yes,Unsure,Unsure,Yes,No,Unsure,No,Yes,18-24,Europe,United Kingdom
+61,Male,South Africa,UNKNOWN,Yes,No,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Unknown,3,Yes,Unsure,Unsure,Yes,No,Unsure,No,Yes,55+,Africa,Other
+36,Female,United States,WA,No,Yes,Yes,Rarely,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,4,Yes,Unsure,Unsure,No,No,No,Unknown,No,35-44,North America,United States
+38,Male,United States,TN,No,No,No,Unknown,6-25,No,Yes,No,No,No,No,Yes,4,Unsure,No,Unsure,Yes,Unsure,Unsure,Unknown,No,35-44,North America,United States
+33,Male,Germany,UNKNOWN,No,Yes,Yes,Often,26-100,No,Yes,Unknown,Unknown,Yes,No,Yes,1,No,No,Unsure,Yes,Yes,Yes,Yes,No,25-34,Europe,Germany
+30,Male,United States,WA,No,Yes,No,Never,More than 1000,No,No,Unknown,No,No,Unknown,Unknown,4,Yes,Unsure,No,No,No,No,No,No,25-34,North America,United States
+34,Male,Netherlands,UNKNOWN,Yes,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,No,No,Yes,Unsure,No,Unsure,Yes,No,25-34,Europe,Netherlands
+26,Male,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Unsure,No,Unsure,No,No,25-34,North America,United States
+33,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,More than 1000,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,Unknown,No,25-34,Europe,United Kingdom
+32,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,Unknown,No,No,No,Unknown,0,No,No,No,Yes,No,Unsure,No,No,25-34,Europe,United Kingdom
+25,Male,Germany,UNKNOWN,Yes,No,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Yes,1,No,No,Unsure,Yes,Yes,Yes,Yes,No,25-34,Europe,Germany
+35,Male,Germany,UNKNOWN,Yes,No,Yes,Sometimes,26-100,Yes,No,Unknown,No,No,No,Unknown,2,Yes,Unsure,Yes,No,No,Unsure,Unknown,No,35-44,Europe,Germany
+24,Male,United Kingdom,UNKNOWN,Yes,Yes,No,Often,1-5,Yes,Yes,Unknown,Unknown,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,No,18-24,Europe,United Kingdom
+55,Male,United Kingdom,UNKNOWN,No,No,Yes,Often,More than 1000,No,No,Yes,Yes,Yes,Yes,Unknown,1,Yes,Unsure,No,Unsure,No,Unsure,No,Yes,55+,Europe,United Kingdom
+33,Male,United Kingdom,UNKNOWN,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,No,3,Yes,Unsure,Unsure,Unsure,No,Unsure,No,Yes,25-34,Europe,United Kingdom
+26,Female,United Kingdom,UNKNOWN,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Unknown,0,Unsure,No,Unsure,Yes,No,Unsure,Yes,No,25-34,Europe,United Kingdom
+25,Male,United Kingdom,UNKNOWN,No,No,No,Never,6-25,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,0,No,No,Yes,Yes,No,No,Unknown,No,25-34,Europe,United Kingdom
+45,Male,United Kingdom,UNKNOWN,No,Yes,No,Rarely,100-500,No,No,Unknown,No,No,No,Unknown,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,45-54,Europe,United Kingdom
+33,Female,United Kingdom,UNKNOWN,Yes,No,Yes,Sometimes,1-5,Yes,Yes,No,Yes,Yes,Yes,Yes,0,No,No,Unsure,Yes,No,No,Unknown,No,25-34,Europe,United Kingdom
+43,Male,United States,MI,No,No,No,Sometimes,More than 1000,Yes,Yes,No,Unknown,No,No,Unknown,3,Yes,Unsure,No,No,No,Unsure,No,Yes,35-44,North America,United States
+30,Male,United Kingdom,UNKNOWN,Yes,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,No,3,Yes,Yes,No,No,No,No,Yes,Yes,25-34,Europe,United Kingdom
+40,Male,United States,IN,No,Yes,Yes,Rarely,6-25,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,No,No,Yes,Yes,No,Unsure,Unknown,No,35-44,North America,United States
+49,Male,United States,GA,No,Yes,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,4,No,No,Yes,Yes,No,No,Yes,No,45-54,North America,United States
+29,Male,Germany,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,Unknown,Unknown,No,No,Unknown,1,No,No,Unsure,Yes,Unsure,Yes,Unknown,No,25-34,Europe,Germany
+26,Male,Germany,UNKNOWN,No,No,No,Unknown,500-1000,No,Yes,Unknown,No,Unknown,Unknown,Unknown,4,No,No,Unsure,Unsure,Unsure,Unsure,Unknown,No,25-34,Europe,Germany
+38,Male,United States,WA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,1,Unsure,Unsure,Unsure,Unsure,No,Unsure,No,Yes,35-44,North America,United States
+27,Male,France,UNKNOWN,No,Yes,No,Unknown,500-1000,No,No,Yes,Yes,Unknown,No,Yes,1,Unsure,Unsure,No,Unsure,No,Unsure,Unknown,Yes,25-34,Europe,France
+26,Male,Belgium,UNKNOWN,No,No,No,Never,6-25,No,Yes,Yes,No,No,No,No,1,Unsure,No,No,No,No,No,Unknown,No,25-34,Europe,Other
+28,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Often,26-100,No,Yes,No,No,No,No,Unknown,1,Unsure,Unsure,Yes,Yes,No,No,No,No,25-34,Europe,United Kingdom
+40,Male,United States,ME,No,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Unknown,4,Unsure,Unsure,Unsure,Yes,No,Unsure,No,No,35-44,North America,United States
+37,Female,Canada,UNKNOWN,Yes,Yes,Yes,Rarely,1-5,Yes,Yes,No,Yes,No,No,Yes,1,Yes,Unsure,Unsure,Unsure,Unsure,Unsure,Unknown,Yes,35-44,North America,Canada
+34,Female,United Kingdom,UNKNOWN,No,Yes,Yes,Often,26-100,Yes,No,Yes,Yes,No,Yes,No,1,Yes,Yes,Unsure,No,No,No,Unknown,No,25-34,Europe,United Kingdom
+28,Male,United States,NY,No,Yes,Yes,Often,100-500,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,Yes,Unknown,No,25-34,North America,United States
+27,Male,Canada,UNKNOWN,No,No,No,Never,26-100,No,Yes,Yes,Unknown,Yes,No,Yes,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,North America,Canada
+29,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,6-25,Yes,Yes,No,No,No,No,Unknown,0,No,No,Yes,Yes,No,Yes,Yes,No,25-34,Europe,United Kingdom
+39,Female,United Kingdom,UNKNOWN,No,Yes,No,Rarely,500-1000,Yes,Yes,Unknown,Unknown,No,No,Unknown,2,Yes,Yes,No,No,No,No,No,Yes,35-44,Europe,United Kingdom
+28,Male,United Kingdom,UNKNOWN,No,No,No,Often,6-25,No,Yes,No,No,No,No,No,2,Yes,No,No,No,No,Yes,Yes,No,25-34,Europe,United Kingdom
+23,Male,United States,PA,No,Yes,No,Sometimes,26-100,No,Yes,Yes,Unknown,Yes,Yes,Yes,1,No,No,No,No,No,Unsure,Unknown,No,18-24,North America,United States
+,Others,"Bahamas, The",IL,Yes,Yes,Yes,Often,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,Unknown,Other
+38,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,1-5,Yes,Yes,No,No,No,No,Yes,1,No,No,Unsure,Yes,No,No,Unknown,No,35-44,Europe,United Kingdom
+19,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,Yes,No,No,Yes,Unknown,0,No,No,Yes,Yes,No,No,Yes,No,18-24,Europe,United Kingdom
+30,Female,United States,IL,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Unknown,Yes,0,No,No,Unsure,No,No,No,Yes,No,25-34,North America,United States
+28,Male,United Kingdom,UNKNOWN,Yes,No,No,Unknown,1-5,Yes,Yes,No,Yes,No,No,Yes,0,Unsure,Unsure,No,No,No,No,Yes,No,25-34,Europe,United Kingdom
+20,Male,India,UNKNOWN,No,No,Yes,Sometimes,26-100,No,Yes,Unknown,No,No,No,Unknown,4,Yes,No,No,No,No,Unsure,Yes,No,18-24,Asia,India
+35,Male,United Kingdom,UNKNOWN,Yes,No,No,Sometimes,1-5,No,Yes,Unknown,Unknown,No,Unknown,Unknown,1,No,No,Unsure,Yes,No,No,Unknown,No,35-44,Europe,United Kingdom
+39,Male,United States,MN,No,No,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,No,No,Yes,0,Unsure,No,Unsure,Yes,No,No,Unknown,No,35-44,North America,United States
+31,Female,United States,TX,No,Yes,No,Never,More than 1000,No,No,Yes,Unknown,No,Unknown,Unknown,4,Yes,Yes,No,No,No,No,Unknown,No,25-34,North America,United States
+32,Male,United Kingdom,UNKNOWN,No,No,No,Rarely,500-1000,No,Yes,No,No,No,No,Unknown,4,Yes,No,No,No,No,No,Unknown,No,25-34,Europe,United Kingdom
+27,Male,Sweden,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,No,No,No,Unknown,4,No,No,No,No,No,No,Unknown,No,25-34,Europe,Other
+25,Male,United States,PA,No,Yes,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,Unknown,Yes,1,No,No,Yes,Yes,Unsure,Unsure,Unknown,No,25-34,North America,United States
+42,Male,United States,IN,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Unknown,No,No,Unknown,Unknown,4,Unsure,No,Unsure,Yes,No,Unsure,Unknown,No,35-44,North America,United States
+34,Male,United States,PA,No,Yes,Yes,Often,100-500,No,Yes,Yes,Yes,No,No,Yes,0,No,No,Yes,Yes,Unsure,Unsure,Unknown,No,25-34,North America,United States
+26,Female,United States,OH,No,No,Yes,Sometimes,26-100,Yes,Yes,Unknown,No,No,Unknown,Unknown,4,Unsure,No,Unsure,No,Unsure,Unsure,Unknown,Yes,25-34,North America,United States
+35,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,Yes,0,Yes,Yes,Unsure,Unsure,No,Unsure,Yes,Yes,35-44,Europe,United Kingdom
+34,Male,United Kingdom,UNKNOWN,No,No,No,Never,500-1000,No,Yes,Unknown,No,No,Unknown,Unknown,0,Unsure,No,Yes,Yes,No,No,Yes,No,25-34,Europe,United Kingdom
+38,Male,United States,PA,No,Yes,Yes,Sometimes,100-500,Yes,No,Yes,Yes,No,Yes,Yes,0,No,No,Yes,Yes,Yes,Yes,Unknown,No,35-44,North America,United States
+34,Male,United States,SD,No,No,No,Sometimes,100-500,No,Yes,Unknown,No,No,No,Unknown,4,Yes,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+39,Male,United States,IN,No,Yes,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Yes,1,No,No,Unsure,Yes,Unsure,Yes,Yes,No,35-44,North America,United States
+44,Female,United States,CA,No,No,No,Unknown,100-500,No,Yes,Unknown,Unknown,No,No,Unknown,4,Yes,No,No,No,No,No,Unknown,No,35-44,North America,United States
+40,Male,United States,TN,No,No,No,Unknown,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,4,Unsure,No,No,Yes,No,No,Unknown,No,35-44,North America,United States
+33,Female,United States,TX,Yes,No,No,Never,1-5,Yes,Yes,No,Yes,Unknown,Unknown,Yes,1,Unsure,No,No,Unsure,No,No,Yes,No,25-34,North America,United States
+24,Female,United States,TN,No,Yes,No,Sometimes,More than 1000,No,No,Yes,Yes,No,Unknown,Unknown,2,Yes,Unsure,Unsure,Unsure,No,No,No,Yes,18-24,North America,United States
+38,Female,United States,OR,No,Yes,No,Sometimes,26-100,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,35-44,North America,United States
+31,Male,United States,SD,No,No,No,Sometimes,More than 1000,No,Yes,Yes,Unknown,Yes,Yes,Yes,4,Yes,Unsure,Unsure,Unsure,No,Unsure,Yes,No,25-34,North America,United States
+23,Male,Israel,UNKNOWN,No,No,No,Unknown,100-500,No,Yes,Unknown,Unknown,No,No,Yes,0,Unsure,No,Unsure,Yes,Unsure,Yes,Unknown,No,18-24,Asia,Other
+26,Female,United States,NY,No,No,No,Unknown,6-25,No,Yes,Unknown,Unknown,No,No,Unknown,1,No,No,Yes,Yes,No,Unsure,Yes,No,25-34,North America,United States
+46,Others,United States,CT,No,No,Yes,Often,More than 1000,No,No,Yes,Yes,Yes,Yes,Unknown,4,Yes,No,Unsure,Unsure,No,No,No,Yes,45-54,North America,United States
+30,Male,United States,CA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Unknown,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+25,Male,United States,UNKNOWN,No,No,No,Rarely,26-100,Yes,Yes,Unknown,No,No,No,Unknown,1,Yes,No,Unsure,Unsure,No,Yes,Unknown,Yes,25-34,North America,United States
+19,Male,Canada,UNKNOWN,No,No,No,Never,26-100,Yes,Yes,Unknown,No,No,No,Unknown,1,No,No,Unsure,Unsure,No,Unsure,No,No,18-24,North America,Canada
+30,Female,United States,GA,No,Yes,Yes,Sometimes,500-1000,No,No,Yes,Yes,Yes,Yes,Yes,1,Unsure,Unsure,Unsure,Unsure,No,No,No,Yes,25-34,North America,United States
+32,Male,United States,TN,No,No,No,Never,6-25,No,Yes,Yes,Yes,Yes,Yes,Unknown,1,No,No,Yes,Yes,No,Unsure,Yes,No,25-34,North America,United States
+32,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,No,No,No,Unknown,4,Unsure,Unsure,No,No,No,Unsure,Unknown,No,25-34,Europe,United Kingdom
+37,Male,United States,IN,No,Yes,No,Sometimes,26-100,Yes,Yes,Unknown,No,No,No,Unknown,1,Unsure,No,Unsure,Unsure,No,Unsure,No,No,35-44,North America,United States
+42,Male,United States,CA,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Unknown,No,No,Unknown,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,35-44,North America,United States
+25,Female,United States,OR,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Unknown,4,Unsure,No,Unsure,Yes,Unsure,No,Yes,No,25-34,North America,United States
+19,Male,United States,IN,No,No,No,Sometimes,1-5,No,Yes,Unknown,Unknown,No,No,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,Unknown,No,18-24,North America,United States
+40,Female,United States,GA,No,Yes,No,Never,100-500,Yes,Yes,Yes,Yes,Yes,No,Unknown,4,Yes,Yes,No,No,No,No,Unknown,No,35-44,North America,United States
+34,Male,United States,IN,No,No,No,Unknown,More than 1000,No,No,Yes,Unknown,Yes,Unknown,Unknown,4,Unsure,Unsure,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+26,Male,United States,MN,No,Yes,No,Unknown,6-25,No,Yes,Unknown,Unknown,No,No,Unknown,4,No,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+31,Male,United States,MN,No,Yes,Yes,Rarely,6-25,No,Yes,Unknown,Unknown,Unknown,Unknown,Yes,4,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+40,Male,United States,NC,No,Yes,No,Sometimes,More than 1000,Yes,No,Yes,Unknown,Yes,Unknown,Unknown,4,Yes,Unsure,Unsure,Unsure,No,Unsure,No,No,35-44,North America,United States
+31,Female,United States,FL,No,Yes,Yes,Often,26-100,No,Yes,No,No,No,No,No,3,Yes,No,No,No,No,Yes,No,Yes,25-34,North America,United States
+36,Male,United States,MN,No,No,No,Never,100-500,No,No,Unknown,No,No,Unknown,Unknown,4,Yes,Unsure,No,No,No,Unsure,Unknown,Yes,35-44,North America,United States
+35,Male,Canada,UNKNOWN,No,Yes,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Unknown,4,Unsure,No,No,Unsure,No,No,Unknown,No,35-44,North America,Canada
+26,Male,Australia,UNKNOWN,No,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Yes,4,No,No,Yes,Yes,No,Unsure,Yes,No,25-34,Oceania,Australia
+44,Male,United States,MO,No,No,No,Unknown,More than 1000,Yes,No,Unknown,No,Unknown,Unknown,Yes,4,Yes,No,Unsure,No,No,No,No,No,35-44,North America,United States
+34,Female,United States,CA,No,No,No,Sometimes,1-5,No,Yes,No,Unknown,No,No,Unknown,0,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,North America,United States
+35,Male,United States,OR,No,No,No,Unknown,6-25,Yes,Yes,No,No,No,No,Unknown,4,No,No,No,No,No,No,Unknown,No,35-44,North America,United States
+28,Female,United States,OH,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Unknown,No,No,No,Unknown,1,Yes,No,Unsure,Unsure,No,Unsure,No,No,25-34,North America,United States
+33,Male,United States,NY,No,No,No,Unknown,6-25,Yes,Yes,Yes,No,Unknown,Yes,Yes,4,No,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+40,Male,United States,WI,No,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,No,Yes,Unknown,4,Yes,No,No,No,No,Unsure,Unknown,No,35-44,North America,United States
+26,Male,United States,WA,No,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+29,Female,United Kingdom,UNKNOWN,No,No,Yes,Often,More than 1000,No,No,Yes,Yes,No,No,Unknown,4,Unsure,No,Unsure,No,No,Yes,No,Yes,25-34,Europe,United Kingdom
+26,Female,Canada,UNKNOWN,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Unknown,No,No,Yes,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,Canada
+33,Male,Italy,UNKNOWN,No,Yes,Yes,Sometimes,6-25,No,Yes,No,Unknown,No,No,Unknown,1,No,No,Unsure,Yes,No,No,Unknown,No,25-34,Europe,Other
+28,Male,Brazil,UNKNOWN,No,Yes,No,Sometimes,100-500,No,Yes,No,No,No,No,Unknown,1,No,No,Unsure,Unsure,No,No,Unknown,Yes,25-34,South America,Other
+41,Male,United States,IL,Yes,No,Yes,Often,1-5,Yes,No,No,Yes,Yes,Yes,Yes,3,No,No,Unsure,Unsure,No,No,Yes,Yes,35-44,North America,United States
+39,Male,United Kingdom,UNKNOWN,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,Yes,Yes,Yes,2,No,No,Yes,Yes,No,Unsure,Yes,Yes,35-44,Europe,United Kingdom
+26,Female,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Unknown,4,No,No,Unsure,Yes,No,Unsure,No,Yes,25-34,North America,United States
+23,Female,United States,IL,No,Yes,No,Sometimes,26-100,No,No,No,No,No,No,Unknown,2,Yes,No,No,Unsure,No,Unsure,No,No,18-24,North America,United States
+35,Male,Switzerland,UNKNOWN,No,Yes,Yes,Often,More than 1000,No,Yes,Unknown,Unknown,No,No,Yes,0,No,No,Unsure,Unsure,No,Unsure,No,No,35-44,Europe,Other
+36,Male,United States,FL,No,No,No,Never,1-5,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,0,No,No,Unsure,Unsure,No,No,Unknown,No,35-44,North America,United States
+42,Male,United States,TN,No,No,No,Rarely,More than 1000,No,No,Unknown,No,No,Unknown,Unknown,4,Unsure,No,Unsure,No,No,Unsure,No,No,35-44,North America,United States
+39,Male,United States,WA,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Unknown,Yes,0,No,No,Unsure,Yes,No,No,Yes,No,35-44,North America,United States
+27,Male,United States,CA,No,No,No,Never,6-25,No,Yes,Unknown,No,No,Unknown,Unknown,4,Unsure,No,Unsure,Yes,Unsure,Unsure,Unknown,No,25-34,North America,United States
+33,Male,United States,FL,Yes,No,No,Never,6-25,Yes,Yes,Unknown,No,No,No,No,0,Unsure,No,Unsure,Yes,No,Unsure,Yes,No,25-34,North America,United States
+31,Male,Canada,UNKNOWN,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Unknown,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,Canada
+28,Female,United States,OR,No,No,Yes,Rarely,6-25,No,Yes,Yes,Yes,Unknown,Yes,Yes,0,No,No,Unsure,Unsure,No,Yes,Unknown,No,25-34,North America,United States
+29,Female,United States,NJ,No,No,Yes,Often,More than 1000,Yes,No,Yes,No,No,No,Unknown,1,No,No,Unsure,Yes,Unsure,Unsure,Unknown,No,25-34,North America,United States
+27,Male,United States,CA,No,No,Yes,Sometimes,100-500,No,Yes,Unknown,Unknown,No,No,Yes,3,Unsure,No,Unsure,No,No,Unsure,No,No,25-34,North America,United States
+44,Male,United States,FL,Yes,No,No,Never,1-5,Yes,Yes,Unknown,No,No,No,Yes,2,No,No,No,No,No,No,Unknown,No,35-44,North America,United States
+25,Male,United States,UT,No,No,Yes,Often,6-25,Yes,Yes,Unknown,No,No,No,Unknown,1,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+24,Male,Germany,UNKNOWN,No,Yes,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Unknown,1,Unsure,No,Yes,Yes,No,No,Unknown,No,18-24,Europe,Germany
+25,Male,South Africa,UNKNOWN,No,Yes,Yes,Often,6-25,No,No,Unknown,No,No,No,Yes,4,No,No,Unsure,Yes,No,Unsure,No,Yes,25-34,Africa,Other
+34,Male,United States,NJ,No,No,No,Never,6-25,Yes,Yes,Yes,Unknown,Unknown,Unknown,Unknown,1,Unsure,Unsure,No,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+26,Male,United States,PA,No,No,No,Never,More than 1000,No,No,Yes,Yes,No,Unknown,Unknown,2,Unsure,No,No,Yes,No,No,Unknown,No,25-34,North America,United States
+48,Male,United States,IN,No,No,No,Never,26-100,No,No,Yes,Yes,Yes,Yes,Yes,4,Unsure,No,Unsure,Yes,No,Unsure,Unknown,No,45-54,North America,United States
+34,Male,Greece,UNKNOWN,No,No,No,Unknown,26-100,Yes,Yes,No,No,No,No,Unknown,3,Yes,Unsure,Unsure,No,No,Unsure,No,No,25-34,Europe,Other
+39,Female,United States,OH,No,No,Yes,Sometimes,6-25,Yes,Yes,No,No,No,No,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,Unsure,No,No,35-44,North America,United States
+43,Male,United States,OH,No,No,No,Sometimes,More than 1000,Yes,Yes,Yes,Unknown,No,Yes,Unknown,4,Unsure,No,No,No,No,No,Unknown,No,35-44,North America,United States
+41,Male,United States,IL,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Unknown,4,Unsure,Unsure,Unsure,No,No,No,Yes,Yes,35-44,North America,United States
+25,Male,United States,IN,No,No,No,Never,More than 1000,No,No,Unknown,No,No,No,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,25-34,North America,United States
+31,Male,United States,CA,No,No,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Unknown,1,Unsure,No,Unsure,No,No,Unsure,No,No,25-34,North America,United States
+40,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,4,Yes,Yes,No,No,No,Unsure,No,Yes,35-44,North America,United States
+43,Male,United States,VA,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Unknown,No,Unknown,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,Unsure,Unknown,No,35-44,North America,United States
+27,Female,United States,WA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,3,Unsure,No,Yes,Unsure,No,Unsure,No,Yes,25-34,North America,United States
+37,Female,United States,NJ,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,Unknown,Unknown,4,Yes,Unsure,No,No,No,Unsure,Unknown,No,35-44,North America,United States
+32,Male,Netherlands,UNKNOWN,Yes,No,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Yes,3,Unsure,No,Unsure,Yes,No,Unsure,No,No,25-34,Europe,Netherlands
+25,Male,United States,UT,No,Yes,Yes,Often,1-5,No,Yes,No,Yes,No,No,Yes,0,Unsure,No,Yes,Yes,No,Unsure,No,No,25-34,North America,United States
+29,Male,Netherlands,UNKNOWN,No,Yes,Yes,Often,1-5,No,Yes,Unknown,Unknown,Unknown,Yes,Unknown,3,No,Unsure,Yes,Yes,Unsure,No,Yes,No,25-34,Europe,Netherlands
+30,Female,United States,TN,No,Yes,Yes,Often,More than 1000,No,No,Yes,No,No,No,Unknown,2,Yes,No,No,No,No,Unsure,No,No,25-34,North America,United States
+34,Female,Canada,UNKNOWN,No,Yes,Yes,Often,26-100,No,No,Unknown,No,Yes,Unknown,Unknown,1,No,No,Unsure,Unsure,No,No,Yes,No,25-34,North America,Canada
+32,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,1-5,No,No,Yes,Yes,Yes,Yes,Yes,1,Unsure,Unsure,Unsure,Unsure,No,Unsure,No,No,25-34,Europe,United Kingdom
+37,Male,Germany,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,Unknown,No,No,No,Yes,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,35-44,Europe,Germany
+41,Male,Germany,UNKNOWN,No,No,Yes,Sometimes,More than 1000,No,Yes,Unknown,No,No,No,Unknown,2,No,No,Yes,Yes,No,No,Yes,No,35-44,Europe,Germany
+38,Male,United States,IN,No,Yes,No,Never,More than 1000,No,No,Yes,Unknown,Yes,Yes,Unknown,4,Yes,Unsure,Unsure,No,No,No,No,No,35-44,North America,United States
+32,Male,United States,IN,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Unknown,Yes,4,No,No,Unsure,Yes,No,Unsure,Unknown,No,25-34,North America,United States
+28,Female,United States,CA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,Unknown,Unknown,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Yes,No,25-34,North America,United States
+,Male,United States,OH,Yes,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Yes,0,No,No,Unsure,Unsure,No,Unsure,Yes,No,,North America,United States
+43,Male,United States,TX,No,Yes,No,Never,100-500,No,No,Yes,Yes,No,Unknown,Unknown,1,Unsure,No,Unsure,Unsure,No,Unsure,No,No,35-44,North America,United States
+32,Male,United States,TN,No,Yes,Yes,Often,100-500,No,Yes,No,Yes,No,No,Unknown,3,Yes,No,Yes,Yes,No,Yes,No,No,25-34,North America,United States
+25,Male,United States,WA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Unknown,Yes,4,Yes,No,No,No,No,No,Yes,No,25-34,North America,United States
+37,Male,United States,UT,No,No,Yes,Sometimes,100-500,No,Yes,Yes,No,No,Yes,Yes,0,No,No,No,Yes,No,No,Yes,No,35-44,North America,United States
+36,Male,United States,AL,Yes,No,Yes,Sometimes,1-5,No,No,No,Yes,No,No,No,3,No,No,No,No,No,No,No,Yes,35-44,North America,United States
+24,Male,United States,WI,No,Yes,Yes,Rarely,6-25,Yes,Yes,Unknown,No,No,No,Unknown,0,No,No,Yes,Yes,Unsure,Yes,Yes,No,18-24,North America,United States
+40,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Unknown,Yes,Unknown,Unknown,2,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,Yes,35-44,North America,United States
+29,Male,United States,WI,No,No,No,Unknown,More than 1000,No,No,Unknown,Unknown,Yes,Unknown,Yes,1,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,North America,United States
+43,Male,United States,NY,No,No,No,Never,500-1000,No,Yes,Unknown,No,No,Unknown,Unknown,4,No,No,Yes,Unsure,No,No,Yes,No,35-44,North America,United States
+29,Male,United States,NY,No,No,No,Unknown,6-25,Yes,Yes,Yes,Unknown,No,Yes,Unknown,4,Unsure,No,Unsure,Yes,Unsure,Yes,Unknown,No,25-34,North America,United States
+26,Male,United States,OH,No,Yes,No,Sometimes,100-500,No,Yes,Unknown,Unknown,No,No,Unknown,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+33,Female,Canada,UNKNOWN,Yes,Yes,Yes,Often,1-5,Yes,Yes,No,Yes,No,No,No,3,Yes,Yes,No,No,No,Unsure,No,Yes,25-34,North America,Canada
+35,Female,United States,WA,No,Yes,No,Sometimes,6-25,Yes,Yes,Unknown,No,No,No,Unknown,1,No,No,Yes,Unsure,No,No,Yes,No,35-44,North America,United States
+45,Male,United States,CA,No,No,No,Never,6-25,Yes,Yes,Yes,No,No,No,Unknown,4,Yes,Unsure,Unsure,No,No,Unsure,Unknown,No,45-54,North America,United States
+25,Male,United States,SC,No,No,Yes,Rarely,6-25,Yes,Yes,No,Yes,No,Unknown,Unknown,1,Unsure,No,No,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+50,Male,France,UNKNOWN,Yes,No,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Unknown,4,Unsure,Unsure,Unsure,Yes,No,No,Unknown,No,45-54,Europe,France
+26,Male,Australia,UNKNOWN,No,Yes,Yes,Rarely,26-100,No,Yes,No,No,Unknown,Unknown,Unknown,0,No,No,Yes,Yes,Unsure,Yes,Yes,No,25-34,Oceania,Australia
+33,Female,United States,CA,No,No,Yes,Often,More than 1000,No,Yes,Yes,Yes,Unknown,Unknown,Unknown,4,Yes,No,No,No,No,Unsure,Unknown,No,25-34,North America,United States
+30,Male,India,UNKNOWN,No,No,No,Often,6-25,No,Yes,No,No,No,No,No,0,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Unknown,No,25-34,Asia,India
+33,Male,Croatia,UNKNOWN,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Yes,No,Unknown,Yes,0,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,25-34,Europe,Other
+29,Male,France,UNKNOWN,No,No,Yes,Often,6-25,No,Yes,Yes,No,No,No,Yes,1,Unsure,Unsure,Yes,Unsure,No,Yes,No,No,25-34,Europe,France
+37,Male,Germany,UNKNOWN,No,No,No,Unknown,6-25,Yes,Yes,No,Unknown,No,No,Unknown,4,Unsure,No,Unsure,No,Unsure,Yes,Unknown,No,35-44,Europe,Germany
+25,Male,United States,MN,No,Yes,Yes,Sometimes,1-5,Yes,Yes,Unknown,No,Unknown,Unknown,Unknown,0,No,No,Yes,Yes,Unsure,Yes,Unknown,No,25-34,North America,United States
+40,Male,United States,WA,No,No,No,Unknown,More than 1000,No,No,Yes,Unknown,Unknown,Unknown,Unknown,1,Unsure,No,Unsure,Unsure,No,Unsure,Unknown,No,35-44,North America,United States
+24,Male,Canada,UNKNOWN,No,No,No,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,4,Unsure,No,No,No,No,Unsure,Unknown,Yes,18-24,North America,Canada
+40,Male,United Kingdom,UNKNOWN,No,No,Yes,Never,100-500,No,Yes,Unknown,Unknown,No,Unknown,Unknown,0,Unsure,No,Yes,Unsure,No,Unsure,Unknown,No,35-44,Europe,United Kingdom
+46,Male,United States,PA,No,Yes,Yes,Sometimes,6-25,No,Yes,Unknown,Yes,No,Unknown,Unknown,4,Yes,Unsure,No,Unsure,No,Unsure,Unknown,No,45-54,North America,United States
+38,Male,United States,NY,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,1,Yes,No,No,Yes,No,Yes,Unknown,No,35-44,North America,United States
+34,Male,United States,VT,No,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Unknown,4,Yes,Yes,No,No,No,No,Unknown,No,25-34,North America,United States
+32,Male,United Kingdom,UNKNOWN,Yes,No,Yes,Rarely,1-5,No,Yes,No,Yes,Yes,Yes,Yes,0,No,No,Unsure,Yes,No,Yes,No,Yes,25-34,Europe,United Kingdom
+44,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,More than 1000,No,No,No,No,No,Yes,Unknown,4,Unsure,No,Unsure,Unsure,No,No,No,No,35-44,Europe,United Kingdom
+33,Female,United Kingdom,UNKNOWN,No,No,Yes,Never,100-500,No,Yes,Unknown,Unknown,No,Unknown,Unknown,0,Unsure,No,Unsure,Unsure,No,Unsure,No,No,25-34,Europe,United Kingdom
+45,Female,United States,MI,No,No,Yes,Rarely,26-100,No,No,Unknown,No,Unknown,Unknown,Unknown,4,No,No,Unsure,Unsure,No,Unsure,Unknown,No,45-54,North America,United States
+35,Male,United States,NY,No,No,No,Unknown,6-25,No,Yes,Unknown,Unknown,Unknown,Unknown,Yes,4,No,No,No,No,No,No,Yes,No,35-44,North America,United States
+26,Male,Germany,UNKNOWN,Yes,Yes,Yes,Often,1-5,No,Yes,No,No,No,No,Unknown,4,Unsure,No,Yes,Yes,Unsure,Yes,No,Yes,25-34,Europe,Germany
+20,Female,United States,NY,No,No,Yes,Sometimes,26-100,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Unsure,Unsure,Unsure,Unknown,No,18-24,North America,United States
+,Others,United States,AL,Yes,Yes,Yes,Often,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,North America,United States
+37,Male,Netherlands,UNKNOWN,No,Yes,No,Sometimes,6-25,No,Yes,No,No,No,No,Yes,1,Unsure,No,Unsure,Yes,No,Unsure,Yes,No,35-44,Europe,Netherlands
+28,Male,United States,MI,No,No,No,Unknown,More than 1000,No,No,Yes,No,No,No,Yes,1,Unsure,No,No,No,No,Yes,No,No,25-34,North America,United States
+42,Female,United States,WA,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Unknown,4,Yes,No,Unsure,Unsure,No,Yes,No,No,35-44,North America,United States
+32,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,No,No,No,No,Unknown,4,Unsure,No,No,No,No,No,Unknown,Yes,25-34,Europe,United Kingdom
+36,Female,United States,TN,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,No,Yes,1,Unsure,Unsure,Unsure,No,No,No,Unknown,No,35-44,North America,United States
+27,Male,New Zealand,UNKNOWN,No,No,No,Rarely,26-100,No,Yes,No,Yes,No,Yes,No,2,Yes,No,No,No,No,Unsure,No,Yes,25-34,Oceania,New Zealand
+27,Male,New Zealand,UNKNOWN,No,No,No,Rarely,26-100,No,Yes,No,Yes,No,Yes,No,2,Yes,No,No,No,No,Unsure,No,Yes,25-34,Oceania,New Zealand
+27,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,More than 1000,No,No,No,No,No,No,Yes,1,Unsure,No,Yes,Yes,Unsure,Unsure,No,No,25-34,Europe,United Kingdom
+25,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Yes,0,No,No,Unsure,Yes,No,Unsure,Yes,No,25-34,Europe,United Kingdom
+41,Male,United Kingdom,UNKNOWN,No,Yes,No,Unknown,6-25,No,Yes,No,No,No,No,Unknown,2,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Unknown,No,35-44,Europe,United Kingdom
+23,Male,Germany,UNKNOWN,No,Yes,Yes,Sometimes,6-25,No,Yes,Unknown,Unknown,No,No,Unknown,1,Unsure,No,No,No,No,No,Unknown,No,18-24,Europe,Germany
+21,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,More than 1000,No,No,Unknown,No,No,Unknown,Unknown,4,Unsure,No,Unsure,No,No,No,Unknown,No,18-24,Europe,United Kingdom
+26,Male,Moldova,UNKNOWN,No,No,Yes,Often,26-100,No,Yes,No,Yes,No,No,Yes,3,No,No,Yes,Yes,Yes,Yes,Unknown,No,25-34,Europe,Other
+29,Male,Sweden,UNKNOWN,No,No,No,Rarely,More than 1000,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,Unsure,No,No,No,Yes,Unknown,Yes,25-34,Europe,Other
+28,Male,Belgium,UNKNOWN,No,No,No,Sometimes,More than 1000,No,No,No,No,No,No,Unknown,1,Yes,Unsure,No,No,No,No,Unknown,Yes,25-34,Europe,Other
+27,Female,United Kingdom,UNKNOWN,No,Yes,No,Unknown,More than 1000,No,No,No,Yes,No,No,Yes,4,Unsure,No,No,No,No,Yes,Yes,No,25-34,Europe,United Kingdom
+23,Male,Israel,UNKNOWN,No,No,No,Never,More than 1000,No,No,No,Yes,Yes,Yes,Yes,2,No,No,Yes,Yes,No,Yes,Yes,No,18-24,Asia,Other
+26,Female,United States,NY,No,Yes,No,Sometimes,26-100,Yes,Yes,Unknown,No,No,No,Unknown,4,Unsure,No,No,No,No,No,Unknown,No,25-34,North America,United States
+38,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,1-5,No,Yes,No,Unknown,Unknown,Unknown,Unknown,0,No,No,Unsure,Yes,Unsure,Yes,Unknown,No,35-44,Europe,United Kingdom
+39,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,More than 1000,No,No,No,No,No,No,Yes,0,Unsure,Unsure,Unsure,Yes,Unsure,Unsure,Yes,No,35-44,Europe,United Kingdom
+35,Male,United States,IN,No,Yes,Yes,Often,More than 1000,No,No,Yes,Yes,No,Yes,Unknown,1,Yes,No,No,Unsure,No,Yes,Unknown,No,35-44,North America,United States
+32,Male,United States,NC,No,No,No,Rarely,6-25,No,Yes,Yes,Unknown,No,Unknown,Unknown,4,Unsure,No,No,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+32,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,2,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,Yes,25-34,North America,United States
+26,Male,United Kingdom,UNKNOWN,No,No,No,Never,6-25,No,Yes,No,No,No,No,Unknown,4,Yes,Unsure,Unsure,No,No,Unsure,Unknown,No,25-34,Europe,United Kingdom
+38,Male,Canada,UNKNOWN,No,Yes,Yes,Rarely,100-500,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,No,No,Yes,Yes,No,Unsure,No,No,35-44,North America,Canada
+34,Female,United Kingdom,UNKNOWN,No,Yes,No,Rarely,26-100,No,No,Yes,Yes,Yes,Yes,Yes,0,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,25-34,Europe,United Kingdom
+39,Male,United States,TN,No,Yes,Yes,Often,26-100,No,No,Unknown,Unknown,No,No,Unknown,1,Yes,No,Unsure,Unsure,No,Unsure,Unknown,No,35-44,North America,United States
+32,Male,Canada,UNKNOWN,Yes,No,No,Never,6-25,Yes,Yes,Unknown,Unknown,No,No,Unknown,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,North America,Canada
+37,Male,Netherlands,UNKNOWN,Yes,No,No,Never,1-5,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,0,Yes,Yes,Unsure,Unsure,No,No,Unknown,No,35-44,Europe,Netherlands
+31,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Never,6-25,No,Yes,Unknown,Unknown,No,Unknown,Unknown,1,No,No,Unsure,Unsure,No,No,Unknown,No,25-34,Europe,United Kingdom
+30,Male,United States,MN,No,Yes,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Unknown,4,No,No,No,No,No,No,Unknown,No,25-34,North America,United States
+51,Male,Singapore,UNKNOWN,No,No,No,Never,More than 1000,Yes,Yes,Unknown,No,No,Unknown,Unknown,4,Yes,No,No,No,No,No,No,No,45-54,Asia,Other
+29,Male,United States,NC,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Unknown,4,Yes,No,Unsure,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+31,Male,United Kingdom,UNKNOWN,No,No,No,Never,100-500,No,Yes,Yes,No,No,Yes,Unknown,4,Unsure,Yes,Unsure,No,No,No,Yes,No,25-34,Europe,United Kingdom
+31,Male,India,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,4,Yes,Yes,No,No,No,No,Unknown,No,25-34,Asia,India
+26,Male,United States,TX,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Unknown,No,No,Unknown,Unknown,1,Unsure,No,Unsure,Unsure,Unsure,Unsure,Unknown,No,25-34,North America,United States
+46,Female,United States,CA,No,No,Yes,Often,100-500,Yes,No,Yes,Yes,No,No,Yes,4,Unsure,No,Unsure,Unsure,No,Unsure,No,No,45-54,North America,United States
+32,Male,United States,CA,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Unknown,Unknown,4,Unsure,No,Yes,Yes,No,No,Unknown,No,25-34,North America,United States
+29,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,Yes,Yes,Unknown,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+34,Male,Poland,UNKNOWN,No,No,No,Never,More than 1000,Yes,Yes,Unknown,Unknown,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,Yes,Unknown,No,25-34,Europe,Other
+26,Male,Colombia,UNKNOWN,No,No,No,Often,6-25,No,Yes,No,No,No,No,No,3,Yes,No,No,No,No,Unsure,Yes,No,25-34,South America,Other
+32,Female,United States,PA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Unknown,Unknown,4,Unsure,No,Unsure,No,No,No,No,No,25-34,North America,United States
+29,Male,United States,IL,No,No,No,Unknown,More than 1000,No,Yes,Unknown,Unknown,No,No,Unknown,4,Unsure,No,Unsure,Yes,Unsure,Yes,No,No,25-34,North America,United States
+30,Male,United States,IL,No,No,No,Unknown,More than 1000,No,No,Yes,No,Yes,Yes,Unknown,4,Yes,Unsure,No,No,No,No,Unknown,No,25-34,North America,United States
+40,Female,United States,MN,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Yes,Yes,1,No,No,Yes,Yes,No,Unsure,Yes,Yes,35-44,North America,United States
+23,Male,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Unknown,3,Unsure,No,Yes,Yes,Yes,Yes,No,Yes,18-24,Europe,United Kingdom
+20,Male,Georgia,UNKNOWN,No,No,No,Rarely,26-100,No,No,No,No,No,No,Unknown,3,Yes,Yes,Unsure,No,No,Unsure,No,No,18-24,Asia,Other
+38,Male,United States,NY,No,Yes,No,Unknown,6-25,No,Yes,Unknown,No,No,No,Unknown,2,No,No,Unsure,Yes,No,No,Unknown,Yes,35-44,North America,United States
+26,Female,United States,MI,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,No,No,No,Unknown,4,Unsure,Unsure,No,No,No,Unsure,No,No,25-34,North America,United States
+29,Male,United States,OH,No,No,No,Never,26-100,No,Yes,No,No,No,Unknown,Unknown,4,No,No,Unsure,Yes,No,Yes,No,Yes,25-34,North America,United States
+40,Male,China,UNKNOWN,Yes,No,No,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Unknown,1,No,No,Unsure,Unsure,Unsure,Unsure,Unknown,No,35-44,Asia,Other
+25,Female,Bulgaria,UT,No,No,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Unknown,4,Unsure,Unsure,Yes,Unsure,Unsure,No,No,No,25-34,Europe,Other
+32,Female,United States,NY,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,4,Unsure,Unsure,Unsure,No,No,No,No,No,25-34,North America,United States
+38,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,4,Unsure,No,Unsure,No,No,Unsure,No,Yes,35-44,North America,United States
+72,Female,United States,IN,No,Yes,Yes,Never,500-1000,Yes,No,Yes,Unknown,Unknown,Yes,Unknown,1,Unsure,Unsure,Unsure,Yes,No,No,Unknown,Yes,55+,North America,United States
+35,Female,United States,IN,No,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,4,Unsure,Unsure,Unsure,Unsure,No,No,Yes,No,35-44,North America,United States
+28,Female,United States,VA,No,No,Yes,Often,6-25,No,Yes,No,Yes,No,No,Unknown,3,Yes,Unsure,Unsure,Unsure,No,No,Unknown,No,25-34,North America,United States
+27,Female,United States,OK,No,No,No,Never,100-500,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+56,Female,United States,OR,Yes,No,No,Rarely,1-5,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,Unsure,Unsure,No,No,No,No,Unknown,No,55+,North America,United States
+38,Male,United States,AL,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Unknown,4,Unsure,No,Unsure,Unsure,No,No,Unknown,No,35-44,North America,United States
+31,Female,Belgium,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,Unknown,Unknown,No,No,Yes,0,Unsure,No,Unsure,Unsure,No,No,Unknown,No,25-34,Europe,Other
+40,Male,United States,AL,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,4,Unsure,No,Unsure,No,No,No,Yes,No,35-44,North America,United States
+44,Male,United States,OH,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,Yes,Yes,4,Unsure,No,Unsure,Unsure,No,No,Unknown,No,35-44,North America,United States
+34,Male,Canada,UNKNOWN,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Unknown,Yes,Yes,Yes,4,Unsure,No,No,No,No,Unsure,Unknown,No,25-34,North America,Canada
+37,Male,United Kingdom,UNKNOWN,No,No,No,Never,26-100,Yes,Yes,Unknown,No,No,No,Unknown,1,No,No,Unsure,Yes,No,Yes,Unknown,No,35-44,Europe,United Kingdom
+38,Male,Italy,UNKNOWN,No,No,No,Never,26-100,No,Yes,Unknown,Unknown,Unknown,Unknown,Yes,4,No,No,Unsure,Yes,Yes,Unsure,No,No,35-44,Europe,Other
+27,Male,Germany,UNKNOWN,No,No,No,Unknown,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,4,No,No,Unsure,Yes,Yes,Yes,Unknown,No,25-34,Europe,Germany
+34,Female,Ireland,UNKNOWN,No,No,Yes,Sometimes,500-1000,No,No,Yes,Yes,Yes,No,Yes,4,Yes,Yes,Unsure,Unsure,No,No,Yes,No,25-34,Europe,Ireland
+35,Female,Ireland,UNKNOWN,No,No,No,Rarely,1-5,No,Yes,Unknown,No,No,No,No,4,Unsure,No,Unsure,No,No,Unsure,No,No,35-44,Europe,Ireland
+34,Male,Ireland,UNKNOWN,No,No,Yes,Often,6-25,No,Yes,No,No,No,No,Unknown,2,Yes,Unsure,Unsure,Yes,No,Unsure,No,No,25-34,Europe,Ireland
+32,Male,United States,TX,No,No,Yes,Often,26-100,Yes,Yes,Yes,Unknown,No,Unknown,Unknown,3,Yes,Unsure,Unsure,No,No,No,Unknown,No,25-34,North America,United States
+25,Male,Ireland,UNKNOWN,No,No,No,Unknown,100-500,No,Yes,Unknown,Unknown,No,Unknown,Unknown,4,Unsure,No,Unsure,Yes,No,No,Unknown,No,25-34,Europe,Ireland
+28,Male,Australia,UNKNOWN,No,No,Yes,Often,100-500,Yes,Yes,No,Yes,No,No,Unknown,4,Yes,No,No,No,No,Unsure,No,No,25-34,Oceania,Australia
+28,Female,United States,TX,No,No,Yes,Rarely,6-25,No,Yes,Yes,No,No,No,Unknown,1,Yes,Yes,Unsure,No,No,No,No,Yes,25-34,North America,United States
+31,Male,Brazil,UNKNOWN,Yes,No,Yes,Unknown,1-5,No,Yes,No,Yes,No,No,No,4,No,No,Yes,Yes,No,Unsure,Unknown,No,25-34,South America,Other
+24,Male,United Kingdom,UNKNOWN,No,No,No,Unknown,100-500,No,Yes,Unknown,Unknown,No,No,Unknown,1,Unsure,Unsure,Unsure,Yes,No,Unsure,Unknown,No,18-24,Europe,United Kingdom
+34,Male,Ireland,UNKNOWN,No,Yes,Yes,Never,1-5,Yes,Yes,No,No,No,No,Unknown,4,Unsure,No,Unsure,Yes,No,No,Unknown,No,25-34,Europe,Ireland
+32,Male,Ireland,UNKNOWN,No,No,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Unknown,1,No,No,Unsure,Yes,No,Unsure,Unknown,No,25-34,Europe,Ireland
+34,Male,United Kingdom,UNKNOWN,No,Yes,No,Often,26-100,Yes,No,Unknown,Unknown,No,No,Unknown,1,Unsure,No,Unsure,Yes,Unsure,Yes,Yes,No,25-34,Europe,United Kingdom
+23,Male,United States,TX,No,No,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,No,0,Unsure,Unsure,Unsure,Yes,No,No,No,No,18-24,North America,United States
+33,Male,Czech Republic,UNKNOWN,No,Yes,No,Often,100-500,No,Yes,No,Yes,No,No,Unknown,1,No,No,Unsure,Yes,Unsure,Unsure,Unknown,Yes,25-34,Europe,Other
+29,Male,Singapore,UNKNOWN,No,Yes,Yes,Sometimes,26-100,No,Yes,Unknown,Unknown,No,No,Unknown,2,Unsure,No,No,No,No,Unsure,No,No,25-34,Asia,Other
+24,Male,Ireland,UNKNOWN,No,Yes,No,Unknown,1-5,No,Yes,No,No,No,No,Unknown,4,Unsure,Unsure,No,No,No,No,Unknown,No,18-24,Europe,Ireland
+45,Male,Ireland,UNKNOWN,No,No,No,Never,More than 1000,Yes,Yes,Unknown,Unknown,No,No,Unknown,4,Yes,No,Yes,Unsure,No,No,No,Yes,45-54,Europe,Ireland
+34,Female,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,More than 1000,No,No,No,Yes,No,Yes,Yes,2,Unsure,Unsure,Unsure,Yes,No,Unsure,No,Yes,25-34,Europe,United Kingdom
+31,Male,Philippines,UNKNOWN,No,No,No,Sometimes,More than 1000,No,Yes,Unknown,No,No,No,Unknown,3,Yes,Yes,Unsure,No,No,Unsure,No,Yes,25-34,Asia,Other
+33,Male,United States,FL,No,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Yes,4,Unsure,No,Unsure,No,No,Unsure,Unknown,No,25-34,North America,United States
+28,Male,Netherlands,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,Unknown,No,No,Unknown,1,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,25-34,Europe,Netherlands
+27,Male,United Kingdom,UNKNOWN,No,No,No,Rarely,More than 1000,Yes,No,Unknown,Unknown,No,Yes,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,25-34,Europe,United Kingdom
+42,Male,Ireland,UNKNOWN,No,No,No,Never,26-100,No,Yes,No,Yes,No,No,No,2,Yes,Yes,Unsure,Unsure,No,No,No,No,35-44,Europe,Ireland
+28,Male,Netherlands,UNKNOWN,No,No,No,Unknown,6-25,No,Yes,No,Unknown,No,No,Unknown,1,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,25-34,Europe,Netherlands
+38,Male,United States,TX,No,No,Yes,Sometimes,More than 1000,Yes,Yes,Yes,No,Yes,Yes,Yes,0,No,No,Yes,Yes,No,No,Unknown,No,35-44,North America,United States
+46,Male,United States,CA,No,Yes,Yes,Often,26-100,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,No,Unsure,No,No,No,No,No,45-54,North America,United States
+46,Male,United States,MD,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,4,No,No,Unsure,Yes,Yes,Yes,Unknown,No,45-54,North America,United States
+41,Female,Netherlands,UNKNOWN,Yes,No,Yes,Rarely,1-5,Yes,Yes,Unknown,Yes,Unknown,Yes,No,1,No,No,Yes,Yes,Yes,Yes,Yes,No,35-44,Europe,Netherlands
+23,Male,United Kingdom,UNKNOWN,No,No,No,Never,26-100,No,Yes,Unknown,No,No,No,Unknown,1,Unsure,No,Unsure,Unsure,No,Unsure,Yes,Yes,18-24,Europe,United Kingdom
+24,Male,Ireland,UNKNOWN,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Unknown,1,Unsure,No,Unsure,No,No,Unsure,Yes,Yes,18-24,Europe,Ireland
+23,Female,Ireland,UNKNOWN,No,No,Yes,Rarely,26-100,No,Yes,No,Yes,Yes,No,Unknown,4,No,No,Yes,Unsure,No,Unsure,Unknown,No,18-24,Europe,Ireland
+39,Male,Netherlands,UNKNOWN,No,No,No,Unknown,More than 1000,No,No,Yes,Unknown,Yes,Unknown,Unknown,1,Unsure,Unsure,No,Unsure,No,No,Yes,No,35-44,Europe,Netherlands
+32,Female,Ireland,UNKNOWN,No,Yes,No,Never,More than 1000,No,Yes,Yes,Yes,Unknown,Yes,Yes,4,Unsure,No,Unsure,Unsure,No,No,Unknown,No,25-34,Europe,Ireland
+25,Male,United States,MN,No,Yes,Yes,Sometimes,26-100,No,Yes,Unknown,Yes,No,No,Unknown,1,Yes,No,Unsure,Unsure,No,Unsure,Unknown,No,25-34,North America,United States
+39,Male,Greece,UNKNOWN,No,No,No,Unknown,6-25,Yes,Yes,No,No,No,No,Yes,4,Yes,No,No,No,No,No,Unknown,No,35-44,Europe,Other
+23,Female,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No,Yes,Yes,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,18-24,Europe,United Kingdom
+24,Male,United Kingdom,UNKNOWN,Yes,No,Yes,Sometimes,6-25,Yes,Yes,No,No,No,No,Unknown,4,Unsure,Unsure,Unsure,Unsure,No,Unsure,Unknown,Yes,18-24,Europe,United Kingdom
+25,Male,United Kingdom,UNKNOWN,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,0,No,No,Yes,Yes,Yes,Yes,Yes,No,25-34,Europe,United Kingdom
+23,Male,United Kingdom,UNKNOWN,No,No,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Unknown,4,No,No,Yes,Yes,No,Unsure,Unknown,No,18-24,Europe,United Kingdom
+24,Others,United Kingdom,UNKNOWN,No,No,Yes,Sometimes,6-25,No,No,Unknown,No,No,Unknown,Unknown,4,Yes,Unsure,No,No,No,Unsure,Unknown,No,18-24,Europe,United Kingdom
+23,Male,Canada,UNKNOWN,No,No,Yes,Often,26-100,No,Yes,Yes,Yes,Yes,Unknown,Unknown,4,Unsure,No,Yes,Unsure,No,No,Unknown,No,18-24,North America,Canada
+60,Male,United States,CA,No,No,Yes,Often,More than 1000,Yes,Yes,Unknown,No,Yes,Unknown,Unknown,1,Unsure,Unsure,Unsure,No,No,Unsure,Unknown,No,55+,North America,United States
+28,Male,Ireland,UNKNOWN,No,No,No,Sometimes,26-100,No,Yes,No,Yes,No,No,Yes,4,Yes,Unsure,No,No,No,No,No,Yes,25-34,Europe,Ireland
+28,Male,United States,TN,No,Yes,Yes,Often,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,1,Yes,Unsure,Unsure,Yes,No,No,No,Yes,25-34,North America,United States
+30,Male,Netherlands,UNKNOWN,No,No,No,Sometimes,500-1000,No,Yes,Unknown,No,No,No,Unknown,4,Unsure,No,Yes,Yes,Unsure,Yes,Unknown,No,25-34,Europe,Netherlands
+31,Male,Germany,UNKNOWN,No,Yes,Yes,Sometimes,100-500,No,Yes,Unknown,No,No,No,Yes,1,No,No,Unsure,No,No,No,Unknown,No,25-34,Europe,Germany
+31,Male,Poland,UNKNOWN,Yes,No,Yes,Often,6-25,Yes,Yes,No,No,No,No,Unknown,1,Unsure,No,Unsure,No,No,No,Unknown,No,25-34,Europe,Other
+28,Male,Ireland,UNKNOWN,No,No,Yes,Rarely,26-100,No,Yes,Unknown,No,No,Unknown,Unknown,4,Unsure,No,No,No,No,Unsure,Unknown,No,25-34,Europe,Ireland
+43,Female,United States,FL,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,Yes,Unknown,4,No,No,Unsure,Yes,No,No,Unknown,No,35-44,North America,United States
+32,Female,United Kingdom,UNKNOWN,No,No,No,Unknown,More than 1000,No,No,No,No,No,Unknown,Unknown,4,Unsure,No,Unsure,Yes,No,Yes,No,No,25-34,Europe,United Kingdom
+22,Male,Australia,UNKNOWN,No,Yes,Yes,Often,100-500,No,No,Yes,Yes,Yes,Yes,Yes,4,Unsure,Unsure,No,Yes,No,Unsure,Unknown,Yes,18-24,Oceania,Australia
+32,Male,United States,OR,No,No,No,Never,100-500,No,Yes,Yes,Unknown,Unknown,Yes,Unknown,1,No,No,No,Unsure,Unsure,Yes,Unknown,No,25-34,North America,United States
+36,Male,Finland,UNKNOWN,No,No,Yes,Often,6-25,No,Yes,No,No,No,No,No,3,Yes,No,Unsure,No,No,Unsure,Unknown,Yes,35-44,Europe,Other
+41,Female,United States,WA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No,Unknown,Unknown,4,Yes,Unsure,No,No,No,No,Unknown,No,35-44,North America,United States
+30,Male,United States,CA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Unknown,No,Yes,0,No,No,Yes,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+30,Male,United States,CA,Yes,Yes,Yes,Often,26-100,No,Yes,Yes,Unknown,Yes,Yes,Unknown,4,No,No,Unsure,Yes,Unsure,Unsure,Yes,No,25-34,North America,United States
+36,Male,South Africa,UNKNOWN,No,Yes,Yes,Often,100-500,No,No,No,Yes,No,No,Unknown,1,No,No,Unsure,Yes,No,Yes,Yes,No,35-44,Africa,Other
+29,Male,United States,NC,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,Yes,No,Yes,4,Yes,No,Unsure,No,No,Unsure,No,No,25-34,North America,United States
+36,Male,United States,UT,No,Yes,No,Rarely,More than 1000,No,No,Unknown,No,Yes,Yes,Unknown,1,Unsure,Unsure,Unsure,Unsure,No,No,Unknown,No,35-44,North America,United States
+26,Male,United Kingdom,UNKNOWN,No,No,Yes,Unknown,26-100,No,Yes,No,No,No,No,Unknown,1,No,No,Unsure,Unsure,No,No,Unknown,No,25-34,Europe,United Kingdom
+32,Male,United States,IL,No,Yes,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Yes,2,No,No,Unsure,Yes,No,No,Yes,No,25-34,North America,United States
+34,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Unknown,2,Yes,Yes,No,No,No,No,No,No,25-34,North America,United States
+46,Female,United States,NC,No,No,No,Unknown,100-500,Yes,Yes,No,Yes,No,No,Unknown,4,Yes,No,No,No,No,No,No,No,45-54,North America,United States
+25,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Yes,4,Unsure,No,Unsure,No,No,No,Unknown,No,25-34,North America,United States
