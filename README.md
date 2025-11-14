@@ -198,8 +198,13 @@ Strongest predictor of treatment-seeking:
 
 # 📁 Dataset
 
-A cleaned version of the dataset is included:
-cleaned_mental_health_data.csv
+This project uses the **OSMI Mental Health in Tech Survey** dataset.
+
+- Original raw dataset on Kaggle:  
+  [Mental Health in Tech Survey – OSMI](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey/data)
+
+- Cleaned, analysis-ready file used in this project:  
+  [`cleaned_mental_health_data.csv`](./cleaned_mental_health_data.csv)
 
 ---
 
