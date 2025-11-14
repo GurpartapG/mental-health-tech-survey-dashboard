@@ -19,8 +19,9 @@ Mental health challenges are widespread in tech, yet awareness, benefits, and su
 
 ```
 mental_health_analysis/
-│── cleaned_mental_health_data.csv
-│── mental_health_analysis.ipynb
+│── cleaned_mental_health_data.csv ← (cleaned dataset used for analysis)
+│── mental_health_analysis.ipynb ← (EDA & statistics notebook)
+│── mental_health_in_tech_dashboard.pbix ← (Power BI dashboard)
 │── README.md ← (this file)
 └── images/ ← (visuals exported from the notebook)
 ```
