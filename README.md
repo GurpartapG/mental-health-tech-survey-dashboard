@@ -18,7 +18,7 @@ Mental health challenges are widespread in tech, yet awareness, benefits, and su
 ## 📁 Project Structure
 
 ```
-mental_health_analysis/
+mental_health_tech_survey_dashboard/
 │── cleaned_mental_health_data.csv ← (cleaned dataset used for analysis)
 │── mental_health_analysis.ipynb ← (EDA & statistics notebook)
 │── mental_health_in_tech_dashboard.pbix ← (Power BI dashboard)
